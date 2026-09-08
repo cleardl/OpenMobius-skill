@@ -55,9 +55,7 @@
   "merge_strategy": "cross_project_synthesis",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
-  "illustrated_by_cases": [
-    "Education_-_ICT__IJcfC6wAPZU_case_006_英镑美元_gbpusd_日线至月线范围交易"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "reversal_sequence",
   "canonical_term": "Reversal Sequence",
   "_embedding": [

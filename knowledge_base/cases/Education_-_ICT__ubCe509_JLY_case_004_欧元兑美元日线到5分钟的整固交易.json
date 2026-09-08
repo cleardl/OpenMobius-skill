@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Change in the state of delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
@@ -52,7 +47,6 @@
   "illustrates_concepts": [
     "fair_value_gap",
     "order_block",
-    "consolidation",
     "change_in_state_of_delivery",
     "propulsion_block",
     "accumulation_manipulation_distribution",

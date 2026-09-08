@@ -17,42 +17,12 @@
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
-    },
-    {
-      "term": "硬止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
-    },
-    {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
-      "term": "上一支眼",
-      "global_card_id": "上一支眼",
-      "exists": true
-    },
-    {
-      "term": "R值",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "终结楔形",
-      "global_card_id": "ending_diagonal",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
     "liquidity_sweep",
-    "order_block",
-    "hard_stop_close_stop",
-    "support_and_resistance_flip",
-    "上一支眼",
-    "risk_to_reward_ratio",
-    "ending_diagonal"
+    "order_block"
   ],
   "school": "SMC",
   "asset": "GOLD",

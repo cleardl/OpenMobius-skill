@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "OTE (Optimal Trade Entry)",
       "global_card_id": null,
       "exists": false
@@ -51,7 +46,6 @@
   ],
   "illustrates_concepts": [
     "fibonacci_retracement",
-    "swing_high",
     "sell_side_liquidity",
     "premium_discount_array",
     "fair_value_gap",

@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Impulsive Move",
-      "global_card_id": "impulse_move",
-      "exists": true
-    },
-    {
       "term": "Corrective Move",
       "global_card_id": "corrective_move",
       "exists": true
@@ -33,7 +28,6 @@
     "fibonacci_retracement",
     "premium",
     "discount",
-    "impulse_move",
     "corrective_move"
   ],
   "school": "ICT",

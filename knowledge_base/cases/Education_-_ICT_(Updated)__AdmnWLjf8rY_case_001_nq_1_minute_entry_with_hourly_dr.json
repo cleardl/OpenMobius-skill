@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
@@ -55,7 +50,6 @@
     "smart_money_technique",
     "liquidity_sweep",
     "discount",
-    "risk_to_reward_ratio",
     "change_in_state_of_delivery",
     "top_down_analysis"
   ],

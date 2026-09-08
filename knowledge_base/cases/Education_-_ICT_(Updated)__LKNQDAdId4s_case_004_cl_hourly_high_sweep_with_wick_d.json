@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
@@ -43,7 +38,6 @@
     "mean_threshold",
     "consequent_encroachment",
     "liquidity_sweep",
-    "reversal_candle",
     "change_in_state_of_delivery",
     "failure_swing",
     "expansion"

@@ -27,11 +27,6 @@
       "term": "Manipulation Leg",
       "global_card_id": "manipulation_leg",
       "exists": true
-    },
-    {
-      "term": "Swing High/Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -39,8 +34,7 @@
     "fibonacci_projection",
     "order_block",
     "liquidity",
-    "manipulation_leg",
-    "swing_high_swing_low"
+    "manipulation_leg"
   ],
   "school": "ICT",
   "asset": "GOLD",

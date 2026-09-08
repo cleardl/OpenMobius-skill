@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
-    },
-    {
       "term": "Intraweek Reversal",
       "global_card_id": "midweek_reversal",
       "exists": true
@@ -39,7 +34,6 @@
     "candle_two_closure",
     "fair_value_gap",
     "point_of_interest",
-    "swing_point",
     "midweek_reversal"
   ],
   "school": "ICT",

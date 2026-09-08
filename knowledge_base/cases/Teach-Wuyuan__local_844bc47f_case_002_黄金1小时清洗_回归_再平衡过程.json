@@ -27,16 +27,6 @@
       "term": "看涨订单块",
       "global_card_id": "order_block",
       "exists": true
-    },
-    {
-      "term": "HVN",
-      "global_card_id": "high_volume_node",
-      "exists": true
-    },
-    {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -44,9 +34,7 @@
     "market_structure_shift",
     "change_of_character",
     "fair_value_gap",
-    "order_block",
-    "high_volume_node",
-    "support_and_resistance_flip"
+    "order_block"
   ],
   "school": "SMC",
   "asset": "GOLD",

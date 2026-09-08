@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
@@ -58,7 +53,6 @@
     "buy_side_liquidity",
     "sell_side_liquidity",
     "fair_value_gap",
-    "swing_high",
     "order_block",
     "displacement",
     "session_high_and_low",

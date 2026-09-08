@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "LVN",
-      "global_card_id": "low_volume_node",
-      "exists": true
-    },
-    {
       "term": "看跌订单块",
       "global_card_id": "order_block",
       "exists": true
@@ -32,39 +27,14 @@
       "term": "供应区",
       "global_card_id": "supply_zone",
       "exists": true
-    },
-    {
-      "term": "顶背离",
-      "global_card_id": "top_bottom_divergence",
-      "exists": true
-    },
-    {
-      "term": "VRVP",
-      "global_card_id": "vrvp",
-      "exists": true
-    },
-    {
-      "term": "通用线",
-      "global_card_id": "btm",
-      "exists": true
-    },
-    {
-      "term": "扩缩级验证",
-      "global_card_id": "level_expansion_validation",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "liquidity",
     "liquidity_sweep",
     "fair_value_gap_rebalance",
-    "low_volume_node",
     "order_block",
-    "supply_zone",
-    "top_bottom_divergence",
-    "vrvp",
-    "btm",
-    "level_expansion_validation"
+    "supply_zone"
   ],
   "school": "SMC",
   "asset": "GOLD",

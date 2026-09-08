@@ -34,16 +34,6 @@
       "exists": true
     },
     {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
-    },
-    {
-      "term": "Wick Formation",
-      "global_card_id": "wick_formation",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -56,8 +46,6 @@
     "fair_value_gap",
     "equilibrium",
     "htf_key_level",
-    "swing_point",
-    "wick_formation",
     "market_structure"
   ],
   "school": "ICT",

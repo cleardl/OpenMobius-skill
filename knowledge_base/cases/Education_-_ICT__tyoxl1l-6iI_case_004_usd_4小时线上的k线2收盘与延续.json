@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Change in State of Delivery (CSD)",
       "global_card_id": null,
       "exists": false
@@ -47,7 +42,6 @@
   "illustrates_concepts": [
     "candle_two_closure",
     "displacement",
-    "retracement",
     "fractal",
     "order_block",
     "fair_value_gap"

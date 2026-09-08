@@ -47,11 +47,6 @@
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
       "exists": true
-    },
-    {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -63,8 +58,7 @@
     "fractal_model",
     "daily_bias",
     "v_shaped_reversal",
-    "fair_value_gap",
-    "risk_to_reward_ratio"
+    "fair_value_gap"
   ],
   "school": "ICT",
   "asset": "ETH",

@@ -34,16 +34,6 @@
       "exists": true
     },
     {
-      "term": "Higher High",
-      "global_card_id": "higher_high",
-      "exists": true
-    },
-    {
-      "term": "Higher Low",
-      "global_card_id": "higher_low",
-      "exists": true
-    },
-    {
       "term": "PD Array",
       "global_card_id": "premium_discount_array",
       "exists": true
@@ -56,8 +46,6 @@
     "change_of_character",
     "displacement",
     "market_structure_shift",
-    "higher_high",
-    "higher_low",
     "premium_discount_array"
   ],
   "school": "ICT",

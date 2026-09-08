@@ -4,11 +4,6 @@
   "title": "DXY Bearish Bias: Pairing USD/JPY and EUR/USD for Daily Expansion",
   "related_concepts": [
     {
-      "term": "Intermarket Analysis",
-      "global_card_id": "intermarket_analysis",
-      "exists": true
-    },
-    {
       "term": "Relative Strength",
       "global_card_id": "relative_strength_and_weakness",
       "exists": true
@@ -35,7 +30,6 @@
     }
   ],
   "illustrates_concepts": [
-    "intermarket_analysis",
     "relative_strength_and_weakness",
     "daily_bias",
     "expansion",

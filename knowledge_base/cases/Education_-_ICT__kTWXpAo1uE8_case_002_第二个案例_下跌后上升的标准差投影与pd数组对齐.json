@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Max Expansion",
       "global_card_id": "max_expansion",
       "exists": true
@@ -57,7 +52,6 @@
     "manipulation_leg",
     "fair_value_gap",
     "sell_side_liquidity",
-    "retracement",
     "max_expansion"
   ],
   "school": "ICT",

@@ -42,11 +42,6 @@
       "term": "Point of Interest",
       "global_card_id": "point_of_interest",
       "exists": true
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "change_in_state_of_delivery",
     "weekly_profile",
     "liquidity_sweep",
-    "point_of_interest",
-    "phases_of_price"
+    "point_of_interest"
   ],
   "school": "ICT",
   "asset": "apoz USD",

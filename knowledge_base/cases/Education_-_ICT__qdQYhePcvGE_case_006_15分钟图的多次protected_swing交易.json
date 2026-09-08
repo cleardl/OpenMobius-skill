@@ -29,18 +29,8 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Retest",
       "global_card_id": "retest",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
       "exists": true
     },
     {
@@ -55,9 +45,7 @@
     "order_block",
     "liquidity",
     "market_structure_shift",
-    "consolidation",
     "retest",
-    "swing_low",
     "multiple_timeframe_analysis"
   ],
   "school": "ICT",

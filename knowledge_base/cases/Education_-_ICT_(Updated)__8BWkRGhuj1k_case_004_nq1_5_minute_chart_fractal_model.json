@@ -9,18 +9,8 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Expansion",
       "global_card_id": "expansion",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
       "exists": true
     },
     {
@@ -51,9 +41,7 @@
   ],
   "illustrates_concepts": [
     "fractal_model",
-    "phases_of_price",
     "expansion",
-    "retracement",
     "change_in_state_of_delivery",
     "higher_time_frame",
     "lower_time_frame",

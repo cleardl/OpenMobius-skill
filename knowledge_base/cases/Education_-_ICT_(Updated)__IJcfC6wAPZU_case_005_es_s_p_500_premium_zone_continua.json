@@ -47,11 +47,6 @@
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -63,8 +58,7 @@
     "standard_deviation_projection",
     "liquidity_sweep",
     "top_down_analysis",
-    "order_block",
-    "risk_to_reward_ratio"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "ES1!",

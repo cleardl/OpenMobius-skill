@@ -4,16 +4,6 @@
   "title": "NQ Daily Bearish Candle Breakdown: Asia Accumulation, London Breakdown, NY Close Near Low",
   "related_concepts": [
     {
-      "term": "Open High Low Close",
-      "global_card_id": "open_high_low_close",
-      "exists": true
-    },
-    {
-      "term": "Directional Candle",
-      "global_card_id": "directional_candle",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -45,8 +35,6 @@
     }
   ],
   "illustrates_concepts": [
-    "open_high_low_close",
-    "directional_candle",
     "displacement",
     "accumulation_manipulation_distribution",
     "asia_session",

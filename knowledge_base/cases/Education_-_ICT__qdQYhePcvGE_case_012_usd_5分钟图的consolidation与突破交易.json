@@ -4,11 +4,6 @@
   "title": "USD 5分钟盘整中等高点的SMT反转交易",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Equal Highs",
       "global_card_id": "equal_highs",
       "exists": true
@@ -39,23 +34,16 @@
       "exists": true
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "V-shaped Reversal",
       "global_card_id": "v_shaped_reversal",
       "exists": true
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
     "equal_highs",
     "order_block",
     "sell_side_liquidity",
     "market_structure",
-    "risk_management",
     "v_shaped_reversal"
   ],
   "school": "ICT",

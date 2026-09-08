@@ -47,11 +47,6 @@
       "term": "Premium / Discount",
       "global_card_id": "premium_and_discount",
       "exists": true
-    },
-    {
-      "term": "Risk Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -61,8 +56,7 @@
     "previous_day_low",
     "midnight_open",
     "equilibrium",
-    "premium_and_discount",
-    "risk_to_reward_ratio"
+    "premium_and_discount"
   ],
   "school": "ICT",
   "asset": "EURCAD",

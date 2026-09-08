@@ -4,11 +4,6 @@
   "title": "BTC 1小时：盘整内虚假突破的识别与风险规避",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Inducement",
       "global_card_id": "inducement",
       "exists": true
@@ -24,22 +19,15 @@
       "exists": true
     },
     {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
       "term": "Continuation vs Reversal",
       "global_card_id": "continuation_vs_reversal",
       "exists": true
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
     "inducement",
     "order_block",
     "market_structure",
-    "price_action",
     "continuation_vs_reversal"
   ],
   "school": "SMC",

@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Smart Money Technique",
       "global_card_id": "smart_money_technique",
       "exists": true
@@ -42,23 +37,16 @@
       "term": "Equal Highs",
       "global_card_id": "equal_highs",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
     "fair_value_gap",
-    "reversal_candle",
     "smart_money_technique",
     "change_in_state_of_delivery",
     "protected_swing",
     "displacement",
-    "equal_highs",
-    "risk_management"
+    "equal_highs"
   ],
   "school": "ICT",
   "asset": "USD",

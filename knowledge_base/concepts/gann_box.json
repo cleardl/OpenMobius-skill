@@ -35,10 +35,7 @@
   "merge_strategy": "single_source_passthrough",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": null,
-  "illustrated_by_cases": [
-    "SMC-Supplement-PLv-X125__trx_M2Bss-c_case_001_ger40_1h_hidden_bullish_divergen",
-    "SMC-Supplement-PLv-X125__trx_M2Bss-c_case_002_ger40_1h_hidden_bearish_divergen"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "gann_box",
   "canonical_term": "Gann Box",
   "_embedding": [

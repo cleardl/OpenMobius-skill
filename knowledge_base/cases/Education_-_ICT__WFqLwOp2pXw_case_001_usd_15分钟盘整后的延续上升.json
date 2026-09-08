@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -53,7 +48,6 @@
     "protected_swing",
     "fair_value_gap",
     "order_block",
-    "consolidation",
     "displacement",
     "equilibrium"
   ],

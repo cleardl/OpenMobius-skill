@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Manipulation Leg",
       "global_card_id": "manipulation_leg",
       "exists": true
@@ -57,7 +52,6 @@
   "illustrates_concepts": [
     "accumulation_manipulation_distribution",
     "liquidity_sweep",
-    "consolidation",
     "manipulation_leg",
     "expansion",
     "change_of_character",

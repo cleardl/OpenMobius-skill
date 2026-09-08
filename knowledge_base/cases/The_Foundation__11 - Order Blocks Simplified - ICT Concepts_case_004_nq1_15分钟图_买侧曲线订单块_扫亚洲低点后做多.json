@@ -44,11 +44,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Killzone",
       "global_card_id": "kill_zone",
       "exists": true
@@ -68,7 +63,6 @@
     "fair_value_gap",
     "mean_threshold",
     "failure_swing",
-    "risk_to_reward_ratio",
     "kill_zone",
     "accumulation_manipulation_distribution"
   ],

@@ -14,18 +14,8 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
-      "exists": true
-    },
-    {
-      "term": "EMA60",
-      "global_card_id": "ema60",
       "exists": true
     },
     {
@@ -42,29 +32,15 @@
       "term": "飞波回撤",
       "global_card_id": "fibonacci_retracement",
       "exists": true
-    },
-    {
-      "term": "R值",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "收线止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
     "order_block",
-    "support_and_resistance_flip",
     "liquidity_sweep",
-    "ema60",
     "demand_zone",
     "supply_zone",
-    "fibonacci_retracement",
-    "risk_to_reward_ratio",
-    "hard_stop_close_stop"
+    "fibonacci_retracement"
   ],
   "school": "SMC",
   "asset": "GOLD",

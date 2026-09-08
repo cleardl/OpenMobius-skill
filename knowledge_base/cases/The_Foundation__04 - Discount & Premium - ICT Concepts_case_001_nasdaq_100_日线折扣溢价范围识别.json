@@ -34,16 +34,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Buy Side Liquidity",
       "global_card_id": "buy_side_liquidity",
       "exists": true
@@ -51,11 +41,6 @@
     {
       "term": "Sell Side Liquidity",
       "global_card_id": "sell_side_liquidity",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
       "exists": true
     }
   ],
@@ -66,11 +51,8 @@
     "fibonacci_retracement",
     "fair_value_gap",
     "premium_discount_array",
-    "swing_high",
-    "swing_low",
     "buy_side_liquidity",
-    "sell_side_liquidity",
-    "risk_to_reward_ratio"
+    "sell_side_liquidity"
   ],
   "school": "ICT",
   "asset": "NQ1!",

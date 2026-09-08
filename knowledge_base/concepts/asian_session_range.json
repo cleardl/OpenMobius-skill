@@ -62,14 +62,8 @@
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
   "illustrated_by_cases": [
-    "Daily_Profiles__4WCiIyCiBrQ_case_001_nq_seek_and_destroy_consolidatio",
-    "Daily_Profiles__4WCiIyCiBrQ_case_002_eur_usd_15_minute_seek_and_destr",
-    "Daily_Profiles__IeXtmeKqjnQ_case_002_light_crude_oil_futures_cl1_bull",
-    "Daily_Profiles__IeXtmeKqjnQ_case_003_light_crude_oil_futures_cl1_bear",
     "Education_-_ICT_(Updated)__4WCiIyCiBrQ_case_001_nq_15_minute_seek_and_destroy_ex",
     "Education_-_ICT_(Updated)__4WCiIyCiBrQ_case_002_eur_usd_15_minute_seek_and_destr",
-    "Education_-_ICT_(Updated)__TCFvsZeYvV8_case_003_daily_candle_amd_london_manipula",
-    "Education_-_ICT_(Updated)__Tjk9bXERZy0_case_004_seek_and_destroy_examples_with_s",
     "Education_-_ICT_(Updated)__YESqIoA7Wyg_case_004_es_15_minute_session_liquidity_a",
     "Education_-_ICT_(Updated)__wik00c9_2nk_case_002_gc1_bullish_bias_with_asia_highs",
     "Education_-_ICT_(Updated)__y6SnEdASVLY_case_004_bearish_es_london_reversal_examp"

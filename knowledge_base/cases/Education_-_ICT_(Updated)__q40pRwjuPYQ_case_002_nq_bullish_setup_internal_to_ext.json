@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Up-Close Candle",
-      "global_card_id": "up_close_candle",
-      "exists": true
-    },
-    {
       "term": "Optimal Trade Entry",
       "global_card_id": "optimal_trade_entry",
       "exists": true
@@ -44,7 +39,6 @@
     "external_range_liquidity",
     "fair_value_gap",
     "liquidity_sweep",
-    "up_close_candle",
     "optimal_trade_entry",
     "market_structure_shift"
   ],

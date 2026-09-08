@@ -14,33 +14,8 @@
       "exists": true
     },
     {
-      "term": "终结楔形",
-      "global_card_id": "ending_diagonal",
-      "exists": true
-    },
-    {
-      "term": "顶背离",
-      "global_card_id": "top_bottom_divergence",
-      "exists": true
-    },
-    {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "流动性",
       "global_card_id": "liquidity",
-      "exists": true
-    },
-    {
-      "term": "RSI",
-      "global_card_id": "relative_strength_index",
-      "exists": true
-    },
-    {
-      "term": "MACD",
-      "global_card_id": "moving_average_convergence_divergence",
       "exists": true
     },
     {
@@ -57,12 +32,7 @@
   "illustrates_concepts": [
     "supply_zone",
     "order_block",
-    "ending_diagonal",
-    "top_bottom_divergence",
-    "support_and_resistance_flip",
     "liquidity",
-    "relative_strength_index",
-    "moving_average_convergence_divergence",
     "fibonacci_retracement"
   ],
   "school": "SMC",

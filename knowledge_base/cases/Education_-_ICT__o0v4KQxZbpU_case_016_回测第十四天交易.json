@@ -37,11 +37,6 @@
       "term": "Entry Model",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -50,8 +45,7 @@
     "displacement",
     "fair_value_gap",
     "breaker_block",
-    "order_block",
-    "price_action"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "NAS100",

@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -37,11 +32,6 @@
       "term": "RSI超卖区",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "VRVP",
-      "global_card_id": "vrvp",
-      "exists": true
     },
     {
       "term": "右侧入场",
@@ -54,9 +44,7 @@
     "market_structure_shift",
     "break_of_structure",
     "breaker_block",
-    "support_and_resistance_flip",
-    "liquidity_sweep",
-    "vrvp"
+    "liquidity_sweep"
   ],
   "school": "SMC",
   "asset": "GOLD（黄金差价合约 美元/盎司）",

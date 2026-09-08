@@ -34,18 +34,8 @@
       "exists": true
     },
     {
-      "term": "Swing High/Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
-    },
-    {
       "term": "Liquidity",
       "global_card_id": "liquidity",
-      "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
       "exists": true
     }
   ],
@@ -56,9 +46,7 @@
     "breaker_block",
     "market_structure_shift",
     "premium_discount_array",
-    "swing_high_swing_low",
-    "liquidity",
-    "price_action"
+    "liquidity"
   ],
   "school": "ICT",
   "asset": "NQ1!",

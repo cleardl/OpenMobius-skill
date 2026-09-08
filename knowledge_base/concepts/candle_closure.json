@@ -53,15 +53,11 @@
   "merge_model": null,
   "illustrated_by_cases": [
     "Education_-_ICT_(Updated)__uPUNOi_R9fA_case_001_first_thursday_counter_example_o",
-    "Education_-_ICT__8BWkRGhuj1k_case_003_usd_日线7月2日至7月29日的整理_反转_延续案例",
-    "Education_-_ICT__CqMIh-Vvhbg_case_004_黄金期货gc1小时线与5分钟线的看涨设置",
-    "Education_-_ICT__HrjYoxAUb3s_case_002_美元看跌时的多货币对比分析",
     "Education_-_ICT__SlWxhzhLo3A_case_005_1分钟图反转扩张细节案例",
     "Education_-_ICT__c_mh19e3mhI_case_001_周三7月19日es与nq摆动点对比",
     "Education_-_ICT__c_mh19e3mhI_case_003_周五8月4日es与nq_order_block表现",
     "Education_-_ICT__eywpZT3z6GQ_case_002_ym指数小时线看跌扩张交易案例",
     "Education_-_ICT__tyoxl1l-6iI_case_002_apoz日线到小时线的分形验证",
-    "Education_-_ICT__vn1RYjhJUnQ_case_002_月线到日线的多时间框架验证",
     "Education_-_ICT__vn1RYjhJUnQ_case_003_日线c2闭合但低时间框架csd失败案例"
   ],
   "card_id": "candle_closure",

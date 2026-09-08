@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Silver Bullet Strategy",
-      "global_card_id": "silver_bullet_strategy",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -45,7 +40,6 @@
     "breaker_block",
     "liquidity",
     "market_structure",
-    "silver_bullet_strategy",
     "displacement"
   ],
   "school": "ICT",

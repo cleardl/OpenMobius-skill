@@ -36,9 +36,7 @@
   "merge_strategy": "single_source_passthrough",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": null,
-  "illustrated_by_cases": [
-    "Education_-_ICT__8BWkRGhuj1k_case_005_usd_5分钟图的低时间框架延续交易"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "continuation_signal",
   "canonical_term": "Continuation Signal",
   "_embedding": [

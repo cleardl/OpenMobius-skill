@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "V-shaped recovery",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -56,7 +51,6 @@
     "change_in_state_of_delivery",
     "protected_swing",
     "time_frame_alignment",
-    "retracement",
     "displacement"
   ],
   "school": "ICT",

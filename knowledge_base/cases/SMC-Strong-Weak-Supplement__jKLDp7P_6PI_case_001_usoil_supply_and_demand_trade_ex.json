@@ -29,11 +29,6 @@
       "exists": false
     },
     {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
       "term": "Target Level",
       "global_card_id": null,
       "exists": false
@@ -48,7 +43,6 @@
     "supply_and_demand_zones",
     "cluster_of_candles_method",
     "liquidity_grab",
-    "stop_loss",
     "market_structure"
   ],
   "school": "SMC",

@@ -14,34 +14,9 @@
       "exists": true
     },
     {
-      "term": "流动性缺口",
-      "global_card_id": "liquidity_gap",
-      "exists": true
-    },
-    {
-      "term": "EMA60",
-      "global_card_id": "ema60",
-      "exists": true
-    },
-    {
       "term": "供应区/阻力区",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
-      "term": "硬止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
-    },
-    {
-      "term": "R值（盈亏比）",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     },
     {
       "term": "减仓",
@@ -55,12 +30,7 @@
     }
   ],
   "illustrates_concepts": [
-    "fair_value_gap",
-    "liquidity_gap",
-    "ema60",
-    "support_and_resistance_flip",
-    "hard_stop_close_stop",
-    "risk_to_reward_ratio"
+    "fair_value_gap"
   ],
   "school": "SMC",
   "asset": "SILVER",

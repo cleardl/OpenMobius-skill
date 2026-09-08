@@ -37,11 +37,6 @@
       "term": "Sell Side Liquidity",
       "global_card_id": "sell_side_liquidity",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -50,8 +45,7 @@
     "change_in_state_of_delivery",
     "8_30_economic_news_release",
     "buy_side_liquidity",
-    "sell_side_liquidity",
-    "risk_to_reward_ratio"
+    "sell_side_liquidity"
   ],
   "school": "ICT",
   "asset": "CL1! (Light Crude Oil Futures)",

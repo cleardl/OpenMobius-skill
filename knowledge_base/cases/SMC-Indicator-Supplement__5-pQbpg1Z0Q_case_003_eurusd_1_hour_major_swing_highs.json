@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -43,7 +38,6 @@
     "break_of_structure",
     "major_swing",
     "market_structure",
-    "swing_high",
     "liquidity_sweep",
     "fair_value_gap",
     "change_of_character"

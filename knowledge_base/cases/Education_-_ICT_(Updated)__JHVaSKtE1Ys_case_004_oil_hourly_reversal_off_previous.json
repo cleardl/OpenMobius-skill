@@ -42,11 +42,6 @@
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
-    },
-    {
-      "term": "2R",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "mean_threshold",
     "retest_entry",
     "equal_highs",
-    "liquidity_sweep",
-    "risk_to_reward_ratio"
+    "liquidity_sweep"
   ],
   "school": "ICT",
   "asset": "CL1! (Crude Oil)",

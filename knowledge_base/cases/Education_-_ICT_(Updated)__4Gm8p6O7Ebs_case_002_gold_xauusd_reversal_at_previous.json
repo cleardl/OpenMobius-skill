@@ -29,18 +29,8 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Protected Swing",
       "global_card_id": "protected_swing",
-      "exists": true
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
       "exists": true
     },
     {
@@ -55,9 +45,7 @@
     "change_in_state_of_delivery",
     "reversal",
     "expansion",
-    "retracement",
     "protected_swing",
-    "phases_of_price",
     "opposing_candle"
   ],
   "school": "ICT",

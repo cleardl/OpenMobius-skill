@@ -4,11 +4,6 @@
   "title": "EURUSD 1H bearish setup using trading range, supply zone, FVG, and equal highs with 15-min entry and trailing stop",
   "related_concepts": [
     {
-      "term": "Trading Range",
-      "global_card_id": "trading_range",
-      "exists": true
-    },
-    {
       "term": "Supply Zone",
       "global_card_id": "supply_zone",
       "exists": true
@@ -39,25 +34,18 @@
       "exists": true
     },
     {
-      "term": "Trailing Stop",
-      "global_card_id": "trailing_stop_loss",
-      "exists": true
-    },
-    {
       "term": "Multi-Timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
     }
   ],
   "illustrates_concepts": [
-    "trading_range",
     "supply_zone",
     "fair_value_gap",
     "equal_highs",
     "protected_swing",
     "break_of_structure",
     "liquidity_sweep",
-    "trailing_stop_loss",
     "multiple_timeframe_analysis"
   ],
   "school": "SMC",

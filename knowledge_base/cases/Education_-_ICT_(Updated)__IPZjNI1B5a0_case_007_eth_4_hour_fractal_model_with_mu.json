@@ -44,11 +44,6 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -63,7 +58,6 @@
     "fair_value_gap",
     "t_spot",
     "expansion",
-    "phases_of_price",
     "liquidity_sweep"
   ],
   "school": "ICT",

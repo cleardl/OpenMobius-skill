@@ -32,11 +32,6 @@
       "term": "Fractal model",
       "global_card_id": "fractal_model",
       "exists": true
-    },
-    {
-      "term": "Risk/Reward ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -45,8 +40,7 @@
     "smart_money_technique",
     "market_structure_shift",
     "time_frame_alignment",
-    "fractal_model",
-    "risk_to_reward_ratio"
+    "fractal_model"
   ],
   "school": "ICT",
   "asset": "ETHUSDT",

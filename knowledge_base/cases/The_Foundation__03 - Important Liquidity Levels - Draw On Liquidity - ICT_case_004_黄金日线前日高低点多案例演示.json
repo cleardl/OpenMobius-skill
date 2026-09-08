@@ -24,18 +24,8 @@
       "exists": true
     },
     {
-      "term": "Indecision Candle",
-      "global_card_id": "indecision_candle",
-      "exists": true
-    },
-    {
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
-      "exists": true
-    },
-    {
-      "term": "Directional Candle",
-      "global_card_id": "directional_candle",
       "exists": true
     },
     {
@@ -49,9 +39,7 @@
     "previous_day_low",
     "draw_on_liquidity",
     "liquidity_sweep",
-    "indecision_candle",
     "fair_value_gap",
-    "directional_candle",
     "market_structure"
   ],
   "school": "ICT",

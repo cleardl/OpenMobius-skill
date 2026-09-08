@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Draw On Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
@@ -38,7 +33,6 @@
     "fair_value_gap",
     "candle_two_closure",
     "candle_three_closure",
-    "reversal_candle",
     "draw_on_liquidity",
     "bias"
   ],

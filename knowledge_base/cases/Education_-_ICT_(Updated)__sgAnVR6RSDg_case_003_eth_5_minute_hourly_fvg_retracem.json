@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Point of Interest",
       "global_card_id": "point_of_interest",
       "exists": true
@@ -38,7 +33,6 @@
     "fair_value_gap",
     "higher_time_frame",
     "market_structure_shift",
-    "retracement",
     "point_of_interest",
     "time_frame_alignment"
   ],

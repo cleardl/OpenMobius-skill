@@ -17,24 +17,12 @@
       "term": "流动性",
       "global_card_id": "liquidity",
       "exists": true
-    },
-    {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
-      "term": "VRVP",
-      "global_card_id": "vrvp",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "supply_zone",
     "order_block",
-    "liquidity",
-    "support_and_resistance_flip",
-    "vrvp"
+    "liquidity"
   ],
   "school": "SMC",
   "asset": "GOLD",

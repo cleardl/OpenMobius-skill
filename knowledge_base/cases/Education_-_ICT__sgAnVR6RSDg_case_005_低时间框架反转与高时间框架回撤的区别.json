@@ -27,16 +27,10 @@
       "term": "Order Block (OB)",
       "global_card_id": "order_block",
       "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "order_block",
-    "retracement"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "HCL11",

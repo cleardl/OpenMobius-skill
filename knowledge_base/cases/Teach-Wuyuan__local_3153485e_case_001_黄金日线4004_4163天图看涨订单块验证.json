@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "FVG",
       "global_card_id": "fair_value_gap",
       "exists": true
@@ -26,16 +21,6 @@
     {
       "term": "飞波回撤",
       "global_card_id": "fibonacci_retracement",
-      "exists": true
-    },
-    {
-      "term": "EMA60",
-      "global_card_id": "ema60",
-      "exists": true
-    },
-    {
-      "term": "EMA100",
-      "global_card_id": "ema100",
       "exists": true
     },
     {
@@ -52,11 +37,8 @@
   "illustrates_concepts": [
     "order_block",
     "breaker_block",
-    "support_and_resistance_flip",
     "fair_value_gap",
     "fibonacci_retracement",
-    "ema60",
-    "ema100",
     "demand_zone",
     "supply_zone"
   ],

@@ -9,18 +9,8 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
       "exists": true
     },
     {
@@ -36,9 +26,7 @@
   ],
   "illustrates_concepts": [
     "change_in_state_of_delivery",
-    "swing_high",
     "displacement",
-    "retracement",
     "expansion",
     "fair_value_gap"
   ],

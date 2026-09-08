@@ -4,11 +4,6 @@
   "title": "标普500期货纽约早盘交易范围与位移腿分析",
   "related_concepts": [
     {
-      "term": "Trading Range",
-      "global_card_id": "trading_range",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -45,7 +40,6 @@
     }
   ],
   "illustrates_concepts": [
-    "trading_range",
     "displacement",
     "fair_value_gap",
     "premium_and_discount",

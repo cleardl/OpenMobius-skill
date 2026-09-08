@@ -39,11 +39,6 @@
       "exists": false
     },
     {
-      "term": "Volume and Bounce",
-      "global_card_id": "volume_and_bounce",
-      "exists": true
-    },
-    {
       "term": "Market Structure Shift (MSS)",
       "global_card_id": null,
       "exists": false
@@ -55,8 +50,7 @@
     "smart_money_technique",
     "balanced_price_range",
     "equal_lows",
-    "low_resistance_liquidity",
-    "volume_and_bounce"
+    "low_resistance_liquidity"
   ],
   "school": "ICT",
   "asset": "ES",

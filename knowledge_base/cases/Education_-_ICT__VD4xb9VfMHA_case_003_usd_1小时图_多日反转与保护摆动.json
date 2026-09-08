@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Swing High / Swing Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
-    },
-    {
       "term": "Previous Day High",
       "global_card_id": "previous_day_high",
       "exists": true
@@ -46,7 +41,6 @@
   ],
   "illustrates_concepts": [
     "fair_value_gap",
-    "swing_high_swing_low",
     "previous_day_high",
     "expansion",
     "market_structure",

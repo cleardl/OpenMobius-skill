@@ -4,11 +4,6 @@
   "title": "ES1! Daily Bias Top-Down: Daily Closure to 4H Retracement to 15M Short Entry with NQ SMT",
   "related_concepts": [
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Daily Bias",
       "global_card_id": "daily_bias",
       "exists": true
@@ -42,29 +37,16 @@
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "phases_of_price",
     "daily_bias",
     "top_down_analysis",
     "previous_day_high",
     "change_in_state_of_delivery",
     "protected_swing",
     "smart_money_technique",
-    "liquidity_sweep",
-    "risk_to_reward_ratio",
-    "retracement"
+    "liquidity_sweep"
   ],
   "school": "ICT",
   "asset": "ES1!",

@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "2R",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Kill Zone",
       "global_card_id": "kill_zone",
       "exists": true
@@ -50,7 +45,6 @@
     "manipulation",
     "london_reversal",
     "new_york_continuation",
-    "risk_to_reward_ratio",
     "kill_zone",
     "propulsion_block"
   ],

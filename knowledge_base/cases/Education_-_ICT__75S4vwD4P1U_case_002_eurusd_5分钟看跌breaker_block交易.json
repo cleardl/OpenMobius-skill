@@ -32,11 +32,6 @@
       "term": "Unicorn Model",
       "global_card_id": "unicorn_model",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -45,8 +40,7 @@
     "fair_value_gap",
     "displacement",
     "market_structure",
-    "unicorn_model",
-    "risk_management"
+    "unicorn_model"
   ],
   "school": "ICT",
   "asset": "EURUSD",

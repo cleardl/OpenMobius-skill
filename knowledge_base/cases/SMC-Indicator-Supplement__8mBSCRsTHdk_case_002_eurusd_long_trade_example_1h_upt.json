@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Engulfing Candle",
-      "global_card_id": "engulfing_candle",
-      "exists": true
-    },
-    {
       "term": "Sellside Liquidity",
       "global_card_id": "sell_side_liquidity",
       "exists": true
@@ -37,22 +32,15 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Impulse Move",
-      "global_card_id": "impulse_move",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
     "liquidity_sweep",
     "break_of_structure",
-    "engulfing_candle",
     "sell_side_liquidity",
     "buy_side_liquidity",
-    "market_structure",
-    "impulse_move"
+    "market_structure"
   ],
   "school": "SMC",
   "asset": "EURUSD",

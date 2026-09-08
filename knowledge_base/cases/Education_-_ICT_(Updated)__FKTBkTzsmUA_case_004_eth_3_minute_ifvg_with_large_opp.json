@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Expansion Candle",
       "global_card_id": "expansion",
       "exists": true
@@ -26,11 +21,6 @@
     {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
-      "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
       "exists": true
     },
     {
@@ -47,10 +37,8 @@
   "illustrates_concepts": [
     "inversion_fair_value_gap",
     "change_in_state_of_delivery",
-    "reversal_candle",
     "expansion",
     "liquidity_sweep",
-    "consolidation",
     "accumulation_manipulation_distribution",
     "fair_value_gap"
   ],

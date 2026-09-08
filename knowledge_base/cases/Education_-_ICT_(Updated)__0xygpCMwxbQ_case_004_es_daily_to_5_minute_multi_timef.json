@@ -62,11 +62,6 @@
       "term": "Fibonacci Retracement",
       "global_card_id": "fibonacci_retracement",
       "exists": true
-    },
-    {
-      "term": "Runners",
-      "global_card_id": "runners",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -81,8 +76,7 @@
     "premium",
     "discount",
     "optimal_trade_entry",
-    "fibonacci_retracement",
-    "runners"
+    "fibonacci_retracement"
   ],
   "school": "ICT",
   "asset": "ES",

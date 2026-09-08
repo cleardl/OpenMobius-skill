@@ -29,11 +29,6 @@
       "exists": false
     },
     {
-      "term": "Old High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Volume Imbalance",
       "global_card_id": "volume_imbalance",
       "exists": true
@@ -42,11 +37,6 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -54,10 +44,8 @@
     "fair_value_gap",
     "order_block",
     "liquidity",
-    "swing_high",
     "volume_imbalance",
-    "market_structure",
-    "price_action"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "NQ",

@@ -4,11 +4,6 @@
   "title": "ES小时图wick被不尊重后的高点扫除",
   "related_concepts": [
     {
-      "term": "Wick",
-      "global_card_id": "wick",
-      "exists": true
-    },
-    {
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
       "exists": true
@@ -40,7 +35,6 @@
     }
   ],
   "illustrates_concepts": [
-    "wick",
     "fair_value_gap",
     "fibonacci_retracement",
     "market_structure_shift",

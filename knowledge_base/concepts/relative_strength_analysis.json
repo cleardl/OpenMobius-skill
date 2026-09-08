@@ -36,9 +36,7 @@
   "merge_strategy": "single_source_passthrough",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": null,
-  "illustrated_by_cases": [
-    "Education_-_ICT__nWHint4Yano_case_001_美元反转后eurusd和gbpusd的相对强弱对比"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "relative_strength_analysis",
   "canonical_term": "Relative Strength Analysis",
   "_embedding": [

@@ -72,9 +72,6 @@
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
   "illustrated_by_cases": [
-    "Daily_Profiles__IeXtmeKqjnQ_case_002_light_crude_oil_futures_cl1_bull",
-    "Daily_Profiles__xdzyejskSKE_case_003_light_crude_oil_cl1_daily_revers",
-    "Daily_Profiles__y6SnEdASVLY_case_005_multi_day_bullish_reversal_in_li",
     "Education_-_ICT_(Updated)__27S9gjgcSlI_case_001_es_vs_nq_smt_at_london_high_with",
     "Education_-_ICT_(Updated)__27S9gjgcSlI_case_002_es_vs_nq_lower_time_frame_smt_on",
     "Education_-_ICT_(Updated)__27S9gjgcSlI_case_003_es_vs_nq_higher_high_divergence_",
@@ -83,7 +80,6 @@
     "Education_-_ICT_(Updated)__EYzP7c24AwM_case_001_eth_bearish_daily_reversal_with_",
     "Education_-_ICT_(Updated)__EYzP7c24AwM_case_002_cl_bullish_continuation_with_10_",
     "Education_-_ICT_(Updated)__EYzP7c24AwM_case_003_nq_bullish_setup_with_8_30_oppos",
-    "Education_-_ICT_(Updated)__EYzP7c24AwM_case_004_es_bearish_order_block_formation",
     "Education_-_ICT_(Updated)__IeXtmeKqjnQ_case_002_oil_bearish_new_york_manipulatio",
     "Education_-_ICT_(Updated)__MlMsG7li9zY_case_003_gbp_usd_daily_to_15_minute_fract",
     "Education_-_ICT_(Updated)__g3oDYq4P9ZE_case_005_new_york_session_trade_on_gbp_us",

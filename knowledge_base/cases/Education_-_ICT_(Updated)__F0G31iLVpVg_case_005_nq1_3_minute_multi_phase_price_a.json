@@ -4,11 +4,6 @@
   "title": "NQ1! 3-minute multi-phase price action: tracking protected swings through expansion, retracement, and consolidation until reversal",
   "related_concepts": [
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Candle 2 Closure",
       "global_card_id": "candle_two_closure",
       "exists": true
@@ -34,18 +29,8 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Expansion",
       "global_card_id": "expansion",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
       "exists": true
     },
     {
@@ -65,15 +50,12 @@
     }
   ],
   "illustrates_concepts": [
-    "phases_of_price",
     "candle_two_closure",
     "change_in_state_of_delivery",
     "protected_swing",
     "smart_money_technique",
     "fair_value_gap",
-    "consolidation",
     "expansion",
-    "retracement",
     "reversal",
     "draw_on_liquidity",
     "liquidity_sweep"

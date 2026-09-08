@@ -52,11 +52,6 @@
       "term": "Order Block (OB)",
       "global_card_id": "order_block",
       "exists": true
-    },
-    {
-      "term": "Swing High / Swing Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -65,8 +60,7 @@
     "fair_value_gap",
     "premium_and_discount",
     "equilibrium",
-    "order_block",
-    "swing_high_swing_low"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "NQ1!",

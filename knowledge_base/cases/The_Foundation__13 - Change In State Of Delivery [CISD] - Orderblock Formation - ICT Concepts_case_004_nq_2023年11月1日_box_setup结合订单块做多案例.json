@@ -47,16 +47,6 @@
       "term": "Draw On Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -68,9 +58,7 @@
     "standard_deviation_projection",
     "projection",
     "liquidity_sweep",
-    "draw_on_liquidity",
-    "stop_loss",
-    "risk_to_reward_ratio"
+    "draw_on_liquidity"
   ],
   "school": "ICT",
   "asset": "NQ1!",

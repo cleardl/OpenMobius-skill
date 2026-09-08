@@ -19,27 +19,15 @@
       "exists": true
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "Entry Point",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
     "mean_threshold",
-    "fibonacci_retracement",
-    "risk_management",
-    "stop_loss"
+    "fibonacci_retracement"
   ],
   "school": "ICT",
   "asset": "ES (S&P 500 E-mini Futures)",

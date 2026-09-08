@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
-    },
-    {
       "term": "Point of Interest",
       "global_card_id": "point_of_interest",
       "exists": true
@@ -49,7 +44,6 @@
     "change_in_state_of_delivery",
     "time_frame_alignment",
     "weekly_profile",
-    "swing_point",
     "point_of_interest",
     "daily_bias"
   ],

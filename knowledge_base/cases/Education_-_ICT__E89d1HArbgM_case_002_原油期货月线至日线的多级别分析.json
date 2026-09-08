@@ -42,11 +42,6 @@
       "term": "Premium/Discount Array",
       "global_card_id": "premium_discount_array",
       "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "change_of_character",
     "buy_side_liquidity",
     "displacement",
-    "premium_discount_array",
-    "swing_low"
+    "premium_discount_array"
   ],
   "school": "ICT",
   "asset": "CL1!",

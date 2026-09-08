@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
@@ -47,11 +42,6 @@
       "term": "SMT",
       "global_card_id": "smart_money_technique",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -59,12 +49,10 @@
     "draw_on_liquidity",
     "low_resistance_liquidity",
     "equal_highs",
-    "swing_low",
     "change_in_state_of_delivery",
     "equilibrium",
     "london_reversal",
-    "smart_money_technique",
-    "risk_to_reward_ratio"
+    "smart_money_technique"
   ],
   "school": "ICT",
   "asset": "EURUSD",

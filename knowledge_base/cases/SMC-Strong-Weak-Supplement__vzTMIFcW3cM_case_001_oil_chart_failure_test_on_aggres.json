@@ -9,16 +9,6 @@
       "exists": true
     },
     {
-      "term": "Failure Test",
-      "global_card_id": "failed_breakout",
-      "exists": true
-    },
-    {
-      "term": "Momentum Candle",
-      "global_card_id": "momentum_candle",
-      "exists": true
-    },
-    {
       "term": "Liquidity Grab",
       "global_card_id": "liquidity_grab",
       "exists": true
@@ -31,8 +21,6 @@
   ],
   "illustrates_concepts": [
     "supply_and_demand_zones",
-    "failed_breakout",
-    "momentum_candle",
     "liquidity_grab",
     "smart_money_concepts"
   ],

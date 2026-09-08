@@ -14,18 +14,8 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Expansion",
       "global_card_id": "expansion",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
       "exists": true
     },
     {
@@ -42,9 +32,7 @@
   "illustrates_concepts": [
     "breaker_block",
     "change_in_state_of_delivery",
-    "swing_high",
     "expansion",
-    "retracement",
     "retest_entry"
   ],
   "school": "ICT",

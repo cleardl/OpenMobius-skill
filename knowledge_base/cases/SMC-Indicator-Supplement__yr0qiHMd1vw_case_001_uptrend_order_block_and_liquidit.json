@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Double Bottom",
-      "global_card_id": "double_bottom",
-      "exists": true
-    },
-    {
       "term": "Sellside Liquidity",
       "global_card_id": "sell_side_liquidity",
       "exists": true
@@ -32,21 +27,14 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Impulse Move",
-      "global_card_id": "impulse_move",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
     "liquidity_sweep",
-    "double_bottom",
     "sell_side_liquidity",
     "point_of_interest",
-    "market_structure",
-    "impulse_move"
+    "market_structure"
   ],
   "school": "SMC",
   "asset": "EURUSD",

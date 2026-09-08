@@ -116,11 +116,8 @@
   "merge_model": "claude-opus-4-8",
   "illustrated_by_cases": [
     "Education_-_ICT__FXJBFbZQbck_case_004_周一新周开盘缺口到前日高点的完整交易流程",
-    "Education_-_ICT__FXJBFbZQbck_case_006_亚洲盘提前触及前日高点导致交易机会消失",
     "Education_-_ICT__U8xH2dEgH5A_case_002_eurusd_日线与小时线多时间框架流动性分析",
-    "Education_-_ICT__U8xH2dEgH5A_case_003_标普500_e_mini期货5分钟图交易流程",
-    "Education_-_ICT__g3oDYq4P9ZE_case_001_ftse日线前一日高低点交易案例",
-    "Education_-_ICT__g3oDYq4P9ZE_case_004_eurusd日线到小时图伦敦时段交易"
+    "Education_-_ICT__U8xH2dEgH5A_case_003_标普500_e_mini期货5分钟图交易流程"
   ],
   "card_id": "previous_day_high_low",
   "canonical_term": "Previous Day High / Low",

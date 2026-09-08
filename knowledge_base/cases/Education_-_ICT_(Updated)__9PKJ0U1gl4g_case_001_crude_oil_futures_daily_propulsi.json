@@ -27,11 +27,6 @@
       "term": "Mean Threshold",
       "global_card_id": "mean_threshold",
       "exists": true
-    },
-    {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -39,8 +34,7 @@
     "order_block",
     "fair_value_gap",
     "displacement",
-    "mean_threshold",
-    "risk_to_reward_ratio"
+    "mean_threshold"
   ],
   "school": "ICT",
   "asset": "CL (Crude Oil Futures)",

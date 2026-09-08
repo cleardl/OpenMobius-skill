@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
-    },
-    {
       "term": "Fibonacci Retracement (0.5 level)",
       "global_card_id": null,
       "exists": false
@@ -44,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Risk/Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -59,10 +49,8 @@
     "protected_swing",
     "fair_value_gap",
     "order_block",
-    "swing_point",
     "fractal_model",
     "multiple_timeframe_analysis",
-    "risk_to_reward_ratio",
     "market_structure"
   ],
   "school": "ICT",

@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Three Drives Pattern",
-      "global_card_id": "three_drives_pattern",
-      "exists": true
-    },
-    {
       "term": "Market Structure Shift",
       "global_card_id": "market_structure_shift",
       "exists": true
@@ -56,7 +51,6 @@
     "protected_swing",
     "liquidity",
     "sell_side_liquidity",
-    "three_drives_pattern",
     "market_structure_shift",
     "continuation_trading"
   ],

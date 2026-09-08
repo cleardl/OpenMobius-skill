@@ -4,11 +4,6 @@
   "title": "NQ期货2024年2月13日日线看跌方向性K线15分钟拆解",
   "related_concepts": [
     {
-      "term": "Directional Candle",
-      "global_card_id": "directional_candle",
-      "exists": true
-    },
-    {
       "term": "Accumulation Manipulation Distribution",
       "global_card_id": "accumulation_manipulation_distribution",
       "exists": true
@@ -45,7 +40,6 @@
     }
   ],
   "illustrates_concepts": [
-    "directional_candle",
     "accumulation_manipulation_distribution",
     "session_high",
     "session_low",

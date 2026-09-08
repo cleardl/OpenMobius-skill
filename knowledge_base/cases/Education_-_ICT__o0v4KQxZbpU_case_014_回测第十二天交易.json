@@ -22,25 +22,13 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
-      "term": "Risk Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
     "order_block",
     "displacement",
-    "market_structure",
-    "price_action",
-    "risk_to_reward_ratio"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "NAS100",

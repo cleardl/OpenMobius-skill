@@ -42,16 +42,6 @@
       "term": "Balanced Price Range (BPR)",
       "global_card_id": "balanced_price_range",
       "exists": true
-    },
-    {
-      "term": "HTF / LTF",
-      "global_card_id": "high_low_time_frame",
-      "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -62,9 +52,7 @@
     "displacement",
     "premium_and_discount",
     "equilibrium",
-    "balanced_price_range",
-    "high_low_time_frame",
-    "price_action"
+    "balanced_price_range"
   ],
   "school": "ICT",
   "asset": "ES",

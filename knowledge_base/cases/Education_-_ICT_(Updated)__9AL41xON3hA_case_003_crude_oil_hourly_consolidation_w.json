@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Protected Swing",
       "global_card_id": "protected_swing",
       "exists": true
@@ -52,7 +47,6 @@
   "illustrates_concepts": [
     "change_in_state_of_delivery",
     "failure_swing",
-    "consolidation",
     "protected_swing",
     "liquidity_sweep",
     "retest_entry",

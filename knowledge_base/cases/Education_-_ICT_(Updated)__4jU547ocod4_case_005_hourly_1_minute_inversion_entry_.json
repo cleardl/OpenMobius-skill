@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Wick Formation",
-      "global_card_id": "wick_formation",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -51,7 +46,6 @@
     "previous_day_low",
     "t_spot",
     "fractal_model",
-    "wick_formation",
     "liquidity_sweep"
   ],
   "school": "ICT",

@@ -4,48 +4,18 @@
   "title": "黄金1小时级别用斐波那契扩展推算上方共振阻力带并用回撤计算回踩做多进场位",
   "related_concepts": [
     {
-      "term": "斐波那契扩展",
-      "global_card_id": "fibonacci_extension",
-      "exists": true
-    },
-    {
       "term": "斐波那契回撤",
       "global_card_id": "fibonacci_retracement",
-      "exists": true
-    },
-    {
-      "term": "顶背离",
-      "global_card_id": "top_bottom_divergence",
-      "exists": true
-    },
-    {
-      "term": "POC",
-      "global_card_id": "point_of_control",
-      "exists": true
-    },
-    {
-      "term": "破土",
-      "global_card_id": "break_土_signal_line",
       "exists": true
     },
     {
       "term": "共振阻力带",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "R值",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "fibonacci_extension",
-    "fibonacci_retracement",
-    "top_bottom_divergence",
-    "point_of_control",
-    "break_土_signal_line",
-    "risk_to_reward_ratio"
+    "fibonacci_retracement"
   ],
   "school": "SMC",
   "asset": "GOLD",

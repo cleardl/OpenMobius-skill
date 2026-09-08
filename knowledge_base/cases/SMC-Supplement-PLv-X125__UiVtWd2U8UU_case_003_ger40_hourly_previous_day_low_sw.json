@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "Gold Zone",
-      "global_card_id": "golden_zone",
-      "exists": true
-    },
-    {
       "term": "Previous Day Low",
       "global_card_id": "previous_day_low",
       "exists": true
@@ -36,7 +31,6 @@
   ],
   "illustrates_concepts": [
     "fibonacci_retracement",
-    "golden_zone",
     "previous_day_low",
     "liquidity",
     "liquidity_grab",

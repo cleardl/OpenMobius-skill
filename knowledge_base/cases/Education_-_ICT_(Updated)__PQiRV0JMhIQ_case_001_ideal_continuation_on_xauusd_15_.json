@@ -37,11 +37,6 @@
       "term": "Buy Side Liquidity",
       "global_card_id": "buy_side_liquidity",
       "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "change_in_state_of_delivery",
     "protected_swing",
     "retest_entry",
-    "buy_side_liquidity",
-    "retracement"
+    "buy_side_liquidity"
   ],
   "school": "ICT",
   "asset": "XAUUSD",

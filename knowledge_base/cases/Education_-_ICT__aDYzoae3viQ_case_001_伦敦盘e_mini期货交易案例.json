@@ -39,16 +39,6 @@
       "exists": true
     },
     {
-      "term": "Scalping",
-      "global_card_id": "scalping",
-      "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "Partial Profit Taking",
       "global_card_id": "partial_profit_taking",
       "exists": true
@@ -62,8 +52,6 @@
     "liquidity",
     "premium_and_discount",
     "market_structure",
-    "scalping",
-    "risk_management",
     "partial_profit_taking"
   ],
   "school": "ICT",

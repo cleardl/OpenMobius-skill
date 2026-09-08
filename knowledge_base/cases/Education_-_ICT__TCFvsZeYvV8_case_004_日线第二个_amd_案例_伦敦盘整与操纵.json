@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Manipulation",
       "global_card_id": "manipulation",
       "exists": true
@@ -51,7 +46,6 @@
   ],
   "illustrates_concepts": [
     "accumulation_manipulation_distribution",
-    "consolidation",
     "manipulation",
     "displacement",
     "expansion",

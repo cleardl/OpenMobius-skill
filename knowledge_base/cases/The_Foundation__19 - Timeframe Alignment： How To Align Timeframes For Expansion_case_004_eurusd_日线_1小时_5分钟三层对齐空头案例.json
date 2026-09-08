@@ -59,21 +59,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -91,9 +76,6 @@
     "mean_threshold",
     "draw_on_liquidity",
     "kill_zone",
-    "risk_to_reward_ratio",
-    "stop_loss",
-    "take_profit",
     "market_structure"
   ],
   "school": "ICT",

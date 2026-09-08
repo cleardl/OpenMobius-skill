@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "终结楔形（Ending Diagonal）",
-      "global_card_id": "ending_diagonal",
-      "exists": true
-    },
-    {
       "term": "供应区",
       "global_card_id": "supply_zone",
       "exists": true
@@ -29,45 +24,20 @@
       "exists": false
     },
     {
-      "term": "顶背离",
-      "global_card_id": "top_bottom_divergence",
-      "exists": true
-    },
-    {
-      "term": "MACD",
-      "global_card_id": "moving_average_convergence_divergence",
-      "exists": true
-    },
-    {
       "term": "流动性",
       "global_card_id": "liquidity",
-      "exists": true
-    },
-    {
-      "term": "收线止损",
-      "global_card_id": "hard_stop_close_stop",
       "exists": true
     },
     {
       "term": "顺势交易",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "EMA",
-      "global_card_id": "exponential_moving_average",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
-    "ending_diagonal",
     "supply_zone",
-    "top_bottom_divergence",
-    "moving_average_convergence_divergence",
-    "liquidity",
-    "hard_stop_close_stop",
-    "exponential_moving_average"
+    "liquidity"
   ],
   "school": "SMC",
   "asset": "GOLD",

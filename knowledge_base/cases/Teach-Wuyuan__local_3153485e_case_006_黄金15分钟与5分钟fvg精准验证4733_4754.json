@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "扩级",
-      "global_card_id": "level_expansion_validation",
-      "exists": true
-    },
-    {
       "term": "供应区",
       "global_card_id": "supply_zone",
       "exists": true
@@ -22,49 +17,12 @@
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
       "exists": true
-    },
-    {
-      "term": "RSI",
-      "global_card_id": "relative_strength_index",
-      "exists": true
-    },
-    {
-      "term": "顶背离",
-      "global_card_id": "top_bottom_divergence",
-      "exists": true
-    },
-    {
-      "term": "R值",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "收线止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
-    },
-    {
-      "term": "通用线",
-      "global_card_id": "btm",
-      "exists": true
-    },
-    {
-      "term": "EMA60",
-      "global_card_id": "ema60",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
-    "level_expansion_validation",
     "supply_zone",
-    "liquidity_sweep",
-    "relative_strength_index",
-    "top_bottom_divergence",
-    "risk_to_reward_ratio",
-    "hard_stop_close_stop",
-    "btm",
-    "ema60"
+    "liquidity_sweep"
   ],
   "school": "SMC",
   "asset": "GOLD",

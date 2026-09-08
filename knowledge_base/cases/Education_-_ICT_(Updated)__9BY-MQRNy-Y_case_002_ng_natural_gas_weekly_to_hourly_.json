@@ -4,16 +4,6 @@
   "title": "NG Natural Gas Weekly Swing Point Bullish Bias with Daily V-Shaped Reversal and Hourly SMT Entry",
   "related_concepts": [
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "V-Shape Reversal",
       "global_card_id": "v_shaped_reversal",
       "exists": true
@@ -62,21 +52,9 @@
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
       "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
-      "term": "2R",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "swing_high",
-    "swing_low",
     "v_shaped_reversal",
     "smart_money_technique",
     "protected_swing",
@@ -86,9 +64,7 @@
     "failure_swing",
     "draw_on_liquidity",
     "top_down_analysis",
-    "fair_value_gap",
-    "retracement",
-    "risk_to_reward_ratio"
+    "fair_value_gap"
   ],
   "school": "ICT",
   "asset": "NG1!",

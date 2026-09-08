@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Draw on Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
@@ -61,7 +56,6 @@
     "continuation_order_block",
     "fractal_model",
     "candle_4_continuation",
-    "risk_to_reward_ratio",
     "draw_on_liquidity",
     "previous_day_high",
     "liquidity_sweep"

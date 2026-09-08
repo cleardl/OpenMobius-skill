@@ -37,16 +37,6 @@
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
-    },
-    {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -56,9 +46,7 @@
     "draw_on_liquidity",
     "buy_side_liquidity",
     "sell_side_liquidity",
-    "liquidity_sweep",
-    "swing_high",
-    "swing_low"
+    "liquidity_sweep"
   ],
   "school": "ICT",
   "asset": "NQ1!",

@@ -32,11 +32,6 @@
       "term": "Extreme Zone",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -44,8 +39,7 @@
     "fair_value_gap",
     "break_of_structure",
     "liquidity_sweep",
-    "market_structure",
-    "retracement"
+    "market_structure"
   ],
   "school": "SMC",
   "asset": "EURUSD",

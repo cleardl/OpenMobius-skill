@@ -14,16 +14,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -42,8 +32,6 @@
   "illustrates_concepts": [
     "smart_money_technique",
     "market_structure",
-    "swing_high",
-    "swing_low",
     "liquidity_sweep",
     "top_down_analysis",
     "bias"

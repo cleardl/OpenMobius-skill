@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
-    },
-    {
       "term": "Killzone",
       "global_card_id": "kill_zone",
       "exists": true
@@ -57,7 +52,6 @@
     "displacement",
     "london_session",
     "previous_day_low",
-    "swing_point",
     "kill_zone"
   ],
   "school": "ICT",

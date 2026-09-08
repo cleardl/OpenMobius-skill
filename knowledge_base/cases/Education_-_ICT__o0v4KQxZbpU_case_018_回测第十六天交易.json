@@ -27,11 +27,6 @@
       "term": "Liquidity",
       "global_card_id": "liquidity",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -39,8 +34,7 @@
     "fair_value_gap",
     "displacement",
     "market_structure",
-    "liquidity",
-    "risk_management"
+    "liquidity"
   ],
   "school": "ICT",
   "asset": "NAS100",

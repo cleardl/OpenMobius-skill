@@ -4,23 +4,8 @@
   "title": "CL Daily Bearish Reversal Candle Followed by Continuation Lower on 15-Minute Timeframe",
   "related_concepts": [
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
-      "term": "Open High Low Close",
-      "global_card_id": "open_high_low_close",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
-      "exists": true
-    },
-    {
-      "term": "Wick Formation",
-      "global_card_id": "wick_formation",
       "exists": true
     },
     {
@@ -35,10 +20,7 @@
     }
   ],
   "illustrates_concepts": [
-    "reversal_candle",
-    "open_high_low_close",
     "displacement",
-    "wick_formation",
     "time_frame_alignment"
   ],
   "school": "ICT",

@@ -39,23 +39,8 @@
       "exists": true
     },
     {
-      "term": "Trailing Stop",
-      "global_card_id": "trailing_stop_loss",
-      "exists": true
-    },
-    {
       "term": "Equal Highs",
       "global_card_id": "equal_highs",
-      "exists": true
-    },
-    {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
       "exists": true
     }
   ],
@@ -67,10 +52,7 @@
     "change_of_character",
     "break_of_structure",
     "fibonacci_retracement",
-    "trailing_stop_loss",
-    "equal_highs",
-    "swing_high",
-    "swing_low"
+    "equal_highs"
   ],
   "school": "SMC",
   "asset": "GBPUSD",

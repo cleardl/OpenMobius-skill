@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Continuation",
       "global_card_id": "continuation",
       "exists": true
@@ -37,7 +32,6 @@
   "illustrates_concepts": [
     "smart_money_technique",
     "relative_strength_and_weakness",
-    "consolidation",
     "continuation",
     "order_block",
     "market_structure"

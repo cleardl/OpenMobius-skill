@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "Multi-timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -55,7 +50,6 @@
     "smart_money_technique",
     "liquidity",
     "midnight_open",
-    "risk_management",
     "multiple_timeframe_analysis"
   ],
   "school": "ICT",

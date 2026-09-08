@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Impulse Move",
-      "global_card_id": "impulse_move",
-      "exists": true
-    },
-    {
       "term": "Change of Character",
       "global_card_id": "change_of_character",
       "exists": true
@@ -38,7 +33,6 @@
     "major_swing",
     "break_of_structure",
     "fair_value_gap",
-    "impulse_move",
     "change_of_character"
   ],
   "school": "SMC",

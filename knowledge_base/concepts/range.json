@@ -37,10 +37,7 @@
   "merge_strategy": "single_source_passthrough",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": null,
-  "illustrated_by_cases": [
-    "Education_-_ICT_(Updated)__HFfChGFHD44_case_002_es_1_hour_box_setup_with_downtre",
-    "Education_-_ICT__HFfChGFHD44_case_002_e_mini_s_p_500期货_15分钟_box_setup案"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "range",
   "canonical_term": "Range",
   "_embedding": [

@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Divergence",
-      "global_card_id": "divergence",
-      "exists": true
-    },
-    {
       "term": "Sell-side Liquidity",
       "global_card_id": "sell_side_liquidity",
       "exists": true
@@ -57,7 +52,6 @@
   "illustrates_concepts": [
     "smart_money_technique",
     "correlated_pairs",
-    "divergence",
     "sell_side_liquidity",
     "market_structure",
     "confluence",

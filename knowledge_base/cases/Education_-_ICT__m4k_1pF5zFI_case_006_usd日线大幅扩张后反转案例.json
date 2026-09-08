@@ -29,18 +29,8 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Liquidity",
       "global_card_id": "liquidity",
-      "exists": true
-    },
-    {
-      "term": "High Time Frame / Low Time Frame",
-      "global_card_id": "high_low_time_frame",
       "exists": true
     }
   ],
@@ -50,9 +40,7 @@
     "change_in_state_of_delivery",
     "displacement",
     "market_structure_shift",
-    "swing_high",
-    "liquidity",
-    "high_low_time_frame"
+    "liquidity"
   ],
   "school": "ICT",
   "asset": "USD",

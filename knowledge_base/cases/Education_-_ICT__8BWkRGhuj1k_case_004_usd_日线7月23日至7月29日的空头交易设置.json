@@ -37,11 +37,6 @@
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "change_in_state_of_delivery",
     "fair_value_gap",
     "market_structure_shift",
-    "displacement",
-    "risk_management"
+    "displacement"
   ],
   "school": "ICT",
   "asset": "USD",

@@ -29,16 +29,6 @@
       "exists": true
     },
     {
-      "term": "Higher High",
-      "global_card_id": "higher_high",
-      "exists": true
-    },
-    {
-      "term": "Higher Low",
-      "global_card_id": "higher_low",
-      "exists": true
-    },
-    {
       "term": "PD Array",
       "global_card_id": "premium_discount_array",
       "exists": true
@@ -46,11 +36,6 @@
     {
       "term": "Draw On Liquidity",
       "global_card_id": "draw_on_liquidity",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
       "exists": true
     }
   ],
@@ -60,11 +45,8 @@
     "fair_value_gap",
     "order_block",
     "market_structure",
-    "higher_high",
-    "higher_low",
     "premium_discount_array",
-    "draw_on_liquidity",
-    "risk_to_reward_ratio"
+    "draw_on_liquidity"
   ],
   "school": "ICT",
   "asset": "NQ1!",

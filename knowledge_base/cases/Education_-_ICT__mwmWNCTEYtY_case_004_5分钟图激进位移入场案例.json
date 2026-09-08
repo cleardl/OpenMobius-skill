@@ -34,11 +34,6 @@
       "exists": false
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "Internal Liquidity",
       "global_card_id": "internal_liquidity",
       "exists": true
@@ -54,7 +49,6 @@
     "displacement",
     "order_block",
     "liquidity",
-    "risk_management",
     "internal_liquidity",
     "low_resistance_liquidity"
   ],

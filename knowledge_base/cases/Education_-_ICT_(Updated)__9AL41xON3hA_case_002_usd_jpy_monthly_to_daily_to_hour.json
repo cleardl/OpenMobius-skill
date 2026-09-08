@@ -47,11 +47,6 @@
       "term": "Draw on Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -63,8 +58,7 @@
     "time_frame_alignment",
     "fractal_model",
     "point_of_interest",
-    "draw_on_liquidity",
-    "risk_to_reward_ratio"
+    "draw_on_liquidity"
   ],
   "school": "ICT",
   "asset": "USDJPY",

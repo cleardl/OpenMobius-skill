@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Swing High/Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
-    },
-    {
       "term": "Multi-timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -44,7 +39,6 @@
     "liquidity",
     "fair_value_gap",
     "market_structure",
-    "swing_high_swing_low",
     "multiple_timeframe_analysis",
     "inducement"
   ],

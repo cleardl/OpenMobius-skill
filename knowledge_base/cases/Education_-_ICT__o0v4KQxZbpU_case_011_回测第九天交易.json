@@ -22,19 +22,13 @@
       "term": "Market Structure Shift",
       "global_card_id": "market_structure_shift",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
     "order_block",
     "displacement",
-    "market_structure_shift",
-    "risk_management"
+    "market_structure_shift"
   ],
   "school": "ICT",
   "asset": "NAS100",

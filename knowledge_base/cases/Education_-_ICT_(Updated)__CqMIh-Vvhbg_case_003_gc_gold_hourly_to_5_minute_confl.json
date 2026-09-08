@@ -44,11 +44,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Point of Interest",
       "global_card_id": "point_of_interest",
       "exists": true
@@ -63,7 +58,6 @@
     "time_frame_alignment",
     "top_down_analysis",
     "candle_4_continuation",
-    "risk_to_reward_ratio",
     "point_of_interest"
   ],
   "school": "ICT",

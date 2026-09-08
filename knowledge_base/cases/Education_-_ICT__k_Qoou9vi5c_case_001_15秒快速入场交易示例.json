@@ -27,19 +27,13 @@
       "term": "Entry Strategy",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
     "liquidity",
     "fair_value_gap",
-    "market_structure",
-    "risk_management"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": null,

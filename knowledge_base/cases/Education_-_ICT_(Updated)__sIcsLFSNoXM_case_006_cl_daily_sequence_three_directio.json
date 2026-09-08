@@ -4,11 +4,6 @@
   "title": "CL Daily Sequence: Three Bearish Directional Days, Bullish Reversal Candle, Then Consolidation Before Continuation",
   "related_concepts": [
     {
-      "term": "Open High Low Close",
-      "global_card_id": "open_high_low_close",
-      "exists": true
-    },
-    {
       "term": "Bullish Reversal Candle",
       "global_card_id": null,
       "exists": false
@@ -16,11 +11,6 @@
     {
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
-      "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
       "exists": true
     },
     {
@@ -35,9 +25,7 @@
     }
   ],
   "illustrates_concepts": [
-    "open_high_low_close",
     "fair_value_gap",
-    "consolidation",
     "expansion",
     "market_structure_shift"
   ],

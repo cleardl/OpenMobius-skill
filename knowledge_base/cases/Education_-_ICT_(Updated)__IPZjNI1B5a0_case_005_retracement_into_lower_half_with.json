@@ -4,11 +4,6 @@
   "title": "EURUSD Retracement into Lower Half of Daily Wick Continues Lower via CISD at Sweep",
   "related_concepts": [
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Equilibrium",
       "global_card_id": "equilibrium",
       "exists": true
@@ -42,23 +37,16 @@
       "term": "Point of Interest",
       "global_card_id": "point_of_interest",
       "exists": true
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "retracement",
     "equilibrium",
     "change_in_state_of_delivery",
     "liquidity_sweep",
     "premium",
     "premium_discount_array",
     "daily_bias",
-    "point_of_interest",
-    "phases_of_price"
+    "point_of_interest"
   ],
   "school": "ICT",
   "asset": "EURUSD",

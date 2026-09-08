@@ -44,11 +44,6 @@
       "exists": false
     },
     {
-      "term": "Wick Formation",
-      "global_card_id": "wick_formation",
-      "exists": true
-    },
-    {
       "term": "Order Block (OB)",
       "global_card_id": "order_block",
       "exists": true
@@ -60,7 +55,6 @@
     "reversal_to_expansion_candle",
     "continuation_expansion_candle",
     "opposing_run",
-    "wick_formation",
     "order_block"
   ],
   "school": "ICT",

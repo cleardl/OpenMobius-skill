@@ -68,12 +68,10 @@
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
   "illustrated_by_cases": [
-    "Education_-_ICT_(Updated)__Tjk9bXERZy0_case_004_seek_and_destroy_examples_with_s",
     "Education_-_ICT_(Updated)__qdQYhePcvGE_case_009_es1_daily_expansion_candle_and_l",
     "Education_-_ICT_(Updated)__sIcsLFSNoXM_case_001_nq_daily_candle_breakdown_using_",
     "Education_-_ICT__TCFvsZeYvV8_case_004_日线第二个_amd_案例_伦敦盘整与操纵",
-    "Education_-_ICT__klaiq36QnEM_case_006_gbpusd周一至周五的看涨周期案例",
-    "SMC-Supplement-PLv-X125__2GAAK_JhNW0_case_004_eurusd_100_trade_backtest_london"
+    "Education_-_ICT__klaiq36QnEM_case_006_gbpusd周一至周五的看涨周期案例"
   ],
   "card_id": "new_york_session",
   "canonical_term": "New York Session",

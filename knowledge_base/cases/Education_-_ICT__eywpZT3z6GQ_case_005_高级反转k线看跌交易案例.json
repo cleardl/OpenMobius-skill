@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Multi-timeframe Alignment",
       "global_card_id": "time_frame_alignment",
       "exists": true
@@ -50,7 +45,6 @@
     "change_in_state_of_delivery",
     "protected_swing",
     "displacement",
-    "reversal_candle",
     "time_frame_alignment",
     "kill_zone"
   ],

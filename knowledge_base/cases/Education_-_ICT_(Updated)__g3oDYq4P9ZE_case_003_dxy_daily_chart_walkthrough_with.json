@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
-    },
-    {
       "term": "Draw on Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
@@ -48,7 +43,6 @@
     "next_day_model",
     "fair_value_gap",
     "previous_day_low",
-    "swing_point",
     "draw_on_liquidity",
     "premium_discount_array",
     "displacement"

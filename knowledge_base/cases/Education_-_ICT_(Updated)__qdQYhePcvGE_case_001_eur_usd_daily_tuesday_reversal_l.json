@@ -4,11 +4,6 @@
   "title": "EUR/USD Daily Tuesday Reversal Candle with Large Wick, Followed by Wednesday Continuation Entry After Change in State of Delivery",
   "related_concepts": [
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
       "exists": true
@@ -45,7 +40,6 @@
     }
   ],
   "illustrates_concepts": [
-    "reversal_candle",
     "fair_value_gap",
     "change_in_state_of_delivery",
     "continuation_order_block",

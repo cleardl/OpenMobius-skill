@@ -29,16 +29,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Draw On Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
@@ -60,8 +50,6 @@
     "fair_value_gap",
     "buy_side_liquidity",
     "sell_side_liquidity",
-    "swing_high",
-    "swing_low",
     "draw_on_liquidity",
     "bias",
     "liquidity_sweep"

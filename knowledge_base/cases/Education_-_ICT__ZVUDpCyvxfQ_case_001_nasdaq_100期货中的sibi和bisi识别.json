@@ -24,11 +24,6 @@
       "exists": false
     },
     {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -36,7 +31,6 @@
   ],
   "illustrates_concepts": [
     "fair_value_gap",
-    "price_action",
     "market_structure"
   ],
   "school": "ICT",

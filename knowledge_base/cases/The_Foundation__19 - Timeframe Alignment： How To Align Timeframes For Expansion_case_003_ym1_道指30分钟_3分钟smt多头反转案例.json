@@ -49,21 +49,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
-    },
-    {
       "term": "Killzone",
       "global_card_id": "kill_zone",
       "exists": true
@@ -79,9 +64,6 @@
     "bias",
     "draw_on_liquidity",
     "sell_side_liquidity",
-    "risk_to_reward_ratio",
-    "stop_loss",
-    "take_profit",
     "kill_zone"
   ],
   "school": "ICT",

@@ -29,11 +29,6 @@
       "exists": false
     },
     {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
       "term": "Liquidity",
       "global_card_id": "liquidity",
       "exists": true
@@ -44,7 +39,6 @@
     "order_block",
     "fair_value_gap",
     "change_in_state_of_delivery",
-    "price_action",
     "liquidity"
   ],
   "school": "ICT",

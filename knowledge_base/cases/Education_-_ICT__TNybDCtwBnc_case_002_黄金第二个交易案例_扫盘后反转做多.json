@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -51,7 +46,6 @@
     "protected_swing",
     "displacement",
     "market_structure_shift",
-    "consolidation",
     "liquidity_sweep"
   ],
   "school": "ICT",

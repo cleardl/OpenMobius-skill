@@ -44,21 +44,6 @@
       "exists": true
     },
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
-    },
-    {
       "term": "Timeframe Alignment",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -83,9 +68,6 @@
     "fair_value_gap",
     "kill_zone",
     "draw_on_liquidity",
-    "swing_low",
-    "stop_loss",
-    "take_profit",
     "multiple_timeframe_analysis",
     "market_structure",
     "displacement"

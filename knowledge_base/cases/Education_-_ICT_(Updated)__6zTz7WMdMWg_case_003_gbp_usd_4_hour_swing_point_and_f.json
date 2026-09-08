@@ -9,16 +9,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Next Day Model",
       "global_card_id": "next_day_model",
       "exists": true
@@ -46,8 +36,6 @@
   ],
   "illustrates_concepts": [
     "fair_value_gap",
-    "swing_high",
-    "swing_low",
     "next_day_model",
     "premium_discount_array",
     "liquidity_sweep",

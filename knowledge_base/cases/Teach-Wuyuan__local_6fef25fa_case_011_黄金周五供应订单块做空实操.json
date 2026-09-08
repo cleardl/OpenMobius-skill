@@ -19,31 +19,6 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
-      "term": "扩级",
-      "global_card_id": "level_expansion_validation",
-      "exists": true
-    },
-    {
-      "term": "硬止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
-    },
-    {
-      "term": "R值",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "底背离",
-      "global_card_id": "top_bottom_divergence",
-      "exists": true
-    },
-    {
       "term": "流动性",
       "global_card_id": "liquidity",
       "exists": true
@@ -53,11 +28,6 @@
     "supply_zone",
     "demand_zone",
     "order_block",
-    "support_and_resistance_flip",
-    "level_expansion_validation",
-    "hard_stop_close_stop",
-    "risk_to_reward_ratio",
-    "top_bottom_divergence",
     "liquidity"
   ],
   "school": "SMC",

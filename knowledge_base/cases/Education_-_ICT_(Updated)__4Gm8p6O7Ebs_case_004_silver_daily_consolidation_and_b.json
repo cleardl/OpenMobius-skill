@@ -4,11 +4,6 @@
   "title": "Silver daily consolidation range sweeps low then breaks out, confirmed by shallow hourly retracements",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -16,16 +11,6 @@
     {
       "term": "Expansion",
       "global_card_id": "expansion",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
       "exists": true
     },
     {
@@ -40,11 +25,8 @@
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
     "liquidity_sweep",
     "expansion",
-    "retracement",
-    "phases_of_price",
     "fractal_model"
   ],
   "school": "ICT",

@@ -14,18 +14,8 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "V-shaped reversal",
       "global_card_id": "v_shaped_reversal",
-      "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
       "exists": true
     },
     {
@@ -42,9 +32,7 @@
   "illustrates_concepts": [
     "fair_value_gap",
     "continuation",
-    "consolidation",
     "v_shaped_reversal",
-    "price_action",
     "liquidity_sweep",
     "order_block"
   ],

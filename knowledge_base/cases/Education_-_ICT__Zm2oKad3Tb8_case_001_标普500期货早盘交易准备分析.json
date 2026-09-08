@@ -42,16 +42,6 @@
       "term": "Fibonacci Retracement",
       "global_card_id": "fibonacci_retracement",
       "exists": true
-    },
-    {
-      "term": "HTF / LTF",
-      "global_card_id": "high_low_time_frame",
-      "exists": true
-    },
-    {
-      "term": "Economic Calendar",
-      "global_card_id": "economic_calendar",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -62,9 +52,7 @@
     "equilibrium",
     "midnight_open",
     "market_structure",
-    "fibonacci_retracement",
-    "high_low_time_frame",
-    "economic_calendar"
+    "fibonacci_retracement"
   ],
   "school": "ICT",
   "asset": "ES",

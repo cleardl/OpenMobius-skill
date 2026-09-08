@@ -47,11 +47,6 @@
       "term": "Multi-timeframe Alignment",
       "global_card_id": "time_frame_alignment",
       "exists": true
-    },
-    {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -63,8 +58,7 @@
     "change_in_state_of_delivery",
     "candle_two_closure",
     "candle_3_expansion",
-    "time_frame_alignment",
-    "risk_to_reward_ratio"
+    "time_frame_alignment"
   ],
   "school": "ICT",
   "asset": "OL1!",

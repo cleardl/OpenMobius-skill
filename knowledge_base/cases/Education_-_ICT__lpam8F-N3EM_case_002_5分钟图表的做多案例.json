@@ -37,11 +37,6 @@
       "term": "Optimal Trade Entry",
       "global_card_id": "optimal_trade_entry",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "order_block",
     "liquidity",
     "premium_and_discount",
-    "optimal_trade_entry",
-    "risk_management"
+    "optimal_trade_entry"
   ],
   "school": "ICT",
   "asset": "NQ1!",

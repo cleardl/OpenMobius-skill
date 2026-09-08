@@ -24,11 +24,6 @@
       "exists": false
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Expansion",
       "global_card_id": "expansion",
       "exists": true
@@ -48,7 +43,6 @@
     "previous_day_high",
     "change_in_state_of_delivery",
     "equilibrium",
-    "reversal_candle",
     "expansion",
     "fractal_model",
     "point_of_interest"

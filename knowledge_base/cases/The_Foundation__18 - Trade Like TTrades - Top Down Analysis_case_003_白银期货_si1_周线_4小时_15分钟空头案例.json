@@ -59,16 +59,6 @@
       "exists": true
     },
     {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Equal Lows",
       "global_card_id": "equal_lows",
       "exists": true
@@ -96,8 +86,6 @@
     "bias",
     "market_structure",
     "entry",
-    "stop_loss",
-    "risk_to_reward_ratio",
     "equal_lows",
     "sell_side_liquidity",
     "premium"

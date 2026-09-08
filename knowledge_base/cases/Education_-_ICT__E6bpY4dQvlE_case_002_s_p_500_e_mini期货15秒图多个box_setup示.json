@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -63,7 +58,6 @@
     "box_setup",
     "order_block",
     "fair_value_gap",
-    "consolidation",
     "displacement",
     "buy_side_liquidity",
     "sell_side_liquidity",

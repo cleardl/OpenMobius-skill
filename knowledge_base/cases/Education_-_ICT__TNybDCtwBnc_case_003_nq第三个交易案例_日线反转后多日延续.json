@@ -32,16 +32,6 @@
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -50,9 +40,7 @@
     "fair_value_gap",
     "order_block",
     "liquidity",
-    "displacement",
-    "risk_management",
-    "risk_to_reward_ratio"
+    "displacement"
   ],
   "school": "ICT",
   "asset": "NQ1!",

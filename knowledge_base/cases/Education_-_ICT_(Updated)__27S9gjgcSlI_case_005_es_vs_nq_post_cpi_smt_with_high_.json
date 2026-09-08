@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "CPI",
-      "global_card_id": "consumer_price_index",
-      "exists": true
-    },
-    {
       "term": "Draw on Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
@@ -60,7 +55,6 @@
     "breaker_block",
     "fair_value_gap",
     "equal_lows",
-    "consumer_price_index",
     "draw_on_liquidity",
     "relative_strength_and_weakness",
     "optimal_trade_entry",

@@ -32,11 +32,6 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -45,8 +40,7 @@
     "displacement",
     "liquidity",
     "liquidity_sweep",
-    "market_structure",
-    "price_action"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "NAS100",

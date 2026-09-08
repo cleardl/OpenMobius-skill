@@ -24,11 +24,6 @@
       "exists": false
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Continuation Expansion Candle",
       "global_card_id": "continuation_expansion_candle",
       "exists": true
@@ -83,7 +78,6 @@
     "daily_bias",
     "accumulation_manipulation_distribution",
     "london_session",
-    "reversal_candle",
     "continuation_expansion_candle",
     "change_in_state_of_delivery",
     "protected_swing",

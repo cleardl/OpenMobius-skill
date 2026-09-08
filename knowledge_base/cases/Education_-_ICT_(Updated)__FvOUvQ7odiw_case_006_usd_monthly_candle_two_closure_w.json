@@ -29,28 +29,13 @@
       "exists": true
     },
     {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
-    },
-    {
       "term": "Mean Threshold",
       "global_card_id": "mean_threshold",
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Expansion",
       "global_card_id": "expansion",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
       "exists": true
     },
     {
@@ -65,11 +50,8 @@
     "candle_4_continuation",
     "midweek_reversal",
     "equal_lows",
-    "swing_point",
     "mean_threshold",
-    "phases_of_price",
     "expansion",
-    "retracement",
     "weekly_profile"
   ],
   "school": "ICT",

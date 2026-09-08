@@ -4,11 +4,6 @@
   "title": "ETH Breakout of Range High Fails to Continue, Returns Across Range",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -40,7 +35,6 @@
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
     "liquidity_sweep",
     "fair_value_gap",
     "v_shaped_reversal",

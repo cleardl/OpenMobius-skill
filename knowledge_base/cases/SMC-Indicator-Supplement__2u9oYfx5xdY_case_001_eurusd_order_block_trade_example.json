@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "Multi-Timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -51,7 +46,6 @@
     "higher_time_frame",
     "lower_time_frame",
     "liquidity_sweep",
-    "risk_management",
     "multiple_timeframe_analysis"
   ],
   "school": "SMC",

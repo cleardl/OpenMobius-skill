@@ -42,11 +42,6 @@
       "term": "Correlated Asset Triad",
       "global_card_id": "correlated_markets",
       "exists": true
-    },
-    {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -56,8 +51,7 @@
     "draw_on_liquidity",
     "candle_two_closure",
     "candle_3_continuation",
-    "correlated_markets",
-    "swing_point"
+    "correlated_markets"
   ],
   "school": "ICT",
   "asset": "GBPUSD / EURUSD",

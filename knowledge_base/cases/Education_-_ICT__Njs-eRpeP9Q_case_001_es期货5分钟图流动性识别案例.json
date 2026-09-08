@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
@@ -32,21 +27,14 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "HTF / LTF",
-      "global_card_id": "high_low_time_frame",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "liquidity",
     "buy_side_liquidity",
     "sell_side_liquidity",
-    "swing_high",
     "order_block",
-    "market_structure",
-    "high_low_time_frame"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "ES",

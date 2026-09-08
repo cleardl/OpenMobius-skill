@@ -70,9 +70,7 @@
   "merge_strategy": "cross_project_synthesis",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
-  "illustrated_by_cases": [
-    "Education_-_ICT__vn1RYjhJUnQ_case_001_usd_1小时图有效c2扫盘确认"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "timeframe_pairing",
   "canonical_term": "Timeframe Pairing",
   "_embedding": [

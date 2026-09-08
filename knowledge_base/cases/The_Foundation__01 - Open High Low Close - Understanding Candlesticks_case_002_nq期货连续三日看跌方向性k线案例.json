@@ -4,11 +4,6 @@
   "title": "NQ期货连续三日看跌方向性K线在15分钟图上的结构拆解",
   "related_concepts": [
     {
-      "term": "Directional Candle",
-      "global_card_id": "directional_candle",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -55,7 +50,6 @@
     }
   ],
   "illustrates_concepts": [
-    "directional_candle",
     "liquidity_sweep",
     "equilibrium",
     "draw_on_liquidity",

@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
       "exists": true
@@ -34,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Failure Swing",
       "global_card_id": "failure_swing",
       "exists": true
@@ -46,12 +36,10 @@
   ],
   "illustrates_concepts": [
     "expansion",
-    "retracement",
     "fair_value_gap",
     "candle_two_closure",
     "change_in_state_of_delivery",
     "protected_swing",
-    "phases_of_price",
     "failure_swing"
   ],
   "school": "ICT",

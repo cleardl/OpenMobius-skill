@@ -37,11 +37,6 @@
       "term": "Mean Threshold",
       "global_card_id": "mean_threshold",
       "exists": true
-    },
-    {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "buy_side_liquidity",
     "equal_highs",
     "turtle_soup",
-    "mean_threshold",
-    "risk_to_reward_ratio"
+    "mean_threshold"
   ],
   "school": "ICT",
   "asset": "ES (E-mini S&P 500 Futures JUN 2023)",

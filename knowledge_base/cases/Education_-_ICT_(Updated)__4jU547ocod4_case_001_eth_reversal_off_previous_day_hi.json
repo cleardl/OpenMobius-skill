@@ -52,11 +52,6 @@
       "term": "Power of 3",
       "global_card_id": "accumulation_manipulation_distribution",
       "exists": true
-    },
-    {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -69,8 +64,7 @@
     "fair_value_gap",
     "order_block",
     "failure_swing",
-    "accumulation_manipulation_distribution",
-    "risk_to_reward_ratio"
+    "accumulation_manipulation_distribution"
   ],
   "school": "ICT",
   "asset": "ETH",

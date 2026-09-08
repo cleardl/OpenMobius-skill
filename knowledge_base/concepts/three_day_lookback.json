@@ -34,9 +34,7 @@
   "merge_strategy": "single_source_passthrough",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": null,
-  "illustrated_by_cases": [
-    "Education_-_ICT__FXJBFbZQbck_case_003_nasdaq日线多日偏差与订单块验证"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "three_day_lookback",
   "canonical_term": "Three Day Lookback",
   "_embedding": [

@@ -19,16 +19,6 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -38,8 +28,6 @@
     "change_in_state_of_delivery",
     "fair_value_gap",
     "retest_entry",
-    "phases_of_price",
-    "consolidation",
     "displacement"
   ],
   "school": "ICT",

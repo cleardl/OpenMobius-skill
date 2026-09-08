@@ -37,11 +37,6 @@
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "liquidity_sweep",
     "buy_side_liquidity",
     "point_of_interest",
-    "change_in_state_of_delivery",
-    "risk_to_reward_ratio"
+    "change_in_state_of_delivery"
   ],
   "school": "ICT",
   "asset": "ETH",

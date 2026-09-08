@@ -44,11 +44,6 @@
       "exists": true
     },
     {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
       "term": "Multi-timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -61,7 +56,6 @@
     "confluence",
     "balanced_price_range",
     "liquidity",
-    "price_action",
     "multiple_timeframe_analysis"
   ],
   "school": "SMC",

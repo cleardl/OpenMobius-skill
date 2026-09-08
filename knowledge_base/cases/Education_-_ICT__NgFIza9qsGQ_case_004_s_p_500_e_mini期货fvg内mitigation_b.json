@@ -27,19 +27,13 @@
       "term": "Market Structure Shift (MSS)",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
     "mitigation_block",
     "displacement",
-    "order_block",
-    "risk_management"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "ES (S&P 500 E-mini Futures)",

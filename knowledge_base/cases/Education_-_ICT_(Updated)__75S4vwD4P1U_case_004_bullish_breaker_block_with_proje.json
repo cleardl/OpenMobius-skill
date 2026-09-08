@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Mean Threshold",
       "global_card_id": "mean_threshold",
       "exists": true
@@ -45,7 +40,6 @@
     "fair_value_gap",
     "standard_deviation_projection",
     "manipulation_leg",
-    "risk_to_reward_ratio",
     "mean_threshold"
   ],
   "school": "ICT",

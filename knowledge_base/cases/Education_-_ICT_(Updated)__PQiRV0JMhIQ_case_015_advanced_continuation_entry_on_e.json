@@ -24,16 +24,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Fractal Model",
       "global_card_id": "fractal_model",
       "exists": true
@@ -44,8 +34,6 @@
     "fair_value_gap",
     "change_in_state_of_delivery",
     "higher_time_frame",
-    "risk_to_reward_ratio",
-    "retracement",
     "fractal_model"
   ],
   "school": "ICT",

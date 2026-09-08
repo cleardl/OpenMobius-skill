@@ -37,19 +37,13 @@
       "term": "Correlated Assets",
       "global_card_id": "correlated_pairs",
       "exists": true
-    },
-    {
-      "term": "Risk/Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "expansion",
     "reversal",
     "order_block",
-    "correlated_pairs",
-    "risk_to_reward_ratio"
+    "correlated_pairs"
   ],
   "school": "SMC",
   "asset": "GBPUSD",

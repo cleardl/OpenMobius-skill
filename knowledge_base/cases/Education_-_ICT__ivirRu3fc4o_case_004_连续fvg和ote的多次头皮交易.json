@@ -37,16 +37,6 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Scalping",
-      "global_card_id": "scalping",
-      "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -55,9 +45,7 @@
     "displacement",
     "discount",
     "order_block",
-    "market_structure",
-    "scalping",
-    "risk_management"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "NQ1!",

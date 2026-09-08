@@ -14,24 +14,9 @@
       "exists": true
     },
     {
-      "term": "Support",
-      "global_card_id": "support_level",
-      "exists": true
-    },
-    {
       "term": "Lower Highs",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Trading Range",
-      "global_card_id": "trading_range",
-      "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     },
     {
       "term": "Liquidity Sweep",
@@ -42,9 +27,6 @@
   "illustrates_concepts": [
     "market_structure",
     "break_of_structure",
-    "support_level",
-    "trading_range",
-    "price_action",
     "liquidity_sweep"
   ],
   "school": "ICT",

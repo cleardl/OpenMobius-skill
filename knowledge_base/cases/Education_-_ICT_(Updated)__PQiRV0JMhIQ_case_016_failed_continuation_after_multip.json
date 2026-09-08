@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Higher Time Frame",
       "global_card_id": "higher_time_frame",
       "exists": true
@@ -43,7 +38,6 @@
     "expansion",
     "reversal",
     "draw_on_liquidity",
-    "phases_of_price",
     "higher_time_frame",
     "liquidity_sweep",
     "retest_entry"

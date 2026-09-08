@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "破坏块",
       "global_card_id": "breaker_block",
       "exists": true
@@ -39,43 +34,18 @@
       "exists": true
     },
     {
-      "term": "SVP",
-      "global_card_id": "session_volume_profile",
-      "exists": true
-    },
-    {
-      "term": "POC",
-      "global_card_id": "point_of_control",
-      "exists": true
-    },
-    {
       "term": "EMA20",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "EMA60",
-      "global_card_id": "ema60",
-      "exists": true
-    },
-    {
-      "term": "R值",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
     "demand_zone",
     "supply_zone",
-    "support_and_resistance_flip",
     "breaker_block",
     "liquidity_sweep",
-    "fair_value_gap",
-    "session_volume_profile",
-    "point_of_control",
-    "ema60",
-    "risk_to_reward_ratio"
+    "fair_value_gap"
   ],
   "school": "SMC",
   "asset": "GOLD",

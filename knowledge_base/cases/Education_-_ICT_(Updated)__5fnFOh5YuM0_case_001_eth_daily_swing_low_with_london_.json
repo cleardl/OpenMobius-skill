@@ -4,11 +4,6 @@
   "title": "ETH Daily Swing Low Holds via SMT with ES, London Reversal and NY Continuation for 2R",
   "related_concepts": [
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "SMT",
       "global_card_id": "smart_money_technique",
       "exists": true
@@ -39,32 +34,19 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "8:30 News",
       "global_card_id": "8_30_economic_news_release",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
       "exists": true
     }
   ],
   "illustrates_concepts": [
-    "swing_low",
     "smart_money_technique",
     "london_reversal",
     "change_in_state_of_delivery",
     "fair_value_gap",
     "daily_profile",
     "time_frame_alignment",
-    "phases_of_price",
-    "8_30_economic_news_release",
-    "risk_to_reward_ratio"
+    "8_30_economic_news_release"
   ],
   "school": "ICT",
   "asset": "ETH",

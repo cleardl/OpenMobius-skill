@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "Profit Taking",
       "global_card_id": null,
       "exists": false
@@ -49,8 +44,7 @@
     "liquidity",
     "order_block",
     "failure_swing",
-    "market_structure",
-    "risk_management"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "RTY11",

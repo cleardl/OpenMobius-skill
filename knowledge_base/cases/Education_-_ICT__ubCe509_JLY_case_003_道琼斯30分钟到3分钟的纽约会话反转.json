@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
       "term": "Liquidity",
       "global_card_id": "liquidity",
       "exists": true
@@ -51,7 +46,6 @@
     "market_structure_shift",
     "failure_swing",
     "time_frame_alignment",
-    "price_action",
     "liquidity"
   ],
   "school": "ICT",

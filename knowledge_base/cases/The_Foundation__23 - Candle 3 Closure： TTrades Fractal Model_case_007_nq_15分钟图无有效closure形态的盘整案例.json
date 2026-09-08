@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Internal Range Liquidity",
       "global_card_id": "internal_range_liquidity",
       "exists": true
@@ -57,7 +52,6 @@
     "market_structure",
     "draw_on_liquidity",
     "sell_side_liquidity",
-    "swing_low",
     "internal_range_liquidity"
   ],
   "school": "ICT",

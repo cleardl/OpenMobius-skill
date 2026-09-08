@@ -69,21 +69,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
-    },
-    {
       "term": "Previous Day Low",
       "global_card_id": "previous_day_low",
       "exists": true
@@ -108,9 +93,6 @@
     "sell_side_liquidity",
     "market_structure",
     "multiple_timeframe_analysis",
-    "risk_to_reward_ratio",
-    "stop_loss",
-    "take_profit",
     "previous_day_low",
     "session_high"
   ],

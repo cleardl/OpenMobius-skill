@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "Optimal Trade Entry",
       "global_card_id": "optimal_trade_entry",
       "exists": true
@@ -45,7 +40,6 @@
     "displacement",
     "market_structure_shift",
     "liquidity",
-    "risk_management",
     "optimal_trade_entry"
   ],
   "school": "ICT",

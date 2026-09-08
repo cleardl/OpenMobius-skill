@@ -27,16 +27,6 @@
       "term": "Killzone",
       "global_card_id": "kill_zone",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
-      "term": "Silver Bullet AM Session",
-      "global_card_id": "silver_bullet_strategy",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -44,9 +34,7 @@
     "order_block",
     "fair_value_gap",
     "market_structure_shift",
-    "kill_zone",
-    "risk_management",
-    "silver_bullet_strategy"
+    "kill_zone"
   ],
   "school": "ICT",
   "asset": "NAS100",

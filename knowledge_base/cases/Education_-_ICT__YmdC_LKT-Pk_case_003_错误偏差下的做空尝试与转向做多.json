@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
       "term": "Bias Correction",
       "global_card_id": null,
       "exists": false
@@ -56,8 +51,7 @@
     "fair_value_gap",
     "optimal_trade_entry",
     "market_structure_shift",
-    "balanced_price_range",
-    "price_action"
+    "balanced_price_range"
   ],
   "school": "ICT",
   "asset": "ES",

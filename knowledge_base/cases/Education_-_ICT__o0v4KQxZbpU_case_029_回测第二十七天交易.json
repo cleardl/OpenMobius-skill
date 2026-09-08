@@ -27,11 +27,6 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -39,8 +34,7 @@
     "liquidity_sweep",
     "displacement",
     "order_block",
-    "market_structure",
-    "risk_management"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "NAS100",

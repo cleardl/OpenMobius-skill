@@ -47,11 +47,6 @@
       "term": "Candle 2 Closure",
       "global_card_id": "candle_two_closure",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -63,8 +58,7 @@
     "lower_time_frame",
     "liquidity_sweep",
     "t_spot",
-    "candle_two_closure",
-    "risk_to_reward_ratio"
+    "candle_two_closure"
   ],
   "school": "ICT",
   "asset": "BTCUSDT",

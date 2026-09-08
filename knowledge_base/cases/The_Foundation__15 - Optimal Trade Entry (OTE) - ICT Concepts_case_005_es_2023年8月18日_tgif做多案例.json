@@ -44,11 +44,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Sell Side Liquidity",
       "global_card_id": "sell_side_liquidity",
       "exists": true
@@ -78,7 +73,6 @@
     "fair_value_gap",
     "daily_open",
     "fibonacci_retracement",
-    "risk_to_reward_ratio",
     "sell_side_liquidity",
     "market_structure",
     "top_down_analysis",

@@ -49,9 +49,7 @@
   "merge_strategy": "cross_project_synthesis",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
-  "illustrated_by_cases": [
-    "Education_-_ICT__4Gm8p6O7Ebs_case_001_黄金小时图扩张走势分析"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "series_of_down_close_candles",
   "canonical_term": "Series of Down Close Candles",
   "_embedding": [

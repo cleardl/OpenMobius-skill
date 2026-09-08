@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Higher Time Frame",
       "global_card_id": "higher_time_frame",
       "exists": true
@@ -51,7 +46,6 @@
     "liquidity_sweep",
     "change_in_state_of_delivery",
     "failure_swing",
-    "risk_to_reward_ratio",
     "higher_time_frame"
   ],
   "school": "ICT",

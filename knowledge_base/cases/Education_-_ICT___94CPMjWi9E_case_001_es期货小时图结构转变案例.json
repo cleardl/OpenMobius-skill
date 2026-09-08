@@ -42,11 +42,6 @@
       "term": "High Time Frame (HTF)",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Swing High/Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -55,8 +50,7 @@
     "order_block",
     "optimal_trade_entry",
     "liquidity",
-    "displacement",
-    "swing_high_swing_low"
+    "displacement"
   ],
   "school": "ICT",
   "asset": "ES11",

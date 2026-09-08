@@ -4,11 +4,6 @@
   "title": "BTC日线wick被尊重后的小时级扩展",
   "related_concepts": [
     {
-      "term": "Wick",
-      "global_card_id": "wick",
-      "exists": true
-    },
-    {
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
       "exists": true
@@ -40,7 +35,6 @@
     }
   ],
   "illustrates_concepts": [
-    "wick",
     "fair_value_gap",
     "order_block",
     "market_structure_shift",

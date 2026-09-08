@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -50,7 +45,6 @@
     "v_shaped_reversal",
     "fair_value_gap",
     "change_in_state_of_delivery",
-    "consolidation",
     "liquidity_sweep",
     "point_of_interest"
   ],

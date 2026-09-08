@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "飞波回撤",
       "global_card_id": "fibonacci_retracement",
       "exists": true
@@ -36,11 +31,6 @@
     {
       "term": "流动性",
       "global_card_id": "liquidity",
-      "exists": true
-    },
-    {
-      "term": "扩级",
-      "global_card_id": "level_expansion_validation",
       "exists": true
     },
     {
@@ -53,10 +43,8 @@
     "fair_value_gap",
     "supply_zone",
     "demand_zone",
-    "support_and_resistance_flip",
     "fibonacci_retracement",
-    "liquidity",
-    "level_expansion_validation"
+    "liquidity"
   ],
   "school": "SMC",
   "asset": "GOLD",

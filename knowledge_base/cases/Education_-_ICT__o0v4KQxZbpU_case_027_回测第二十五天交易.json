@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "3R Target",
       "global_card_id": null,
       "exists": false
@@ -44,8 +39,7 @@
     "order_block",
     "liquidity_sweep",
     "displacement",
-    "market_structure",
-    "risk_management"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "NAS100",

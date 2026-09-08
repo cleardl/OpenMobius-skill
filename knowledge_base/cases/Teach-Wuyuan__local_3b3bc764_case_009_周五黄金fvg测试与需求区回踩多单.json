@@ -19,41 +19,6 @@
       "exists": false
     },
     {
-      "term": "破土",
-      "global_card_id": "break_土_signal_line",
-      "exists": true
-    },
-    {
-      "term": "收线止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
-    },
-    {
-      "term": "VP",
-      "global_card_id": "vrvp",
-      "exists": true
-    },
-    {
-      "term": "SVP",
-      "global_card_id": "session_volume_profile",
-      "exists": true
-    },
-    {
-      "term": "EMA60",
-      "global_card_id": "ema60",
-      "exists": true
-    },
-    {
-      "term": "扩级",
-      "global_card_id": "level_expansion_validation",
-      "exists": true
-    },
-    {
-      "term": "R值",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -62,13 +27,6 @@
   "illustrates_concepts": [
     "fair_value_gap",
     "demand_zone",
-    "break_土_signal_line",
-    "hard_stop_close_stop",
-    "vrvp",
-    "session_volume_profile",
-    "ema60",
-    "level_expansion_validation",
-    "risk_to_reward_ratio",
     "liquidity_sweep"
   ],
   "school": "SMC",

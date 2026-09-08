@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Impulse Move",
-      "global_card_id": "impulse_move",
-      "exists": true
-    },
-    {
       "term": "Corrective Move",
       "global_card_id": "corrective_move",
       "exists": true
@@ -50,7 +45,6 @@
     "market_structure",
     "liquidity_sweep",
     "premium",
-    "impulse_move",
     "corrective_move"
   ],
   "school": "SMC",

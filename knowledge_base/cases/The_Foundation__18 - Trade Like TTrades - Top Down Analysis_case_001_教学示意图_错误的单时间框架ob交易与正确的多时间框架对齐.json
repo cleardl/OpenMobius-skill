@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -51,7 +46,6 @@
     "bias",
     "liquidity_sweep",
     "change_in_state_of_delivery",
-    "stop_loss",
     "market_structure"
   ],
   "school": "ICT",

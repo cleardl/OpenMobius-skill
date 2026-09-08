@@ -17,17 +17,11 @@
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
-    "displacement",
-    "price_action"
+    "displacement"
   ],
   "school": "ICT",
   "asset": "ES (S&P 500 E-mini Futures)",

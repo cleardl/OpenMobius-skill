@@ -55,10 +55,8 @@
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
   "illustrated_by_cases": [
-    "Education_-_ICT__EYzP7c24AwM_case_003_nq纳指期货多个时间框架分析",
     "Education_-_ICT__EYzP7c24AwM_case_004_es标普500期货15分钟案例",
-    "Education_-_ICT__FAKWJ-1NlLE_case_001_nq期货_周三反转周四延续案例",
-    "Education_-_ICT__SlWxhzhLo3A_case_004_黄金15分钟多重反转扩张案例"
+    "Education_-_ICT__FAKWJ-1NlLE_case_001_nq期货_周三反转周四延续案例"
   ],
   "card_id": "opposing_run",
   "canonical_term": "Opposing Run",

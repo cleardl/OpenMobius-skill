@@ -42,11 +42,6 @@
       "term": "Fractal Model",
       "global_card_id": "fractal_model",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "higher_time_frame",
     "lower_time_frame",
     "daily_bias",
-    "fractal_model",
-    "risk_to_reward_ratio"
+    "fractal_model"
   ],
   "school": "ICT",
   "asset": "ETH",

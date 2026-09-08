@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Daily Closure Alignment",
       "global_card_id": null,
       "exists": false
@@ -54,8 +49,7 @@
     "order_block",
     "equilibrium",
     "displacement",
-    "premium_and_discount",
-    "phases_of_price"
+    "premium_and_discount"
   ],
   "school": "ICT",
   "asset": "GBPUSD",

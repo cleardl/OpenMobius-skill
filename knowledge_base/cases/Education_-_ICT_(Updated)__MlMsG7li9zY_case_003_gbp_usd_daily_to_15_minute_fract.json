@@ -54,11 +54,6 @@
       "exists": true
     },
     {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Top Down Analysis",
       "global_card_id": "top_down_analysis",
       "exists": true
@@ -75,7 +70,6 @@
     "previous_day_low",
     "asia_session",
     "midnight_open",
-    "risk_to_reward_ratio",
     "top_down_analysis"
   ],
   "school": "ICT",

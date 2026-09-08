@@ -19,11 +19,6 @@
       "exists": false
     },
     {
-      "term": "Risk-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -42,7 +37,6 @@
   "illustrates_concepts": [
     "box_setup",
     "order_block",
-    "risk_to_reward_ratio",
     "market_structure",
     "displacement",
     "deviation_from_range"

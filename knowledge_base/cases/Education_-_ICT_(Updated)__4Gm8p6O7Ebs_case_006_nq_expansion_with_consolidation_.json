@@ -9,21 +9,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -36,9 +21,6 @@
   ],
   "illustrates_concepts": [
     "expansion",
-    "retracement",
-    "consolidation",
-    "phases_of_price",
     "liquidity_sweep",
     "draw_on_liquidity"
   ],

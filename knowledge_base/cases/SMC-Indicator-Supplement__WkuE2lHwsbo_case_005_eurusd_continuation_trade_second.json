@@ -37,16 +37,6 @@
       "term": "Buy Limit Order",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
-    },
-    {
-      "term": "Position Sizing",
-      "global_card_id": "position_sizing",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -54,9 +44,7 @@
     "inefficiency",
     "demand_zone",
     "order_block",
-    "liquidity_sweep",
-    "take_profit",
-    "position_sizing"
+    "liquidity_sweep"
   ],
   "school": "SMC",
   "asset": "EURUSD",

@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Down-Close Candle",
-      "global_card_id": "down_close_candle",
-      "exists": true
-    },
-    {
       "term": "Market Structure Shift",
       "global_card_id": "market_structure_shift",
       "exists": true
@@ -37,7 +32,6 @@
   "illustrates_concepts": [
     "continuation_order_block",
     "order_block",
-    "down_close_candle",
     "market_structure_shift",
     "liquidity_sweep",
     "displacement"

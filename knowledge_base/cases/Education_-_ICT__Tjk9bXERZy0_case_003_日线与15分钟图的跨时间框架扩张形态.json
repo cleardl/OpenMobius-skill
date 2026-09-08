@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "Outside Bar",
-      "global_card_id": "outside_bar",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -37,21 +32,14 @@
       "term": "Accumulation Manipulation Distribution",
       "global_card_id": "accumulation_manipulation_distribution",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "broadening_formation",
-    "outside_bar",
     "market_structure",
     "liquidity",
     "daily_profile",
-    "accumulation_manipulation_distribution",
-    "price_action"
+    "accumulation_manipulation_distribution"
   ],
   "school": "SMC",
   "asset": "NQ1",

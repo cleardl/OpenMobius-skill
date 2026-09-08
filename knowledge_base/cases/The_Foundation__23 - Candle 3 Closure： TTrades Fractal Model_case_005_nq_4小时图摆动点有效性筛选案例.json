@@ -19,16 +19,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Failure Swing",
       "global_card_id": "failure_swing",
       "exists": true
@@ -48,8 +38,6 @@
     "candle_two_closure",
     "candle_three_closure",
     "fair_value_gap",
-    "swing_high",
-    "swing_low",
     "failure_swing",
     "draw_on_liquidity",
     "market_structure"
