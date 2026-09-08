@@ -32,16 +32,6 @@
       "term": "Draw On Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -50,9 +40,7 @@
     "liquidity_sweep",
     "inversion_fair_value_gap",
     "failure_swing",
-    "draw_on_liquidity",
-    "stop_loss",
-    "take_profit"
+    "draw_on_liquidity"
   ],
   "school": "ICT",
   "asset": "NQ1!",

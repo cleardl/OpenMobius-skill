@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
       "term": "Continuation Pattern",
       "global_card_id": "continuation_pattern",
       "exists": true
@@ -44,7 +39,6 @@
     "equilibrium",
     "order_block",
     "displacement",
-    "price_action",
     "continuation_pattern"
   ],
   "school": "ICT",

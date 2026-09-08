@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
-    },
-    {
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
@@ -62,7 +57,6 @@
     "accumulation_manipulation_distribution",
     "displacement",
     "discount",
-    "swing_point",
     "change_in_state_of_delivery",
     "time_frame_alignment"
   ],

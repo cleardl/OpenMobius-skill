@@ -39,11 +39,6 @@
       "exists": false
     },
     {
-      "term": "Open High Low Close (OHLC)",
-      "global_card_id": "open_high_low_close",
-      "exists": true
-    },
-    {
       "term": "Optimal Trade Entry (OTE)",
       "global_card_id": "optimal_trade_entry",
       "exists": true
@@ -55,7 +50,6 @@
     "displacement",
     "sell_side_liquidity",
     "manipulation",
-    "open_high_low_close",
     "optimal_trade_entry"
   ],
   "school": "ICT",

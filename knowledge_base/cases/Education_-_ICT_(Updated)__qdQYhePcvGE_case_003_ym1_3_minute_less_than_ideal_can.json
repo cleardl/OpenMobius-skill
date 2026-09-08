@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Market Structure Shift",
       "global_card_id": "market_structure_shift",
       "exists": true
@@ -43,7 +38,6 @@
     "order_block",
     "protected_swing",
     "premium_discount_array",
-    "risk_to_reward_ratio",
     "market_structure_shift"
   ],
   "school": "ICT",

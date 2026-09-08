@@ -9,18 +9,8 @@
       "exists": false
     },
     {
-      "term": "Divergence",
-      "global_card_id": "divergence",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
-      "exists": true
-    },
-    {
-      "term": "Swing High / Swing Low",
-      "global_card_id": "swing_high_swing_low",
       "exists": true
     },
     {
@@ -32,20 +22,12 @@
       "term": "Point of Interest",
       "global_card_id": "point_of_interest",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "divergence",
     "market_structure",
-    "swing_high_swing_low",
     "liquidity",
-    "point_of_interest",
-    "risk_management"
+    "point_of_interest"
   ],
   "school": "SMC",
   "asset": "ES / NQ",

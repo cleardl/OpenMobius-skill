@@ -4,11 +4,6 @@
   "title": "CL1! 3-minute consolidation range reversal: manipulation of low, inversion, change in state of delivery, then expansion to range high",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Turtle Soup",
       "global_card_id": "turtle_soup",
       "exists": true
@@ -50,7 +45,6 @@
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
     "turtle_soup",
     "change_of_character",
     "change_in_state_of_delivery",

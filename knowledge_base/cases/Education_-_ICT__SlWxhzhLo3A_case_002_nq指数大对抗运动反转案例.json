@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "Large Opposing Run",
-      "global_card_id": "large_opposing_run",
-      "exists": true
-    },
-    {
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
       "exists": true
@@ -34,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Inducement",
       "global_card_id": "inducement",
       "exists": true
@@ -46,12 +36,10 @@
   ],
   "illustrates_concepts": [
     "displacement",
-    "large_opposing_run",
     "fair_value_gap",
     "market_structure_shift",
     "protected_swing",
     "order_block",
-    "consolidation",
     "inducement"
   ],
   "school": "ICT",

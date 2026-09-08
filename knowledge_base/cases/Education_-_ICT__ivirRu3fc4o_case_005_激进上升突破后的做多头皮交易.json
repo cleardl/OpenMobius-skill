@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Scalping",
-      "global_card_id": "scalping",
-      "exists": true
-    },
-    {
       "term": "Premium/Discount Zone",
       "global_card_id": null,
       "exists": false
@@ -50,7 +45,6 @@
     "displacement",
     "optimal_trade_entry",
     "fibonacci_retracement",
-    "scalping",
     "market_structure"
   ],
   "school": "ICT",

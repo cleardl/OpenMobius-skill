@@ -27,16 +27,6 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
-      "term": "Support and Resistance",
-      "global_card_id": "support_and_resistance",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -44,9 +34,7 @@
     "order_block",
     "balanced_price_range",
     "displacement",
-    "market_structure",
-    "price_action",
-    "support_and_resistance"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "CME_MINI",

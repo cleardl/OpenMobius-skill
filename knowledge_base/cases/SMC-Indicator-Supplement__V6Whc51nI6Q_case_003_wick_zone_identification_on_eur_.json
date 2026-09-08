@@ -27,11 +27,6 @@
       "term": "Imbalance",
       "global_card_id": "imbalance",
       "exists": true
-    },
-    {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -39,8 +34,7 @@
     "liquidity_sweep",
     "wick_zone",
     "break_of_structure",
-    "imbalance",
-    "risk_to_reward_ratio"
+    "imbalance"
   ],
   "school": "SMC",
   "asset": "EURUSD",

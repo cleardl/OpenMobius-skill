@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Engulfing Candle",
-      "global_card_id": "engulfing_candle",
-      "exists": true
-    },
-    {
       "term": "Break of Structure",
       "global_card_id": "break_of_structure",
       "exists": true
@@ -42,7 +37,6 @@
   "illustrates_concepts": [
     "order_block",
     "liquidity_sweep",
-    "engulfing_candle",
     "break_of_structure",
     "inducement",
     "sell_side_liquidity"

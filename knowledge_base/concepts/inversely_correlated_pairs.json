@@ -47,9 +47,7 @@
   "merge_strategy": "cross_project_synthesis",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
-  "illustrated_by_cases": [
-    "Education_-_ICT__27S9gjgcSlI_case_006_dxy与eur_usd反向相关smt识别"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "inversely_correlated_pairs",
   "canonical_term": "Inversely Correlated Pairs",
   "_embedding": [

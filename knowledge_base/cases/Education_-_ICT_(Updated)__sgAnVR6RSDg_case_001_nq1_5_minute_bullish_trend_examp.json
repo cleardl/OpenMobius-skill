@@ -14,16 +14,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -41,8 +31,6 @@
   ],
   "illustrates_concepts": [
     "market_structure_shift",
-    "swing_high",
-    "swing_low",
     "displacement",
     "liquidity_sweep",
     "protected_swing"

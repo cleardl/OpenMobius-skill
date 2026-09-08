@@ -22,31 +22,13 @@
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss Placement",
-      "global_card_id": "stop_loss_placement",
-      "exists": true
-    },
-    {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "unicorn_model",
     "breaker_block",
     "fair_value_gap",
-    "displacement",
-    "risk_to_reward_ratio",
-    "stop_loss_placement",
-    "swing_high"
+    "displacement"
   ],
   "school": "ICT",
   "asset": "EURUSD",

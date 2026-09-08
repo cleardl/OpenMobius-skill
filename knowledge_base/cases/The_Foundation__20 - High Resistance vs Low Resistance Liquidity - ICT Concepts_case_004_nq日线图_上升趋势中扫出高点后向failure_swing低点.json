@@ -34,16 +34,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Sell Side Liquidity",
       "global_card_id": "sell_side_liquidity",
       "exists": true
@@ -61,8 +51,6 @@
     "liquidity_sweep",
     "draw_on_liquidity",
     "market_structure",
-    "swing_high",
-    "swing_low",
     "sell_side_liquidity",
     "bias"
   ],

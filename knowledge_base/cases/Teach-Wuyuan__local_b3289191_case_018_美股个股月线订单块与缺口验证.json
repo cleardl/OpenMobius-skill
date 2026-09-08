@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "破坏块",
       "global_card_id": "breaker_block",
       "exists": true
@@ -26,11 +21,6 @@
     {
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
-      "exists": true
-    },
-    {
-      "term": "EMA",
-      "global_card_id": "exponential_moving_average",
       "exists": true
     },
     {
@@ -42,10 +32,8 @@
   "illustrates_concepts": [
     "fair_value_gap",
     "order_block",
-    "support_and_resistance_flip",
     "breaker_block",
     "liquidity_sweep",
-    "exponential_moving_average",
     "fair_value_gap_rebalance"
   ],
   "school": "SMC",

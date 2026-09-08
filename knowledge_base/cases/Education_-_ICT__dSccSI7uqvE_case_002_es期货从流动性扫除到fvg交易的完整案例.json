@@ -37,11 +37,6 @@
       "term": "Market Structure Shift (MSS)",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "HTF / LTF",
-      "global_card_id": "high_low_time_frame",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -50,8 +45,7 @@
     "displacement",
     "broadening_formation",
     "premium_and_discount",
-    "order_block",
-    "high_low_time_frame"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "ES",

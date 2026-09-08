@@ -24,16 +24,6 @@
       "exists": true
     },
     {
-      "term": "OHLC",
-      "global_card_id": "open_high_low_close",
-      "exists": true
-    },
-    {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Daily Profile",
       "global_card_id": "daily_profile",
       "exists": true
@@ -49,8 +39,6 @@
     "liquidity_sweep",
     "change_in_state_of_delivery",
     "consequent_encroachment",
-    "open_high_low_close",
-    "reversal_candle",
     "daily_profile",
     "draw_on_liquidity"
   ],

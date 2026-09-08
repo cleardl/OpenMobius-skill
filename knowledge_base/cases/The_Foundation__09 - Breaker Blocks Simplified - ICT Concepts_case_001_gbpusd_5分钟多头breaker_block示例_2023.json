@@ -54,33 +54,8 @@
       "exists": true
     },
     {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Timeframe Alignment",
       "global_card_id": "multiple_timeframe_analysis",
-      "exists": true
-    },
-    {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
       "exists": true
     },
     {
@@ -100,12 +75,7 @@
     "manipulation",
     "premium_discount_array",
     "order_block",
-    "stop_loss",
-    "take_profit",
-    "risk_to_reward_ratio",
     "multiple_timeframe_analysis",
-    "swing_high",
-    "swing_low",
     "market_structure"
   ],
   "school": "ICT",

@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Impulse Move",
-      "global_card_id": "impulse_move",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -51,7 +46,6 @@
     "buy_side_liquidity",
     "equal_lows",
     "equal_highs",
-    "impulse_move",
     "market_structure"
   ],
   "school": "SMC",

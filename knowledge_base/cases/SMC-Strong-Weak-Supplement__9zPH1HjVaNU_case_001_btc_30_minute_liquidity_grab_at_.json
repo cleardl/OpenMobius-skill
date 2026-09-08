@@ -9,16 +9,6 @@
       "exists": true
     },
     {
-      "term": "Resistance",
-      "global_card_id": "resistance_level",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
       "term": "Smart Money Concepts",
       "global_card_id": "smart_money_concepts",
       "exists": true
@@ -27,26 +17,12 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Wick",
-      "global_card_id": "wick",
-      "exists": true
-    },
-    {
-      "term": "Risk/Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "liquidity_grab",
-    "resistance_level",
-    "stop_loss",
     "smart_money_concepts",
-    "market_structure",
-    "wick",
-    "risk_to_reward_ratio"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "BTCUSDT",

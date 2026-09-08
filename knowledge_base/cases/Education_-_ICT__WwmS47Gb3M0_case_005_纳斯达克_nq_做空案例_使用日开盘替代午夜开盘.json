@@ -37,11 +37,6 @@
       "term": "Daily Open",
       "global_card_id": "daily_open",
       "exists": true
-    },
-    {
-      "term": "Risk Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -49,8 +44,7 @@
     "order_block",
     "smart_money_technique",
     "liquidity",
-    "daily_open",
-    "risk_to_reward_ratio"
+    "daily_open"
   ],
   "school": "ICT",
   "asset": "NQ",

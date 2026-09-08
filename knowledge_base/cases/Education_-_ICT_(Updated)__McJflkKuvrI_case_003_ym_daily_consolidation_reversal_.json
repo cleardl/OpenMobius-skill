@@ -44,11 +44,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Expansion",
       "global_card_id": "expansion",
       "exists": true
@@ -62,7 +57,6 @@
     "weekly_profile",
     "higher_time_frame",
     "draw_on_liquidity",
-    "retracement",
     "expansion"
   ],
   "school": "ICT",

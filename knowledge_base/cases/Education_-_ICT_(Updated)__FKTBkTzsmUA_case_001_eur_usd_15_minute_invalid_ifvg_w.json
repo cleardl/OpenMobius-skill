@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Draw on Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
@@ -44,7 +39,6 @@
     "fair_value_gap",
     "candle_two_closure",
     "liquidity_sweep",
-    "consolidation",
     "draw_on_liquidity",
     "displacement"
   ],

@@ -44,16 +44,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Bias",
       "global_card_id": "bias",
       "exists": true
@@ -73,8 +63,6 @@
     "next_day_model",
     "premium_discount_array",
     "order_block",
-    "swing_high",
-    "swing_low",
     "bias",
     "top_down_analysis"
   ],

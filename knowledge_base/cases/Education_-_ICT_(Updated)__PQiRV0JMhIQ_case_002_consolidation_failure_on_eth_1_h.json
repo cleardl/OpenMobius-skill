@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -32,21 +27,14 @@
       "term": "Continuation Entry",
       "global_card_id": "retest_entry",
       "exists": true
-    },
-    {
-      "term": "Down-Close Candle",
-      "global_card_id": "down_close_candle",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "change_in_state_of_delivery",
     "v_shaped_reversal",
     "fair_value_gap",
-    "consolidation",
     "liquidity_sweep",
-    "retest_entry",
-    "down_close_candle"
+    "retest_entry"
   ],
   "school": "ICT",
   "asset": "ETH",

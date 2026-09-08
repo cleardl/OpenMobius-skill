@@ -42,11 +42,6 @@
       "term": "Sell Side Liquidity",
       "global_card_id": "sell_side_liquidity",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "market_structure_shift",
     "premium",
     "equal_lows",
-    "sell_side_liquidity",
-    "risk_to_reward_ratio"
+    "sell_side_liquidity"
   ],
   "school": "ICT",
   "asset": "NQ1!",

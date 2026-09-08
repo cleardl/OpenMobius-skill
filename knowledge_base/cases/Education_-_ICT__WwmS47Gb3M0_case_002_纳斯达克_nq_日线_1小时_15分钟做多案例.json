@@ -47,11 +47,6 @@
       "term": "Midnight Open",
       "global_card_id": "midnight_open",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -61,8 +56,7 @@
     "equilibrium",
     "premium_and_discount",
     "liquidity",
-    "midnight_open",
-    "risk_management"
+    "midnight_open"
   ],
   "school": "ICT",
   "asset": "NQ",

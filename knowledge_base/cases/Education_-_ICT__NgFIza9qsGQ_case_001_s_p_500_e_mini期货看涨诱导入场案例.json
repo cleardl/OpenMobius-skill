@@ -32,11 +32,6 @@
       "term": "Liquidity",
       "global_card_id": "liquidity",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -45,8 +40,7 @@
     "displacement",
     "trend",
     "market_structure",
-    "liquidity",
-    "risk_management"
+    "liquidity"
   ],
   "school": "ICT",
   "asset": "ES (S&P 500 E-mini Futures)",

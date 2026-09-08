@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Low Resistance Liquidity",
       "global_card_id": "low_resistance_liquidity",
       "exists": true
@@ -62,7 +57,6 @@
     "previous_week_high_low",
     "retest_entry",
     "change_in_state_of_delivery",
-    "risk_to_reward_ratio",
     "low_resistance_liquidity",
     "smart_money_technique"
   ],

@@ -37,16 +37,6 @@
       "term": "Sell Limit Order",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
-      "term": "Trend Line",
-      "global_card_id": "trend_line",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -55,9 +45,7 @@
     "supply_zone",
     "liquidity_sweep",
     "inefficiency",
-    "order_block",
-    "swing_low",
-    "trend_line"
+    "order_block"
   ],
   "school": "SMC",
   "asset": "XAUUSD",

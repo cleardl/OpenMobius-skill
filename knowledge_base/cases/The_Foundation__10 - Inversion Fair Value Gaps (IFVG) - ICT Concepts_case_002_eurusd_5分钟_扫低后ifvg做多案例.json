@@ -49,11 +49,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Top Down Analysis",
       "global_card_id": "top_down_analysis",
       "exists": true
@@ -74,7 +69,6 @@
     "external_range_liquidity",
     "internal_range_liquidity",
     "draw_on_liquidity",
-    "risk_to_reward_ratio",
     "top_down_analysis",
     "multiple_timeframe_analysis"
   ],

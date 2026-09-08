@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Standard Deviation Projection",
       "global_card_id": "standard_deviation_projection",
       "exists": true
@@ -48,7 +43,6 @@
     "protected_swing",
     "fair_value_gap",
     "change_in_state_of_delivery",
-    "risk_to_reward_ratio",
     "standard_deviation_projection",
     "sell_side_liquidity",
     "point_of_interest",

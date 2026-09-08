@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -57,7 +52,6 @@
     "buy_side_liquidity",
     "daily_bias",
     "top_down_analysis",
-    "risk_to_reward_ratio",
     "liquidity_sweep"
   ],
   "school": "ICT",

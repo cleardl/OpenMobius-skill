@@ -64,11 +64,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Timeframe Alignment",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -92,7 +87,6 @@
     "discount",
     "liquidity_sweep",
     "standard_deviation_projection",
-    "risk_to_reward_ratio",
     "multiple_timeframe_analysis",
     "draw_on_liquidity"
   ],

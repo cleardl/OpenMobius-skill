@@ -32,11 +32,6 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -45,8 +40,7 @@
     "fair_value_gap",
     "liquidity",
     "kill_zone",
-    "market_structure",
-    "risk_management"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "NAS100",

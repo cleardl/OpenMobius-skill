@@ -52,16 +52,6 @@
       "term": "Draw On Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -74,9 +64,7 @@
     "mean_threshold",
     "propulsion_block",
     "sell_side_liquidity",
-    "draw_on_liquidity",
-    "stop_loss",
-    "take_profit"
+    "draw_on_liquidity"
   ],
   "school": "ICT",
   "asset": "ES1!",

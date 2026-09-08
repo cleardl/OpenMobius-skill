@@ -37,11 +37,6 @@
       "term": "Next Day Model",
       "global_card_id": "next_day_model",
       "exists": true
-    },
-    {
-      "term": "Inside Bar",
-      "global_card_id": "inside_bar",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "displacement",
     "liquidity_sweep",
     "daily_bias",
-    "next_day_model",
-    "inside_bar"
+    "next_day_model"
   ],
   "school": "ICT",
   "asset": "ETH",

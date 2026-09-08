@@ -9,21 +9,6 @@
       "exists": true
     },
     {
-      "term": "Support",
-      "global_card_id": "support_level",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Risk/Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Smart Money Concepts",
       "global_card_id": "smart_money_concepts",
       "exists": true
@@ -36,9 +21,6 @@
   ],
   "illustrates_concepts": [
     "liquidity_sweep",
-    "support_level",
-    "stop_loss",
-    "risk_to_reward_ratio",
     "smart_money_concepts",
     "market_structure"
   ],

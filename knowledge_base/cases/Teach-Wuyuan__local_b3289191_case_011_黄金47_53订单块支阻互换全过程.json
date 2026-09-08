@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "需求区",
       "global_card_id": "demand_zone",
       "exists": true
@@ -32,21 +27,14 @@
       "term": "FVG",
       "global_card_id": "fair_value_gap",
       "exists": true
-    },
-    {
-      "term": "硬止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
     "breaker_block",
-    "support_and_resistance_flip",
     "demand_zone",
     "supply_zone",
-    "fair_value_gap",
-    "hard_stop_close_stop"
+    "fair_value_gap"
   ],
   "school": "SMC",
   "asset": "GOLD",

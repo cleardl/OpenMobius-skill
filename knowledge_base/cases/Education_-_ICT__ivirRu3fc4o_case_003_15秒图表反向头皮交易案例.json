@@ -47,11 +47,6 @@
       "term": "Multi-timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
-    },
-    {
-      "term": "Scalping",
-      "global_card_id": "scalping",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -60,8 +55,7 @@
     "optimal_trade_entry",
     "displacement",
     "liquidity",
-    "multiple_timeframe_analysis",
-    "scalping"
+    "multiple_timeframe_analysis"
   ],
   "school": "ICT",
   "asset": "NQ1!",

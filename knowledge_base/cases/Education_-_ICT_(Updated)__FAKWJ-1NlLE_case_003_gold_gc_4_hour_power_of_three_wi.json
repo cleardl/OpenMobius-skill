@@ -54,11 +54,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Continuation Entry",
       "global_card_id": "retest_entry",
       "exists": true
@@ -75,7 +70,6 @@
     "candle_three_closure",
     "london_session",
     "expansion",
-    "reversal_candle",
     "retest_entry"
   ],
   "school": "ICT",

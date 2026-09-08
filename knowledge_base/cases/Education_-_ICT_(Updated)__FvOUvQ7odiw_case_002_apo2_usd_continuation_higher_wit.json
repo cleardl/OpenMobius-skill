@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Expansion",
       "global_card_id": "expansion",
       "exists": true
@@ -38,7 +33,6 @@
     "fair_value_gap",
     "failure_swing",
     "retest_entry",
-    "phases_of_price",
     "expansion",
     "daily_bias"
   ],

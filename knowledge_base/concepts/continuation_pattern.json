@@ -55,12 +55,10 @@
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
   "illustrated_by_cases": [
-    "Education_-_ICT__-KKuZb5Z5aU_case_001_ym日线延续交易案例",
     "Education_-_ICT__FgP2lc9nneM_case_002_黄金_gc_多日扫盘后的看空交易",
     "Education_-_ICT__PQiRV0JMhIQ_case_001_btc_1小时图_理想的v形反转continuation",
     "Education_-_ICT__jKuXaC84Qx4_case_004_第四个例子_公允价值缺口与eq失效",
-    "Education_-_ICT__vn1RYjhJUnQ_case_005_1小时c2闭合配合15分钟延续",
-    "SMC-Strong-Weak-Supplement__BZSj7ZxndNY_case_002_tesla_rising_wedge_and_falling_w"
+    "Education_-_ICT__vn1RYjhJUnQ_case_005_1小时c2闭合配合15分钟延续"
   ],
   "card_id": "continuation_pattern",
   "canonical_term": "Continuation Pattern",

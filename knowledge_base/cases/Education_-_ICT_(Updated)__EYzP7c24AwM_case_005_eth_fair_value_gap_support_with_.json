@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Down-Close Candle",
-      "global_card_id": "down_close_candle",
-      "exists": true
-    },
-    {
       "term": "NY Open",
       "global_card_id": null,
       "exists": false
@@ -50,7 +45,6 @@
     "liquidity_sweep",
     "new_york_open",
     "8_30_economic_news_release",
-    "down_close_candle",
     "kill_zone"
   ],
   "school": "ICT",

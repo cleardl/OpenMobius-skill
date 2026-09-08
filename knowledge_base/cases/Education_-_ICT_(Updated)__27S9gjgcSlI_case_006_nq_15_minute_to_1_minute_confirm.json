@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "PD Array",
       "global_card_id": "premium_discount_array",
       "exists": true
@@ -67,7 +62,6 @@
     "change_in_state_of_delivery",
     "draw_on_liquidity",
     "equal_lows",
-    "risk_to_reward_ratio",
     "premium_discount_array",
     "lower_time_frame",
     "displacement"

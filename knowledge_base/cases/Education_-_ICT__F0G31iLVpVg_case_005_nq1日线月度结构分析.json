@@ -29,11 +29,6 @@
       "exists": false
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -48,7 +43,6 @@
     "fair_value_gap",
     "order_block",
     "accumulation_manipulation_distribution",
-    "retracement",
     "displacement",
     "opposing_candle"
   ],

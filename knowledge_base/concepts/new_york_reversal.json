@@ -59,11 +59,6 @@
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
   "illustrated_by_cases": [
-    "Daily_Profiles__xdzyejskSKE_case_001_light_crude_oil_cl1_new_york_rev",
-    "Daily_Profiles__xdzyejskSKE_case_002_light_crude_oil_cl1_fake_london_",
-    "Daily_Profiles__xdzyejskSKE_case_003_light_crude_oil_cl1_daily_revers",
-    "Daily_Profiles__xdzyejskSKE_case_004_nasdaq_100_nq1_new_york_reversal",
-    "Daily_Profiles__xdzyejskSKE_case_005_s_p_500_es1_new_york_reversal_wi",
     "Education_-_ICT_(Updated)__1YRs4Z1lMws_case_005_es_daily_tgif_setup_with_5_minut",
     "Education_-_ICT_(Updated)__EYzP7c24AwM_case_001_eth_bearish_daily_reversal_with_"
   ],

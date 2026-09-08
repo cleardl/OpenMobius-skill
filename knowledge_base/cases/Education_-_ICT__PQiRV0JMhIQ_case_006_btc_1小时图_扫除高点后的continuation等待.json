@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
-    },
-    {
       "term": "Point of Interest",
       "global_card_id": "point_of_interest",
       "exists": true
@@ -48,7 +43,6 @@
     "fair_value_gap",
     "order_block",
     "continuation",
-    "swing_point",
     "point_of_interest",
     "manipulation",
     "market_structure",

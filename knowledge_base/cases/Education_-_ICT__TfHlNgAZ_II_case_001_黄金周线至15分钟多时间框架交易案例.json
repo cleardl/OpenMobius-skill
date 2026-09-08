@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Swing High / Swing Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
-    },
-    {
       "term": "Propulsion Block",
       "global_card_id": "propulsion_block",
       "exists": true
@@ -47,11 +42,6 @@
       "term": "Killzone",
       "global_card_id": "kill_zone",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -60,11 +50,9 @@
     "external_range_liquidity",
     "internal_range_liquidity",
     "change_in_state_of_delivery",
-    "swing_high_swing_low",
     "propulsion_block",
     "breaker_block",
-    "kill_zone",
-    "risk_management"
+    "kill_zone"
   ],
   "school": "ICT",
   "asset": "XAUUSD",

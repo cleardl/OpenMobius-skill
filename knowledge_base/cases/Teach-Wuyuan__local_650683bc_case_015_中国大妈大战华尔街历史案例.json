@@ -22,25 +22,13 @@
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
-    },
-    {
-      "term": "EMA60",
-      "global_card_id": "ema60",
-      "exists": true
-    },
-    {
-      "term": "EMA100",
-      "global_card_id": "ema100",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "liquidity",
     "liquidity_sweep",
     "market_maker_behavior",
-    "order_block",
-    "ema60",
-    "ema100"
+    "order_block"
   ],
   "school": "SMC",
   "asset": "SILVER",

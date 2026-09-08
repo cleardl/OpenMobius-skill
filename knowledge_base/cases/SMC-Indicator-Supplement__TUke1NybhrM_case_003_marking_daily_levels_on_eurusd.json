@@ -17,18 +17,12 @@
       "term": "Point of Interest",
       "global_card_id": "point_of_interest",
       "exists": true
-    },
-    {
-      "term": "Support Zone",
-      "global_card_id": "support_and_resistance",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "market_structure",
     "multiple_timeframe_analysis",
-    "point_of_interest",
-    "support_and_resistance"
+    "point_of_interest"
   ],
   "school": "SMC",
   "asset": "EURUSD",

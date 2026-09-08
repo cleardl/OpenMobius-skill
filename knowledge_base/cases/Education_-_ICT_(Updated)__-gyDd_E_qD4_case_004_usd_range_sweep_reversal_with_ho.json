@@ -14,16 +14,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
-      "term": "Inside Bar",
-      "global_card_id": "inside_bar",
-      "exists": true
-    },
-    {
       "term": "Power of 3",
       "global_card_id": "accumulation_manipulation_distribution",
       "exists": true
@@ -62,8 +52,6 @@
   "illustrates_concepts": [
     "candle_two_closure",
     "change_in_state_of_delivery",
-    "consolidation",
-    "inside_bar",
     "accumulation_manipulation_distribution",
     "daily_profile",
     "weekly_profile",

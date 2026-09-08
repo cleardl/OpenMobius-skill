@@ -44,11 +44,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Draw On Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
@@ -63,7 +58,6 @@
     "liquidity_sweep",
     "top_down_analysis",
     "multiple_timeframe_analysis",
-    "risk_to_reward_ratio",
     "draw_on_liquidity"
   ],
   "school": "ICT",

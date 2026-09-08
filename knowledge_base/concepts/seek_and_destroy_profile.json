@@ -70,13 +70,9 @@
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
   "illustrated_by_cases": [
-    "Daily_Profiles__4WCiIyCiBrQ_case_001_nq_seek_and_destroy_consolidatio",
-    "Daily_Profiles__4WCiIyCiBrQ_case_002_eur_usd_15_minute_seek_and_destr",
     "Education_-_ICT_(Updated)__4WCiIyCiBrQ_case_001_nq_15_minute_seek_and_destroy_ex",
     "Education_-_ICT_(Updated)__4WCiIyCiBrQ_case_002_eur_usd_15_minute_seek_and_destr",
     "Education_-_ICT_(Updated)__Tjk9bXERZy0_case_001_broadening_formation_on_15_min_n",
-    "Education_-_ICT_(Updated)__Tjk9bXERZy0_case_003_daily_chart_with_outside_bars_as",
-    "Education_-_ICT_(Updated)__Tjk9bXERZy0_case_004_seek_and_destroy_examples_with_s",
     "Education_-_ICT_(Updated)__Tjk9bXERZy0_case_005_recent_week_broadening_formation",
     "Education_-_ICT__PlZD45uLPjE_case_001_标普500_1小时线seek_and_destroy模式分析",
     "Education_-_ICT__PlZD45uLPjE_case_004_纳指100完整seek_and_destroy周期演示"

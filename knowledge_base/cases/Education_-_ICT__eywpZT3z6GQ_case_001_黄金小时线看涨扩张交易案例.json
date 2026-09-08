@@ -47,11 +47,6 @@
       "term": "Bullish Bias",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -62,8 +57,7 @@
     "market_structure_shift",
     "candle_two_closure",
     "fractal_model",
-    "time_frame_alignment",
-    "swing_point"
+    "time_frame_alignment"
   ],
   "school": "ICT",
   "asset": "XAUUSD",

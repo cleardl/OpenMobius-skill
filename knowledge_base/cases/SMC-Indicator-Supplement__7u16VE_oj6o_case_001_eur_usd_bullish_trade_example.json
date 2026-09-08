@@ -37,11 +37,6 @@
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "fair_value_gap",
     "multiple_timeframe_analysis",
     "optimal_trade_entry",
-    "liquidity_sweep",
-    "risk_management"
+    "liquidity_sweep"
   ],
   "school": "SMC",
   "asset": "EURUSD",

@@ -37,19 +37,13 @@
       "term": "Inducement",
       "global_card_id": "inducement",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
     "market_structure",
     "displacement",
-    "inducement",
-    "price_action"
+    "inducement"
   ],
   "school": "ICT",
   "asset": "ES (S&P 500 E-mini Futures)",

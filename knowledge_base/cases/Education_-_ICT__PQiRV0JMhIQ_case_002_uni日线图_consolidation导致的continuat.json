@@ -4,18 +4,8 @@
   "title": "UNI日线：consolidation后continuation失败的反向运动",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Continuation",
       "global_card_id": "continuation",
-      "exists": true
-    },
-    {
-      "term": "V-shaped recovery",
-      "global_card_id": "retracement",
       "exists": true
     },
     {
@@ -40,9 +30,7 @@
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
     "continuation",
-    "retracement",
     "protected_swing",
     "order_block",
     "fair_value_gap",

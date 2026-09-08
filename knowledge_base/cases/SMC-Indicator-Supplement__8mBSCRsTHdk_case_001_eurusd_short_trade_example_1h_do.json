@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Engulfing Candle",
-      "global_card_id": "engulfing_candle",
-      "exists": true
-    },
-    {
       "term": "Break of Structure",
       "global_card_id": "break_of_structure",
       "exists": true
@@ -49,7 +44,6 @@
     "fair_value_gap",
     "liquidity_sweep",
     "equal_highs",
-    "engulfing_candle",
     "break_of_structure",
     "point_of_interest",
     "sell_side_liquidity"

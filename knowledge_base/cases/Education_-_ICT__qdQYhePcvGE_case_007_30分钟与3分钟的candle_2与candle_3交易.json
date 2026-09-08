@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Multi-Timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -44,7 +39,6 @@
     "fair_value_gap",
     "order_block",
     "displacement",
-    "swing_low",
     "multiple_timeframe_analysis"
   ],
   "school": "ICT",

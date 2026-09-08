@@ -42,16 +42,6 @@
       "term": "Top Down Analysis",
       "global_card_id": "top_down_analysis",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "Swing Point",
-      "global_card_id": "swing_point",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -62,9 +52,7 @@
     "change_in_state_of_delivery",
     "retest_entry",
     "time_frame_alignment",
-    "top_down_analysis",
-    "risk_to_reward_ratio",
-    "swing_point"
+    "top_down_analysis"
   ],
   "school": "ICT",
   "asset": "BTCUSDT",

@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Valid Separation",
-      "global_card_id": "valid_separation",
-      "exists": true
-    },
-    {
       "term": "Relevant Swings",
       "global_card_id": "relevant_high_relevant_low",
       "exists": true
@@ -37,7 +32,6 @@
   "illustrates_concepts": [
     "market_structure",
     "failure_swing",
-    "valid_separation",
     "relevant_high_relevant_low",
     "point_of_interest"
   ],

@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Bullish Hammer",
-      "global_card_id": "hammer",
-      "exists": true
-    },
-    {
       "term": "Liquidity Grab",
       "global_card_id": "liquidity_grab",
       "exists": true
@@ -26,11 +21,6 @@
     {
       "term": "Market Structure",
       "global_card_id": "market_structure",
-      "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
       "exists": true
     },
     {
@@ -42,10 +32,8 @@
   "illustrates_concepts": [
     "demand_zone",
     "break_of_structure",
-    "hammer",
     "liquidity_grab",
     "market_structure",
-    "price_action",
     "smart_money_concepts"
   ],
   "school": "ICT",

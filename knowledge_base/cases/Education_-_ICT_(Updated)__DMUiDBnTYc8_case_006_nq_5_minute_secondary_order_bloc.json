@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Inversion",
       "global_card_id": "change_of_character",
       "exists": true
@@ -62,7 +57,6 @@
     "sell_side_liquidity",
     "buy_side_liquidity",
     "displacement",
-    "risk_to_reward_ratio",
     "change_of_character",
     "equal_highs"
   ],

@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Intermarket Analysis",
-      "global_card_id": "intermarket_analysis",
-      "exists": true
-    },
-    {
       "term": "Midweek Reversal",
       "global_card_id": null,
       "exists": false
@@ -47,7 +42,6 @@
   "illustrates_concepts": [
     "thursday_counter_weekly_profile",
     "weekly_profile",
-    "intermarket_analysis",
     "smart_money_technique",
     "order_block",
     "fair_value_gap",

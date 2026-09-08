@@ -4,11 +4,6 @@
   "title": "ES 5分钟图盘整突破回测识别与看涨偏向判断",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -60,7 +55,6 @@
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
     "displacement",
     "order_block",
     "fair_value_gap",

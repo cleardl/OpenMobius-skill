@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Risk Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Market Maker Buy Model",
       "global_card_id": "market_maker_buy_model",
       "exists": true
@@ -61,7 +56,6 @@
     "external_liquidity",
     "breaker_block",
     "discount",
-    "risk_to_reward_ratio",
     "market_maker_buy_model"
   ],
   "school": "ICT",

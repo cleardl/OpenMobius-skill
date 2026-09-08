@@ -42,16 +42,6 @@
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -62,9 +52,7 @@
     "projection",
     "standard_deviation_projection",
     "manipulation",
-    "displacement",
-    "stop_loss",
-    "risk_to_reward_ratio"
+    "displacement"
   ],
   "school": "ICT",
   "asset": "NQ1!",

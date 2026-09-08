@@ -4,11 +4,6 @@
   "title": "Gold 15-Minute Indecision Candle Forming After Broadening Range and Sweeping Both Sides",
   "related_concepts": [
     {
-      "term": "Indecision Candle",
-      "global_card_id": "indecision_candle",
-      "exists": true
-    },
-    {
       "term": "Broadening Formation",
       "global_card_id": "broadening_formation",
       "exists": true
@@ -17,24 +12,11 @@
       "term": "External Range Liquidity",
       "global_card_id": "external_range_liquidity",
       "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "indecision_candle",
     "broadening_formation",
-    "external_range_liquidity",
-    "consolidation",
-    "phases_of_price"
+    "external_range_liquidity"
   ],
   "school": "ICT",
   "asset": "GC1!",

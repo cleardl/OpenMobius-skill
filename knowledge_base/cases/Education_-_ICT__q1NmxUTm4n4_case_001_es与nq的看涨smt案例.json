@@ -34,11 +34,6 @@
       "exists": false
     },
     {
-      "term": "Divergence",
-      "global_card_id": "divergence",
-      "exists": true
-    },
-    {
       "term": "Reversal",
       "global_card_id": "reversal",
       "exists": true
@@ -47,7 +42,6 @@
   "illustrates_concepts": [
     "smart_money_technique",
     "market_structure",
-    "divergence",
     "reversal"
   ],
   "school": "SMC",

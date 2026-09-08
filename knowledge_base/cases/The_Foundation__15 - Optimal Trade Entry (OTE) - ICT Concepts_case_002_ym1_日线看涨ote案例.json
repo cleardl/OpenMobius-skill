@@ -29,16 +29,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "PD Array",
       "global_card_id": "premium_discount_array",
       "exists": true
@@ -55,8 +45,6 @@
     "fair_value_gap",
     "order_block",
     "mean_threshold",
-    "swing_high",
-    "swing_low",
     "premium_discount_array",
     "multiple_timeframe_analysis"
   ],

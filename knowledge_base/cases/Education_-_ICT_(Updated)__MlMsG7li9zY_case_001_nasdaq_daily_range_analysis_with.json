@@ -37,11 +37,6 @@
       "term": "PD Array",
       "global_card_id": "premium_discount_array",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "fair_value_gap",
     "buy_side_liquidity",
     "sell_side_liquidity",
-    "premium_discount_array",
-    "risk_to_reward_ratio"
+    "premium_discount_array"
   ],
   "school": "ICT",
   "asset": "NQ1!",

@@ -32,11 +32,6 @@
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -45,8 +40,7 @@
     "liquidity_sweep",
     "sell_side_liquidity",
     "point_of_interest",
-    "change_in_state_of_delivery",
-    "swing_low"
+    "change_in_state_of_delivery"
   ],
   "school": "ICT",
   "asset": "DXY",

@@ -4,11 +4,6 @@
   "title": "USD/JPY Forex Reversal with 15-Minute Continuation Entry from Weekly Bullish Bias",
   "related_concepts": [
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Candle 2 Closure",
       "global_card_id": "candle_two_closure",
       "exists": true
@@ -47,15 +42,9 @@
       "term": "Top Down Analysis",
       "global_card_id": "top_down_analysis",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "reversal_candle",
     "candle_two_closure",
     "candle_3_continuation",
     "fair_value_gap",
@@ -63,8 +52,7 @@
     "change_in_state_of_delivery",
     "protected_swing",
     "retest_entry",
-    "top_down_analysis",
-    "risk_to_reward_ratio"
+    "top_down_analysis"
   ],
   "school": "ICT",
   "asset": "USDJPY",

@@ -27,19 +27,13 @@
       "term": "Target Chain",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
     "fair_value_gap",
     "imbalance",
-    "liquidity",
-    "price_action"
+    "liquidity"
   ],
   "school": "ICT",
   "asset": "ES",

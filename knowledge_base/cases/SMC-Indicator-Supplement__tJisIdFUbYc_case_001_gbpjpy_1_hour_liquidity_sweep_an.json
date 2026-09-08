@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "RSI Divergence",
-      "global_card_id": "rsi_divergence",
-      "exists": true
-    },
-    {
       "term": "Change of Character",
       "global_card_id": "change_of_character",
       "exists": true
@@ -38,7 +33,6 @@
     "liquidity_sweep",
     "sell_side_liquidity",
     "equal_lows",
-    "rsi_divergence",
     "change_of_character",
     "smart_money_concepts"
   ],

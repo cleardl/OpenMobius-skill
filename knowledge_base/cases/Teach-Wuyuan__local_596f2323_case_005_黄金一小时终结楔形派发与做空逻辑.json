@@ -4,24 +4,9 @@
   "title": "黄金一小时终结楔形派发与连续做空逻辑",
   "related_concepts": [
     {
-      "term": "终结楔形",
-      "global_card_id": "ending_diagonal",
-      "exists": true
-    },
-    {
       "term": "派发",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "顶背离",
-      "global_card_id": "top_bottom_divergence",
-      "exists": true
-    },
-    {
-      "term": "乖离率",
-      "global_card_id": "bias_ratio",
-      "exists": true
     },
     {
       "term": "波浪尺",
@@ -44,29 +29,14 @@
       "exists": false
     },
     {
-      "term": "EMA60",
-      "global_card_id": "ema60",
-      "exists": true
-    },
-    {
       "term": "牛旗持续形态",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "盈亏比",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "ending_diagonal",
-    "top_bottom_divergence",
-    "bias_ratio",
     "fair_value_gap",
-    "order_block",
-    "ema60",
-    "risk_to_reward_ratio"
+    "order_block"
   ],
   "school": "SMC",
   "asset": "GOLD",

@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
@@ -31,11 +26,6 @@
     {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
-      "exists": true
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
       "exists": true
     },
     {
@@ -57,11 +47,9 @@
   "illustrates_concepts": [
     "protected_swing",
     "expansion",
-    "retracement",
     "change_in_state_of_delivery",
     "fair_value_gap",
     "liquidity_sweep",
-    "phases_of_price",
     "premium_discount_array",
     "top_down_analysis",
     "reversal"

@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Continuation Entry",
       "global_card_id": "retest_entry",
       "exists": true
@@ -54,7 +49,6 @@
     "fair_value_gap",
     "order_block",
     "fractal_model",
-    "risk_to_reward_ratio",
     "retest_entry",
     "reversal_entry",
     "market_structure"

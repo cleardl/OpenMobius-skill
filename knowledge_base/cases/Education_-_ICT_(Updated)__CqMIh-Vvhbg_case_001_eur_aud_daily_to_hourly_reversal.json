@@ -47,11 +47,6 @@
       "term": "Fractal Model",
       "global_card_id": "fractal_model",
       "exists": true
-    },
-    {
-      "term": "2R",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -62,8 +57,7 @@
     "accumulation_manipulation_distribution",
     "liquidity_sweep",
     "previous_day_high",
-    "fractal_model",
-    "risk_to_reward_ratio"
+    "fractal_model"
   ],
   "school": "ICT",
   "asset": "EUR/AUD",

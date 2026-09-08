@@ -42,11 +42,6 @@
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
-    },
-    {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "equilibrium",
     "fractal_model",
     "retest_entry",
-    "order_block",
-    "risk_to_reward_ratio"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "ETHUSD",

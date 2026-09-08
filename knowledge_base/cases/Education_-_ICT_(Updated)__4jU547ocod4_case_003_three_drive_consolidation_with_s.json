@@ -4,16 +4,6 @@
   "title": "Three-Drive Consolidation Sweep with Hourly Closure Back In for Bullish Reversal",
   "related_concepts": [
     {
-      "term": "Three Drives Pattern",
-      "global_card_id": "three_drives_pattern",
-      "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -55,8 +45,6 @@
     }
   ],
   "illustrates_concepts": [
-    "three_drives_pattern",
-    "consolidation",
     "liquidity_sweep",
     "previous_day_low",
     "change_in_state_of_delivery",

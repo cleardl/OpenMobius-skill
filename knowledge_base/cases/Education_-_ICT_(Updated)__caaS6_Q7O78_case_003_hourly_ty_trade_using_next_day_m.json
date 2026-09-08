@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Fractal Model",
       "global_card_id": "fractal_model",
       "exists": true
@@ -37,11 +32,6 @@
       "term": "OTE",
       "global_card_id": "optimal_trade_entry",
       "exists": true
-    },
-    {
-      "term": "2R",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -49,10 +39,8 @@
     "change_in_state_of_delivery",
     "v_shaped_reversal",
     "expansion",
-    "retracement",
     "fractal_model",
-    "optimal_trade_entry",
-    "risk_to_reward_ratio"
+    "optimal_trade_entry"
   ],
   "school": "ICT",
   "asset": "TY1!",

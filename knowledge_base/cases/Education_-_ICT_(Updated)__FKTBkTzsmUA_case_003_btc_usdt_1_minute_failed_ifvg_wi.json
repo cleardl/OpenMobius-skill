@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
@@ -39,7 +34,6 @@
     "fair_value_gap",
     "liquidity_sweep",
     "v_shaped_reversal",
-    "consolidation",
     "change_in_state_of_delivery"
   ],
   "school": "ICT",

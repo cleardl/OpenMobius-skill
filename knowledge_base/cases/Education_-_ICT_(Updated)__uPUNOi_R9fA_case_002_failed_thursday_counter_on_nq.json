@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Failure Swing",
       "global_card_id": "failure_swing",
       "exists": true
@@ -39,7 +34,6 @@
     "fair_value_gap",
     "weekly_profile",
     "displacement",
-    "consolidation",
     "failure_swing"
   ],
   "school": "ICT",

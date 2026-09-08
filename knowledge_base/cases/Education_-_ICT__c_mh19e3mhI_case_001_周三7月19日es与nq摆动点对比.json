@@ -14,11 +14,6 @@
       "exists": false
     },
     {
-      "term": "Swing Points",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
-    },
-    {
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
@@ -34,11 +29,6 @@
       "exists": false
     },
     {
-      "term": "Divergence",
-      "global_card_id": "divergence",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -46,10 +36,8 @@
   ],
   "illustrates_concepts": [
     "relative_strength_and_weakness",
-    "swing_high_swing_low",
     "order_block",
     "candle_closure",
-    "divergence",
     "market_structure"
   ],
   "school": "SMC",

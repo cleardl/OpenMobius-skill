@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
@@ -44,7 +39,6 @@
     "candle_two_closure",
     "fair_value_gap",
     "point_of_interest",
-    "reversal_candle",
     "change_in_state_of_delivery",
     "fractal_model"
   ],

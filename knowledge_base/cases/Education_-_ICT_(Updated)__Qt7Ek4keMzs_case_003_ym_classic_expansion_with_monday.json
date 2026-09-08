@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Draw on Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
@@ -45,7 +40,6 @@
     "candle_two_closure",
     "change_in_state_of_delivery",
     "liquidity_sweep",
-    "phases_of_price",
     "draw_on_liquidity"
   ],
   "school": "ICT",

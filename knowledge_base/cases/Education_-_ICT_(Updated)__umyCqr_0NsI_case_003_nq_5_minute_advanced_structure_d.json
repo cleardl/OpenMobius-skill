@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Intermediate-Term High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Sell Side Liquidity",
       "global_card_id": "sell_side_liquidity",
       "exists": true
@@ -42,7 +37,6 @@
   "illustrates_concepts": [
     "order_block",
     "short_term_high_short_term_low",
-    "swing_high",
     "sell_side_liquidity",
     "liquidity_sweep",
     "market_structure_shift"

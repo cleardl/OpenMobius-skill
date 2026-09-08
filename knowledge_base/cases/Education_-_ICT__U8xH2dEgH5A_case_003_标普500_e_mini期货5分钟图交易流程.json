@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Swing High/Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
-    },
-    {
       "term": "Session High/Low",
       "global_card_id": "session_high_and_low",
       "exists": true
@@ -60,7 +55,6 @@
     "sell_side_liquidity",
     "fair_value_gap",
     "order_block",
-    "swing_high_swing_low",
     "session_high_and_low",
     "previous_day_high_low",
     "displacement",

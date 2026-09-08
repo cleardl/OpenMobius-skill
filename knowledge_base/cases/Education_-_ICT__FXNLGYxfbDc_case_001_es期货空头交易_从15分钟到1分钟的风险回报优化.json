@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Multi-Timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -48,7 +43,6 @@
     "fair_value_gap",
     "order_block",
     "break_of_structure",
-    "risk_to_reward_ratio",
     "multiple_timeframe_analysis"
   ],
   "school": "ICT",

@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -32,20 +27,13 @@
       "term": "做市商逻辑",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "硬止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
-    "support_and_resistance_flip",
     "liquidity_sweep",
     "breaker_block",
-    "order_block",
-    "hard_stop_close_stop"
+    "order_block"
   ],
   "school": "SMC",
   "asset": "GOLD",

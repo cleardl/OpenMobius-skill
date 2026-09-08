@@ -71,11 +71,6 @@
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
   "illustrated_by_cases": [
-    "Daily_Profiles__xdzyejskSKE_case_002_light_crude_oil_cl1_fake_london_",
-    "Daily_Profiles__y6SnEdASVLY_case_001_bullish_london_reversal_in_light",
-    "Daily_Profiles__y6SnEdASVLY_case_002_bearish_london_reversal_in_light",
-    "Daily_Profiles__y6SnEdASVLY_case_003_london_reversal_with_new_york_re",
-    "Daily_Profiles__y6SnEdASVLY_case_004_es_s_p_500_london_reversal_with_",
     "Education_-_ICT_(Updated)__3eVxTV_7L2U_case_006_indices_triad_ym_top_down_trade_",
     "Education_-_ICT_(Updated)__4Gm8p6O7Ebs_case_005_nq_nasdaq_london_reversal_and_ne",
     "Education_-_ICT_(Updated)__5fnFOh5YuM0_case_001_eth_daily_swing_low_with_london_",
@@ -83,8 +78,7 @@
     "Education_-_ICT_(Updated)__y6SnEdASVLY_case_001_bullish_oil_london_reversal_exam",
     "Education_-_ICT_(Updated)__y6SnEdASVLY_case_002_bearish_oil_london_reversal_exam",
     "Education_-_ICT_(Updated)__y6SnEdASVLY_case_003_another_bearish_oil_new_york_con",
-    "Education_-_ICT_(Updated)__y6SnEdASVLY_case_004_bearish_es_london_reversal_examp",
-    "Education_-_ICT__y6SnEdASVLY_case_001_轻质原油期货看涨伦敦反转案例"
+    "Education_-_ICT_(Updated)__y6SnEdASVLY_case_004_bearish_es_london_reversal_examp"
   ],
   "card_id": "london_reversal",
   "canonical_term": "London Reversal",

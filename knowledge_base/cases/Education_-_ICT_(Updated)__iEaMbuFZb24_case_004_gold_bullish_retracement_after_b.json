@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Time Frame Alignment",
       "global_card_id": "time_frame_alignment",
       "exists": true
@@ -48,7 +43,6 @@
     "fair_value_gap",
     "change_in_state_of_delivery",
     "propulsion_block",
-    "retracement",
     "time_frame_alignment",
     "optimal_trade_entry",
     "standard_deviation_projection",

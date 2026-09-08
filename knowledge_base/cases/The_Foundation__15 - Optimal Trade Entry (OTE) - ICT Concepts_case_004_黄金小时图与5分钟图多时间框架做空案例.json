@@ -47,11 +47,6 @@
       "term": "Draw On Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -63,8 +58,7 @@
     "multiple_timeframe_analysis",
     "sell_side_liquidity",
     "displacement",
-    "draw_on_liquidity",
-    "risk_to_reward_ratio"
+    "draw_on_liquidity"
   ],
   "school": "ICT",
   "asset": "XAUUSD",

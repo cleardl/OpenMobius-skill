@@ -24,11 +24,6 @@
       "exists": false
     },
     {
-      "term": "Divergence",
-      "global_card_id": "divergence",
-      "exists": true
-    },
-    {
       "term": "Related Assets",
       "global_card_id": null,
       "exists": false
@@ -40,8 +35,7 @@
     }
   ],
   "illustrates_concepts": [
-    "smart_money_technique",
-    "divergence"
+    "smart_money_technique"
   ],
   "school": "SMC",
   "asset": "ES / YM",

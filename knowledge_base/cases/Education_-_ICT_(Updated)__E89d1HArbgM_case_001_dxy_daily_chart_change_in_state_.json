@@ -24,16 +24,6 @@
       "exists": true
     },
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -44,8 +34,6 @@
     "market_structure_shift",
     "order_block",
     "displacement",
-    "swing_low",
-    "swing_high",
     "liquidity_sweep"
   ],
   "school": "ICT",

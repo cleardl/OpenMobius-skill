@@ -4,11 +4,6 @@
   "title": "NQ Consolidation Range: 10AM 4-Hour Closure with 1-Minute Inversion Entry",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -47,15 +42,9 @@
       "term": "Previous Day Low",
       "global_card_id": "previous_day_low",
       "exists": true
-    },
-    {
-      "term": "Risk-to-Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
     "liquidity_sweep",
     "equal_highs",
     "t_spot",
@@ -63,8 +52,7 @@
     "fractal_model",
     "change_in_state_of_delivery",
     "accumulation_manipulation_distribution",
-    "previous_day_low",
-    "risk_to_reward_ratio"
+    "previous_day_low"
   ],
   "school": "ICT",
   "asset": "NQ",

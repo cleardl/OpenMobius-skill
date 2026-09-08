@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Intermarket Analysis",
-      "global_card_id": "intermarket_analysis",
-      "exists": true
-    },
-    {
       "term": "Daily Bias",
       "global_card_id": "daily_bias",
       "exists": true
@@ -50,7 +45,6 @@
     "sell_side_liquidity",
     "fair_value_gap",
     "relative_strength_and_weakness",
-    "intermarket_analysis",
     "daily_bias",
     "draw_on_liquidity"
   ],

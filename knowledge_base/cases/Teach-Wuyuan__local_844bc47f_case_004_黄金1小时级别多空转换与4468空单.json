@@ -9,16 +9,6 @@
       "exists": true
     },
     {
-      "term": "Lower High",
-      "global_card_id": "lower_high",
-      "exists": true
-    },
-    {
-      "term": "Lower Low",
-      "global_card_id": "lower_low",
-      "exists": true
-    },
-    {
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -34,21 +24,6 @@
       "exists": true
     },
     {
-      "term": "扩级",
-      "global_card_id": "level_expansion_validation",
-      "exists": true
-    },
-    {
-      "term": "移动止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
-    },
-    {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "多空结构转换",
       "global_card_id": null,
       "exists": false
@@ -56,14 +31,9 @@
   ],
   "illustrates_concepts": [
     "break_of_structure",
-    "lower_high",
-    "lower_low",
     "liquidity_sweep",
     "fair_value_gap",
-    "order_block",
-    "level_expansion_validation",
-    "hard_stop_close_stop",
-    "support_and_resistance_flip"
+    "order_block"
   ],
   "school": "SMC",
   "asset": "GOLD",

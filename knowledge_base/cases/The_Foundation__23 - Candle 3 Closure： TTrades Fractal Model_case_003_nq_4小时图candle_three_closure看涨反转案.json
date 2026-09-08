@@ -9,16 +9,6 @@
       "exists": true
     },
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Equilibrium",
       "global_card_id": "equilibrium",
       "exists": true
@@ -41,8 +31,6 @@
   ],
   "illustrates_concepts": [
     "candle_three_closure",
-    "swing_low",
-    "reversal_candle",
     "equilibrium",
     "market_structure",
     "liquidity_sweep",

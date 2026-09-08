@@ -9,16 +9,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Failure Swing",
       "global_card_id": "failure_swing",
       "exists": true
@@ -36,8 +26,6 @@
   ],
   "illustrates_concepts": [
     "relevant_high_relevant_low",
-    "swing_high",
-    "swing_low",
     "failure_swing",
     "point_of_interest",
     "liquidity_sweep"

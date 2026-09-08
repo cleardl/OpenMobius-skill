@@ -12,59 +12,11 @@
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
       "exists": true
-    },
-    {
-      "term": "终结楔形",
-      "global_card_id": "ending_diagonal",
-      "exists": true
-    },
-    {
-      "term": "LH",
-      "global_card_id": "lower_high",
-      "exists": true
-    },
-    {
-      "term": "LL",
-      "global_card_id": "lower_low",
-      "exists": true
-    },
-    {
-      "term": "HL",
-      "global_card_id": "higher_low",
-      "exists": true
-    },
-    {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
-      "term": "HVN",
-      "global_card_id": "high_volume_node",
-      "exists": true
-    },
-    {
-      "term": "VRVP",
-      "global_card_id": "vrvp",
-      "exists": true
-    },
-    {
-      "term": "牛旗",
-      "global_card_id": "bull_flag_pattern",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
-    "liquidity_sweep",
-    "ending_diagonal",
-    "lower_high",
-    "lower_low",
-    "higher_low",
-    "support_and_resistance_flip",
-    "high_volume_node",
-    "vrvp",
-    "bull_flag_pattern"
+    "liquidity_sweep"
   ],
   "school": "SMC",
   "asset": "GOLD",

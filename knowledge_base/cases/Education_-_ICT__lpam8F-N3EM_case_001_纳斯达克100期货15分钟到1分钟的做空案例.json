@@ -57,11 +57,6 @@
       "term": "Equal Lows",
       "global_card_id": "equal_lows",
       "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -74,8 +69,7 @@
     "premium",
     "fibonacci_retracement",
     "equilibrium",
-    "equal_lows",
-    "swing_low"
+    "equal_lows"
   ],
   "school": "ICT",
   "asset": "NQ1!",

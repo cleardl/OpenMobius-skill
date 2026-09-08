@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
       "term": "Multi-timeframe analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -39,7 +34,6 @@
     "order_block",
     "change_in_state_of_delivery",
     "market_structure_shift",
-    "price_action",
     "multiple_timeframe_analysis"
   ],
   "school": "ICT",

@@ -44,11 +44,6 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Top Down Analysis",
       "global_card_id": "top_down_analysis",
       "exists": true
@@ -73,7 +68,6 @@
     "equilibrium",
     "draw_on_liquidity",
     "precision_swing_point",
-    "phases_of_price",
     "top_down_analysis",
     "retest_entry",
     "low_resistance_liquidity"

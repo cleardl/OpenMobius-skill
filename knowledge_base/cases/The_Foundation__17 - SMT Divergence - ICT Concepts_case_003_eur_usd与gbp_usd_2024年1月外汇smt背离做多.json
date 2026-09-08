@@ -29,21 +29,6 @@
       "exists": true
     },
     {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -60,9 +45,6 @@
     "failure_swing",
     "market_structure",
     "displacement",
-    "stop_loss",
-    "take_profit",
-    "risk_to_reward_ratio",
     "liquidity_sweep",
     "break_of_structure"
   ],

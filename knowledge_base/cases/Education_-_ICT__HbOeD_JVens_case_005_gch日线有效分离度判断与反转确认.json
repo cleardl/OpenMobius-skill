@@ -9,16 +9,6 @@
       "exists": false
     },
     {
-      "term": "Valid Separation",
-      "global_card_id": "valid_separation",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Failure Swing",
       "global_card_id": "failure_swing",
       "exists": true
@@ -40,8 +30,6 @@
     }
   ],
   "illustrates_concepts": [
-    "valid_separation",
-    "swing_low",
     "failure_swing",
     "market_structure",
     "higher_time_frame_level",

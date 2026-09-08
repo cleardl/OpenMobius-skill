@@ -19,48 +19,8 @@
       "exists": true
     },
     {
-      "term": "HH",
-      "global_card_id": "higher_high",
-      "exists": true
-    },
-    {
-      "term": "HL",
-      "global_card_id": "higher_low",
-      "exists": true
-    },
-    {
-      "term": "LH",
-      "global_card_id": "lower_high",
-      "exists": true
-    },
-    {
-      "term": "终结楔形",
-      "global_card_id": "ending_diagonal",
-      "exists": true
-    },
-    {
-      "term": "扩级",
-      "global_card_id": "level_expansion_validation",
-      "exists": true
-    },
-    {
-      "term": "硬止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
-    },
-    {
-      "term": "R值",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "SMC",
       "global_card_id": "smart_money_concepts",
-      "exists": true
-    },
-    {
-      "term": "EMA60",
-      "global_card_id": "ema60",
       "exists": true
     }
   ],
@@ -68,15 +28,7 @@
     "liquidity_sweep",
     "break_of_structure",
     "fair_value_gap",
-    "higher_high",
-    "higher_low",
-    "lower_high",
-    "ending_diagonal",
-    "level_expansion_validation",
-    "hard_stop_close_stop",
-    "risk_to_reward_ratio",
-    "smart_money_concepts",
-    "ema60"
+    "smart_money_concepts"
   ],
   "school": "SMC",
   "asset": "GOLD（黄金差价合约，美元/盎司）",

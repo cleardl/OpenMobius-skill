@@ -32,19 +32,13 @@
       "term": "Fractal Model",
       "global_card_id": "fractal_model",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "relative_strength_and_weakness",
     "order_block",
     "liquidity_sweep",
-    "fractal_model",
-    "price_action"
+    "fractal_model"
   ],
   "school": "SMC",
   "asset": "EURUSD",

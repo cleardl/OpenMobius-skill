@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Premium/Discount",
       "global_card_id": "premium_and_discount",
       "exists": true
@@ -48,7 +43,6 @@
     "order_block",
     "fair_value_gap",
     "displacement",
-    "retracement",
     "premium_and_discount",
     "market_structure",
     "liquidity",

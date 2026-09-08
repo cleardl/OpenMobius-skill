@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Trend Continuation",
       "global_card_id": "trend_continuation",
       "exists": true
@@ -38,7 +33,6 @@
     "inducement",
     "sell_side_liquidity",
     "liquidity_sweep",
-    "swing_low",
     "trend_continuation",
     "change_in_state_of_delivery"
   ],

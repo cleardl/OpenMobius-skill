@@ -19,16 +19,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Lower Highs",
       "global_card_id": null,
       "exists": false
@@ -42,9 +32,7 @@
   "illustrates_concepts": [
     "market_structure",
     "break_of_structure",
-    "supply_zone",
-    "swing_high",
-    "swing_low"
+    "supply_zone"
   ],
   "school": "SMC",
   "asset": "EURUSD",

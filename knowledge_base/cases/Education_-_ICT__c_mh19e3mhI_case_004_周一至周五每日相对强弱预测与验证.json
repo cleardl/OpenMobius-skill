@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
-    },
-    {
       "term": "Consequent Encroachment",
       "global_card_id": "consequent_encroachment",
       "exists": true
@@ -45,7 +40,6 @@
     "mean_threshold",
     "relative_strength_and_weakness",
     "market_structure",
-    "price_action",
     "consequent_encroachment"
   ],
   "school": "SMC",

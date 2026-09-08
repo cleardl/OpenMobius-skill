@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Buy Side Liquidity",
       "global_card_id": "buy_side_liquidity",
       "exists": true
@@ -41,16 +36,6 @@
     {
       "term": "PD Array",
       "global_card_id": "premium_discount_array",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
       "exists": true
     },
     {
@@ -70,11 +55,8 @@
     "fair_value_gap",
     "sell_side_liquidity",
     "equal_lows",
-    "swing_high",
     "buy_side_liquidity",
     "premium_discount_array",
-    "stop_loss",
-    "take_profit",
     "draw_on_liquidity",
     "market_structure"
   ],

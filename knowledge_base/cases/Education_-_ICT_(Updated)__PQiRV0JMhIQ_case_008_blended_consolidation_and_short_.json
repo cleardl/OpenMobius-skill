@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Continuation Entry",
       "global_card_id": "retest_entry",
       "exists": true
@@ -50,7 +45,6 @@
     "liquidity_sweep",
     "v_shaped_reversal",
     "change_of_character",
-    "consolidation",
     "retest_entry",
     "manipulation_leg"
   ],

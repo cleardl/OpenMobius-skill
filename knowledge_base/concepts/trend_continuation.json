@@ -37,19 +37,7 @@
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": null,
   "illustrated_by_cases": [
-    "Education_-_ICT_(Updated)__-GkOTMYoJT4_case_005_nasdaq_100_1_minute_trending_mar",
-    "Education_-_ICT_(Updated)__uDJI2AbyyCs_case_002_nq_2_minute_inversion_in_trend",
-    "Education_-_ICT__DMUiDBnTYc8_case_005_日线图_多重订单块延续趋势",
-    "Education_-_ICT__sgAnVR6RSDg_case_001_usd_5分钟图上升趋势的结构分析",
-    "Education_-_ICT__sgAnVR6RSDg_case_003_eurusd_5分钟图的趋势识别",
-    "SMC-Strong-Weak-Supplement__B-hzpTdjiSo_case_003_hidden_bullish_divergence_exampl",
-    "SMC-Strong-Weak-Supplement__B-hzpTdjiSo_case_004_hidden_bearish_divergence_exampl",
-    "SMC-Supplement-PLb0LJvd-CX1wZ__D6gJuO18KyI_case_005_eur_usd_1h_double_top_trend_cont",
-    "SMC-Supplement-PLb0LJvd-CX1wZ__D6gJuO18KyI_case_006_nzd_usd_30min_double_bottom_tren",
-    "SMC-Supplement-PLb0LJvd-CX1wZ__hZHwYFsln_U_case_001_eur_usd_1h_trend_continuation_sh",
-    "SMC-Supplement-PLv-X125__HVhAGlK9PBs_case_001_gbpusd_15_min_downtrend_steep_im",
-    "SMC-Supplement-PLv-X125__HVhAGlK9PBs_case_003_gbpusd_15_min_0_618_retracement_",
-    "SMC-Supplement-PLv-X125__VwVEVu0-JWQ_case_003_audusd_hidden_bullish_divergence"
+    "Education_-_ICT_(Updated)__-GkOTMYoJT4_case_005_nasdaq_100_1_minute_trending_mar"
   ],
   "card_id": "trend_continuation",
   "canonical_term": "Trend Continuation",

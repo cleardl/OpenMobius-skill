@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Manipulation",
       "global_card_id": "manipulation",
       "exists": true
@@ -26,11 +21,6 @@
     {
       "term": "Propulsion Block",
       "global_card_id": "propulsion_block",
-      "exists": true
-    },
-    {
-      "term": "Expansion Day",
-      "global_card_id": "expansion_day",
       "exists": true
     },
     {
@@ -44,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Swing High/Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
-    },
-    {
       "term": "Equilibrium",
       "global_card_id": "equilibrium",
       "exists": true
@@ -57,13 +42,10 @@
   "illustrates_concepts": [
     "order_block",
     "fair_value_gap",
-    "consolidation",
     "manipulation",
     "propulsion_block",
-    "expansion_day",
     "market_structure_shift",
     "liquidity",
-    "swing_high_swing_low",
     "equilibrium"
   ],
   "school": "ICT",

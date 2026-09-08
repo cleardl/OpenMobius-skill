@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
@@ -39,7 +34,6 @@
     "candle_two_closure",
     "equilibrium",
     "liquidity_sweep",
-    "swing_low",
     "change_in_state_of_delivery"
   ],
   "school": "ICT",

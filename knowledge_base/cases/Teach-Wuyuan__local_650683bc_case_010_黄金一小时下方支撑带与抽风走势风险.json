@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "破坏块",
       "global_card_id": "breaker_block",
       "exists": true
@@ -29,42 +24,17 @@
       "exists": true
     },
     {
-      "term": "Volume Profile",
-      "global_card_id": "volume_profile",
-      "exists": true
-    },
-    {
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
-      "exists": true
-    },
-    {
-      "term": "扩级",
-      "global_card_id": "level_expansion_validation",
-      "exists": true
-    },
-    {
-      "term": "硬止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
-    },
-    {
-      "term": "RSI",
-      "global_card_id": "relative_strength_index",
       "exists": true
     }
   ],
   "illustrates_concepts": [
     "order_block",
-    "support_and_resistance_flip",
     "breaker_block",
     "demand_zone",
     "supply_zone",
-    "volume_profile",
-    "liquidity_sweep",
-    "level_expansion_validation",
-    "hard_stop_close_stop",
-    "relative_strength_index"
+    "liquidity_sweep"
   ],
   "school": "SMC",
   "asset": "GOLD",

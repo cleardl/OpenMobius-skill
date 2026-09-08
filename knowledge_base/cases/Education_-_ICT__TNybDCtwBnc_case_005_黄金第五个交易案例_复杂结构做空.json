@@ -37,11 +37,6 @@
       "term": "Multi-timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
-    },
-    {
-      "term": "Risk/Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -49,8 +44,7 @@
     "displacement",
     "market_structure_shift",
     "failure_swing",
-    "multiple_timeframe_analysis",
-    "risk_to_reward_ratio"
+    "multiple_timeframe_analysis"
   ],
   "school": "ICT",
   "asset": "GC",

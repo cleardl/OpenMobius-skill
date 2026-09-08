@@ -42,11 +42,6 @@
       "term": "AMD",
       "global_card_id": "accumulation_manipulation_distribution",
       "exists": true
-    },
-    {
-      "term": "2R",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "displacement",
     "liquidity_sweep",
     "new_york_open",
-    "accumulation_manipulation_distribution",
-    "risk_to_reward_ratio"
+    "accumulation_manipulation_distribution"
   ],
   "school": "ICT",
   "asset": "CL1!",

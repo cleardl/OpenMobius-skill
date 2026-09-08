@@ -19,18 +19,8 @@
       "exists": true
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
       "term": "Multiple Order Blocks",
       "global_card_id": "multiple_order_blocks",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
       "exists": true
     },
     {
@@ -48,9 +38,7 @@
     "order_block",
     "change_of_character",
     "higher_time_frame",
-    "risk_management",
     "multiple_order_blocks",
-    "stop_loss",
     "pullback"
   ],
   "school": "SMC",

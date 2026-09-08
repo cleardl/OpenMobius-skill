@@ -4,11 +4,6 @@
   "title": "ES日线图：识别摆动点与位移判断日线偏向",
   "related_concepts": [
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -40,7 +35,6 @@
     }
   ],
   "illustrates_concepts": [
-    "swing_high",
     "displacement",
     "failure_to_displace",
     "market_structure",

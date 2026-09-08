@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Protected Swing High",
       "global_card_id": "protected_swing",
       "exists": true
@@ -44,7 +39,6 @@
     "candle_two_closure",
     "change_in_state_of_delivery",
     "smart_money_technique",
-    "reversal_candle",
     "protected_swing"
   ],
   "school": "ICT",

@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Gap",
-      "global_card_id": "gap",
-      "exists": true
-    },
-    {
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
@@ -37,21 +32,14 @@
       "term": "FVG Inversion",
       "global_card_id": "inversion_fair_value_gap",
       "exists": true
-    },
-    {
-      "term": "Support and Resistance",
-      "global_card_id": "support_and_resistance",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
     "volume_imbalance",
-    "gap",
     "order_block",
     "sell_side_imbalance_buy_side_inefficiency",
-    "inversion_fair_value_gap",
-    "support_and_resistance"
+    "inversion_fair_value_gap"
   ],
   "school": "ICT",
   "asset": "NQ1! / ES1!",

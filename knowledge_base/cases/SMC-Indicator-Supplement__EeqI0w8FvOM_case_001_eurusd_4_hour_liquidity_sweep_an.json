@@ -9,16 +9,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Buyside Liquidity",
       "global_card_id": "buy_side_liquidity",
       "exists": true
@@ -32,21 +22,13 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Impulse Move",
-      "global_card_id": "impulse_move",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "liquidity_sweep",
-    "swing_high",
-    "swing_low",
     "buy_side_liquidity",
     "sell_side_liquidity",
-    "market_structure",
-    "impulse_move"
+    "market_structure"
   ],
   "school": "SMC",
   "asset": "EURUSD",

@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Higher Timeframe Bias",
       "global_card_id": null,
       "exists": false
@@ -43,8 +38,7 @@
     "candle_3_continuation",
     "order_block",
     "fair_value_gap",
-    "multiple_timeframe_analysis",
-    "reversal_candle"
+    "multiple_timeframe_analysis"
   ],
   "school": "ICT",
   "asset": "BTCUSDT",

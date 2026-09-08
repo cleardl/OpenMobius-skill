@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Candle 2 Closure",
       "global_card_id": "candle_two_closure",
       "exists": true
@@ -71,7 +66,6 @@
     "protected_swing",
     "previous_day_high",
     "change_in_state_of_delivery",
-    "retracement",
     "candle_two_closure",
     "fair_value_gap",
     "liquidity_sweep",

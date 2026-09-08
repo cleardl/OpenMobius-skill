@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Bearish Engulfing",
-      "global_card_id": "bearish_engulfing_pattern",
-      "exists": true
-    },
-    {
       "term": "High Resistance Liquidity",
       "global_card_id": "high_resistance_liquidity",
       "exists": true
@@ -49,7 +44,6 @@
     "market_structure_shift",
     "change_in_state_of_delivery",
     "liquidity",
-    "bearish_engulfing_pattern",
     "high_resistance_liquidity",
     "fair_value_gap",
     "displacement"

@@ -19,28 +19,8 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
       "exists": true
     },
     {
@@ -58,11 +38,7 @@
     "breaker_block",
     "fair_value_gap",
     "unicorn_model",
-    "swing_high",
-    "swing_low",
     "displacement",
-    "stop_loss",
-    "risk_to_reward_ratio",
     "market_structure",
     "break_of_structure"
   ],

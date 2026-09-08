@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -37,11 +32,6 @@
       "term": "Market Structure Shift (MSS)",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
     },
     {
       "term": "Failure Swing",
@@ -54,9 +44,7 @@
     "order_block",
     "protected_swing",
     "liquidity_sweep",
-    "consolidation",
     "displacement",
-    "retracement",
     "failure_swing"
   ],
   "school": "ICT",

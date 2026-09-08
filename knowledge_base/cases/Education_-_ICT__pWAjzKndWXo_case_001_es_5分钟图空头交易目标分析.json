@@ -47,11 +47,6 @@
       "term": "Breaker Block",
       "global_card_id": "breaker_block",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -61,8 +56,7 @@
     "protected_swing",
     "premium_and_discount",
     "equilibrium",
-    "breaker_block",
-    "price_action"
+    "breaker_block"
   ],
   "school": "ICT",
   "asset": "ES",

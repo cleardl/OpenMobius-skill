@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Continuation Entry",
       "global_card_id": "retest_entry",
       "exists": true
@@ -44,7 +39,6 @@
     "candle_two_closure",
     "protected_swing",
     "change_in_state_of_delivery",
-    "phases_of_price",
     "retest_entry"
   ],
   "school": "ICT",

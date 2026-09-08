@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Failure Swings",
       "global_card_id": "failure_swing",
       "exists": true
@@ -32,20 +27,13 @@
       "term": "Closure",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Support Level",
-      "global_card_id": "support_level",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
     "continuation",
-    "consolidation",
     "failure_swing",
-    "order_block",
-    "support_level"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "BTCUSDT",

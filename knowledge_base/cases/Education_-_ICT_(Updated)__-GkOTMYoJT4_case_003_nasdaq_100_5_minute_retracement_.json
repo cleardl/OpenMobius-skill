@@ -24,16 +24,6 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Expansion",
       "global_card_id": "expansion",
       "exists": true
@@ -44,8 +34,6 @@
     "inducement",
     "liquidity_sweep",
     "premium_discount_array",
-    "retracement",
-    "swing_low",
     "expansion"
   ],
   "school": "ICT",

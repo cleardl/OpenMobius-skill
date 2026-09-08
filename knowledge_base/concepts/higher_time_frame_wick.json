@@ -41,10 +41,7 @@
   "merge_strategy": "single_source_passthrough",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": null,
-  "illustrated_by_cases": [
-    "Education_-_ICT__CqMIh-Vvhbg_case_002_eur_aud小时线与5分钟线的多时间框架分析",
-    "Education_-_ICT__PQiRV0JMhIQ_case_013_uni_1小时图_高时间框架wick形成的continuatio"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "higher_time_frame_wick",
   "canonical_term": "Higher Time Frame Wick",
   "_embedding": [

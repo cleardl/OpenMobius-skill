@@ -52,11 +52,6 @@
       "term": "BOS",
       "global_card_id": "break_of_structure",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -69,8 +64,7 @@
     "market_structure",
     "draw_on_liquidity",
     "liquidity_sweep",
-    "break_of_structure",
-    "risk_to_reward_ratio"
+    "break_of_structure"
   ],
   "school": "ICT",
   "asset": "GBPJPY",

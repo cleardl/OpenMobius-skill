@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Top Down Analysis",
       "global_card_id": "top_down_analysis",
       "exists": true
@@ -50,7 +45,6 @@
     "candle_two_closure",
     "change_in_state_of_delivery",
     "daily_open",
-    "reversal_candle",
     "top_down_analysis",
     "fractal_model"
   ],

@@ -27,11 +27,6 @@
       "term": "Low Time Frame Entry Model",
       "global_card_id": "low_time_frame_entry_model",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -39,8 +34,7 @@
     "fair_value_gap",
     "smart_money_technique",
     "market_structure_shift",
-    "low_time_frame_entry_model",
-    "risk_management"
+    "low_time_frame_entry_model"
   ],
   "school": "SMC",
   "asset": "ES",

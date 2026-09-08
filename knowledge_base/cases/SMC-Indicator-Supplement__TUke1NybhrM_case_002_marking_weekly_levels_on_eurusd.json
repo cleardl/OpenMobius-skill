@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Support and Resistance",
-      "global_card_id": "support_and_resistance",
-      "exists": true
-    },
-    {
       "term": "Zone vs Line",
       "global_card_id": null,
       "exists": false
@@ -37,8 +32,7 @@
   "illustrates_concepts": [
     "market_structure",
     "point_of_interest",
-    "supply_zone",
-    "support_and_resistance"
+    "supply_zone"
   ],
   "school": "SMC",
   "asset": "EURUSD",

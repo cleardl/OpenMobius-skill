@@ -24,11 +24,6 @@
       "exists": false
     },
     {
-      "term": "Swing High / Swing Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
-    },
-    {
       "term": "Equal Highs / Equal Lows",
       "global_card_id": "equal_highs_equal_lows",
       "exists": true
@@ -43,7 +38,6 @@
     "fair_value_gap",
     "liquidity",
     "order_block",
-    "swing_high_swing_low",
     "equal_highs_equal_lows",
     "multiple_timeframe_analysis"
   ],

@@ -24,11 +24,6 @@
       "exists": true
     },
     {
-      "term": "Intermarket Analysis",
-      "global_card_id": "intermarket_analysis",
-      "exists": true
-    },
-    {
       "term": "Market Structure Shift",
       "global_card_id": "market_structure_shift",
       "exists": true
@@ -39,7 +34,6 @@
     "thursday_counter_weekly_profile",
     "expansion",
     "candle_two_closure",
-    "intermarket_analysis",
     "market_structure_shift"
   ],
   "school": "ICT",

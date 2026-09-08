@@ -4,11 +4,6 @@
   "title": "ETH 15-minute consolidation breakout traded lower via continuation entry into point of interest",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Continuation Entry",
       "global_card_id": "retest_entry",
       "exists": true
@@ -45,7 +40,6 @@
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
     "retest_entry",
     "point_of_interest",
     "change_in_state_of_delivery",

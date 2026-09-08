@@ -4,16 +4,6 @@
   "title": "APOZ Multi-Timeframe Short Setup: Blending Daily Phases with Hourly and 15-Minute Entry",
   "related_concepts": [
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Candle 2 Closure",
       "global_card_id": "candle_two_closure",
       "exists": true
@@ -44,26 +34,18 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Daily Profile",
       "global_card_id": "daily_profile",
       "exists": true
     }
   ],
   "illustrates_concepts": [
-    "phases_of_price",
-    "consolidation",
     "candle_two_closure",
     "v_shaped_reversal",
     "change_in_state_of_delivery",
     "fractal_model",
     "top_down_analysis",
     "accumulation_manipulation_distribution",
-    "risk_to_reward_ratio",
     "daily_profile"
   ],
   "school": "ICT",

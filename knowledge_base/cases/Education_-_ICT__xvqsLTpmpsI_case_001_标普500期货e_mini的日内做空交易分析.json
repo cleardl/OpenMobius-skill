@@ -42,11 +42,6 @@
       "term": "Premium/Discount Array (PD Array)",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Swing High/Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -56,8 +51,7 @@
     "liquidity",
     "optimal_trade_entry",
     "market_structure",
-    "inducement",
-    "swing_high_swing_low"
+    "inducement"
   ],
   "school": "ICT",
   "asset": "ES (E-mini S&P 500 Futures)",

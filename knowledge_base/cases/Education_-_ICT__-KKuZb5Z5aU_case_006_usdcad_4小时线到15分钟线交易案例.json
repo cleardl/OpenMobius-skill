@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Protected Swing",
       "global_card_id": "protected_swing",
       "exists": true
@@ -39,11 +34,6 @@
       "exists": false
     },
     {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
@@ -52,10 +42,8 @@
   "illustrates_concepts": [
     "order_block",
     "smart_money_technique",
-    "consolidation",
     "protected_swing",
     "fair_value_gap",
-    "reversal_candle",
     "liquidity_sweep"
   ],
   "school": "ICT",

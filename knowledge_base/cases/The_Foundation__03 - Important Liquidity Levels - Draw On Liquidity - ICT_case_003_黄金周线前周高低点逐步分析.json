@@ -19,16 +19,6 @@
       "exists": true
     },
     {
-      "term": "Directional Candle",
-      "global_card_id": "directional_candle",
-      "exists": true
-    },
-    {
-      "term": "Indecision Candle",
-      "global_card_id": "indecision_candle",
-      "exists": true
-    },
-    {
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
       "exists": true
@@ -48,8 +38,6 @@
     "draw_on_liquidity",
     "buy_side_liquidity",
     "sell_side_liquidity",
-    "directional_candle",
-    "indecision_candle",
     "fair_value_gap",
     "market_structure",
     "liquidity_sweep"

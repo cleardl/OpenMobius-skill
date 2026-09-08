@@ -44,21 +44,6 @@
       "exists": true
     },
     {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Killzone",
       "global_card_id": "kill_zone",
       "exists": true
@@ -77,9 +62,6 @@
     "sell_side_liquidity",
     "failure_swing",
     "box_setup",
-    "stop_loss",
-    "take_profit",
-    "risk_to_reward_ratio",
     "kill_zone",
     "draw_on_liquidity"
   ],

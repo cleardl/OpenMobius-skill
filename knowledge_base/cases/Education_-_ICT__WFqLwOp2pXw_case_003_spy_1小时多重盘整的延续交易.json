@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -60,7 +55,6 @@
     "equilibrium",
     "inducement",
     "market_structure_shift",
-    "consolidation",
     "displacement",
     "accumulation_manipulation_distribution",
     "liquidity",

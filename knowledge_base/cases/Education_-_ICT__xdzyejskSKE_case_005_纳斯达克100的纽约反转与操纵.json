@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Open High Low Close",
-      "global_card_id": "open_high_low_close",
-      "exists": true
-    },
-    {
       "term": "Lower Timeframe Entry",
       "global_card_id": null,
       "exists": false
@@ -62,7 +57,6 @@
     "liquidity",
     "market_structure_shift",
     "kill_zone",
-    "open_high_low_close",
     "smart_money_technique"
   ],
   "school": "ICT",

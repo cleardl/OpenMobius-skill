@@ -29,28 +29,8 @@
       "exists": true
     },
     {
-      "term": "震荡组",
-      "global_card_id": "oscillation_candle_combo",
-      "exists": true
-    },
-    {
-      "term": "顶背离",
-      "global_card_id": "top_bottom_divergence",
-      "exists": true
-    },
-    {
       "term": "供应区",
       "global_card_id": "supply_zone",
-      "exists": true
-    },
-    {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
-      "term": "硬止损",
-      "global_card_id": "hard_stop_close_stop",
       "exists": true
     }
   ],
@@ -59,11 +39,7 @@
     "order_block",
     "fair_value_gap",
     "liquidity_sweep",
-    "oscillation_candle_combo",
-    "top_bottom_divergence",
-    "supply_zone",
-    "support_and_resistance_flip",
-    "hard_stop_close_stop"
+    "supply_zone"
   ],
   "school": "SMC",
   "asset": "GOLD",

@@ -32,11 +32,6 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -44,8 +39,7 @@
     "displacement",
     "fair_value_gap",
     "liquidity",
-    "market_structure",
-    "stop_loss"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "NQ1!",

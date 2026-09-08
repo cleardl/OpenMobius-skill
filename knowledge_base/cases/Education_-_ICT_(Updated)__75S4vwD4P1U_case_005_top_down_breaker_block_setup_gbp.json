@@ -42,11 +42,6 @@
       "term": "Standard Deviation Projection",
       "global_card_id": "standard_deviation_projection",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "displacement",
     "london_session",
     "top_down_analysis",
-    "standard_deviation_projection",
-    "risk_to_reward_ratio"
+    "standard_deviation_projection"
   ],
   "school": "ICT",
   "asset": "GBPUSD",

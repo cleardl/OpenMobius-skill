@@ -19,28 +19,13 @@
       "exists": true
     },
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
       "term": "Power of 3",
       "global_card_id": "accumulation_manipulation_distribution",
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Expansion",
       "global_card_id": "expansion",
-      "exists": true
-    },
-    {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
       "exists": true
     }
   ],
@@ -48,11 +33,8 @@
     "candle_two_closure",
     "change_in_state_of_delivery",
     "fair_value_gap",
-    "phases_of_price",
     "accumulation_manipulation_distribution",
-    "retracement",
-    "expansion",
-    "reversal_candle"
+    "expansion"
   ],
   "school": "ICT",
   "asset": "NG1!",

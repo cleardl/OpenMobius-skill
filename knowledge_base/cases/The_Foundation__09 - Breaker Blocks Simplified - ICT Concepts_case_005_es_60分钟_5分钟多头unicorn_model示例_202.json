@@ -47,16 +47,6 @@
       "term": "Timeframe Alignment",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -68,9 +58,7 @@
     "change_of_character",
     "unicorn_model",
     "top_down_analysis",
-    "multiple_timeframe_analysis",
-    "stop_loss",
-    "risk_to_reward_ratio"
+    "multiple_timeframe_analysis"
   ],
   "school": "ICT",
   "asset": "ES1!",

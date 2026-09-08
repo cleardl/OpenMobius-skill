@@ -24,16 +24,6 @@
       "exists": true
     },
     {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
-    },
-    {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
       "term": "Breakeven",
       "global_card_id": null,
       "exists": false
@@ -43,9 +33,7 @@
     "fair_value_gap",
     "order_block",
     "displacement",
-    "market_structure",
-    "risk_management",
-    "stop_loss"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "NAS100",

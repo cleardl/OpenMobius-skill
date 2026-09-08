@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Manipulation Leg",
       "global_card_id": "manipulation_leg",
       "exists": true
@@ -58,7 +53,6 @@
     "candle_two_closure",
     "change_in_state_of_delivery",
     "standard_deviation_projection",
-    "consolidation",
     "manipulation_leg",
     "previous_day_low",
     "formation_liquidity",

@@ -27,11 +27,6 @@
       "term": "Change in State of Delivery",
       "global_card_id": "change_in_state_of_delivery",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -39,8 +34,7 @@
     "unicorn_model",
     "fair_value_gap",
     "displacement",
-    "change_in_state_of_delivery",
-    "risk_to_reward_ratio"
+    "change_in_state_of_delivery"
   ],
   "school": "ICT",
   "asset": "EURUSD",

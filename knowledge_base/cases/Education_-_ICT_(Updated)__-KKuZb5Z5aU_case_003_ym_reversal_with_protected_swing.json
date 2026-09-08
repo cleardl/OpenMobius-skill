@@ -42,11 +42,6 @@
       "term": "V-Shape Reversal",
       "global_card_id": "v_shaped_reversal",
       "exists": true
-    },
-    {
-      "term": "OHLC",
-      "global_card_id": "open_high_low_close",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "liquidity_sweep",
     "equilibrium",
     "fair_value_gap",
-    "v_shaped_reversal",
-    "open_high_low_close"
+    "v_shaped_reversal"
   ],
   "school": "ICT",
   "asset": "YM1!",

@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Protected Swing",
       "global_card_id": "protected_swing",
       "exists": true
@@ -48,7 +43,6 @@
     "candle_two_closure",
     "candle_three_closure",
     "liquidity_sweep",
-    "consolidation",
     "protected_swing",
     "change_in_state_of_delivery",
     "point_of_interest",

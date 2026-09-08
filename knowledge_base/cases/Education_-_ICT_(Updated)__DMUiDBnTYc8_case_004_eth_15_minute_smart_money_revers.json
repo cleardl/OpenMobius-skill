@@ -57,11 +57,6 @@
       "term": "Failure Swing",
       "global_card_id": "failure_swing",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -75,8 +70,7 @@
     "mean_threshold",
     "asia_session",
     "new_york_open",
-    "failure_swing",
-    "risk_to_reward_ratio"
+    "failure_swing"
   ],
   "school": "ICT",
   "asset": "ETHUSD",

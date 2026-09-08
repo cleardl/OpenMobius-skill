@@ -34,21 +34,6 @@
       "exists": true
     },
     {
-      "term": "Stop Loss",
-      "global_card_id": "stop_loss",
-      "exists": true
-    },
-    {
-      "term": "Take Profit",
-      "global_card_id": "take_profit",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Draw On Liquidity",
       "global_card_id": "draw_on_liquidity",
       "exists": true
@@ -71,9 +56,6 @@
     "fair_value_gap",
     "kill_zone",
     "multiple_timeframe_analysis",
-    "stop_loss",
-    "take_profit",
-    "risk_to_reward_ratio",
     "draw_on_liquidity",
     "sell_side_liquidity",
     "previous_day_high"

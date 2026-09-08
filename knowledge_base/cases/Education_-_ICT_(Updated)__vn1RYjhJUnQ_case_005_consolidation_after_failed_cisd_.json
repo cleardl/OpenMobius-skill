@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Range Expansion",
       "global_card_id": "broadening_formation",
       "exists": true
@@ -36,7 +31,6 @@
   ],
   "illustrates_concepts": [
     "change_in_state_of_delivery",
-    "consolidation",
     "broadening_formation",
     "liquidity_sweep",
     "protected_swing",

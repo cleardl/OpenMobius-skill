@@ -37,11 +37,6 @@
       "term": "Market Structure Shift (MSS)",
       "global_card_id": null,
       "exists": false
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -49,8 +44,7 @@
     "equilibrium",
     "liquidity",
     "displacement",
-    "order_block",
-    "phases_of_price"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "SPX",

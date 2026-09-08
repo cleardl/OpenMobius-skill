@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Intermarket Analysis",
-      "global_card_id": "intermarket_analysis",
-      "exists": true
-    },
-    {
       "term": "Reversal",
       "global_card_id": "reversal",
       "exists": true
@@ -37,7 +32,6 @@
   "illustrates_concepts": [
     "smart_money_technique",
     "relative_strength_and_weakness",
-    "intermarket_analysis",
     "reversal",
     "protected_swing",
     "liquidity_sweep"

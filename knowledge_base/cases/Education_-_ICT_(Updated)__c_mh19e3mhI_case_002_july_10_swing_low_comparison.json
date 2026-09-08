@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Correlated Assets",
       "global_card_id": "correlated_pairs",
       "exists": true
@@ -32,7 +27,6 @@
   "illustrates_concepts": [
     "smart_money_technique",
     "relative_strength_and_weakness",
-    "swing_low",
     "correlated_pairs",
     "order_flow"
   ],

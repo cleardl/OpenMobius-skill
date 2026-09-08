@@ -14,11 +14,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Fair Value Gap (FVG)",
       "global_card_id": "fair_value_gap",
       "exists": true
@@ -47,22 +42,15 @@
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "expansion",
     "reversal",
-    "consolidation",
     "fair_value_gap",
     "protected_swing",
     "order_block",
-    "displacement",
-    "phases_of_price"
+    "displacement"
   ],
   "school": "ICT",
   "asset": "USD",

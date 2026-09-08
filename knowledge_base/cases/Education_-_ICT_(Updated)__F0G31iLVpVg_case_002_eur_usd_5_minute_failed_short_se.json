@@ -24,18 +24,8 @@
       "exists": true
     },
     {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
-      "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
       "exists": true
     }
   ],
@@ -44,9 +34,7 @@
     "fair_value_gap",
     "t_spot",
     "expansion",
-    "retracement",
-    "liquidity_sweep",
-    "consolidation"
+    "liquidity_sweep"
   ],
   "school": "ICT",
   "asset": "EURUSD",

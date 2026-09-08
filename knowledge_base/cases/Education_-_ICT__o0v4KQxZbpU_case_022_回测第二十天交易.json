@@ -22,25 +22,13 @@
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
-    },
-    {
-      "term": "Risk Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "Break Even",
-      "global_card_id": "break_even",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
     "liquidity_sweep",
     "displacement",
-    "order_block",
-    "risk_to_reward_ratio",
-    "break_even"
+    "order_block"
   ],
   "school": "ICT",
   "asset": "NAS100",

@@ -4,16 +4,6 @@
   "title": "ES巩固区间突破与低点回测长仓设置",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
-      "term": "Breakout",
-      "global_card_id": "breakout",
-      "exists": true
-    },
-    {
       "term": "Retest",
       "global_card_id": "retest",
       "exists": true
@@ -32,27 +22,13 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
-    "breakout",
     "retest",
     "order_block",
     "balanced_price_range",
-    "market_structure",
-    "swing_low",
-    "price_action"
+    "market_structure"
   ],
   "school": "SMC",
   "asset": "ES",

@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Continuation",
       "global_card_id": "continuation",
       "exists": true
@@ -51,7 +46,6 @@
   ],
   "illustrates_concepts": [
     "fair_value_gap",
-    "consolidation",
     "continuation",
     "v_shaped_reversal",
     "order_block",

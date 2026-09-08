@@ -4,16 +4,6 @@
   "title": "Identifying Swing Points and Sequential Liquidity Sweeps on EUR/USD 4-Hour Chart",
   "related_concepts": [
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Buy Side Liquidity",
       "global_card_id": "buy_side_liquidity",
       "exists": true
@@ -45,8 +35,6 @@
     }
   ],
   "illustrates_concepts": [
-    "swing_high",
-    "swing_low",
     "buy_side_liquidity",
     "sell_side_liquidity",
     "equal_highs",

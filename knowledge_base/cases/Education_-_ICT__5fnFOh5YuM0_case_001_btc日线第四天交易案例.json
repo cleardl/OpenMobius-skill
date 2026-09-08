@@ -4,11 +4,6 @@
   "title": "BTC日线第四天交易案例：从摆动低点到多时间框架入场",
   "related_concepts": [
     {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Market Structure Shift (MSS)",
       "global_card_id": null,
       "exists": false
@@ -65,7 +60,6 @@
     }
   ],
   "illustrates_concepts": [
-    "swing_low",
     "smart_money_technique",
     "fair_value_gap",
     "equilibrium",

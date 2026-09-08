@@ -75,11 +75,7 @@
   "merge_strategy": "cross_project_synthesis",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
-  "illustrated_by_cases": [
-    "Education_-_ICT_(Updated)__sIcsLFSNoXM_case_003_es_15_minute_bullish_reversal_af",
-    "Education_-_ICT__6zTz7WMdMWg_case_006_gbp_usd从4小时到1分钟的多时间框架交易执行",
-    "Education_-_ICT__EYzP7c24AwM_case_003_nq纳指期货多个时间框架分析"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "open_low_high_close",
   "canonical_term": "Open Low High Close",
   "_embedding": [

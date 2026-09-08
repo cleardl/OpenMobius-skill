@@ -27,18 +27,12 @@
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
-    },
-    {
-      "term": "Risk/Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "multiple_timeframe_analysis",
     "order_block",
-    "displacement",
-    "risk_to_reward_ratio"
+    "displacement"
   ],
   "school": "ICT",
   "asset": "ES1!",

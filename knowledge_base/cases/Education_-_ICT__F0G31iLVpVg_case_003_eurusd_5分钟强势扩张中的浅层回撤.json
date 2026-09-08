@@ -34,11 +34,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Higher Time Frame Candle",
       "global_card_id": null,
       "exists": false
@@ -49,8 +44,7 @@
     "fair_value_gap",
     "order_block",
     "protected_swing",
-    "market_structure",
-    "consolidation"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "EURUSD",

@@ -4,11 +4,6 @@
   "title": "黄金日线下跌趋势中的反弹复盘——15分钟订单块附近的错失机会",
   "related_concepts": [
     {
-      "term": "LH",
-      "global_card_id": "lower_high",
-      "exists": true
-    },
-    {
       "term": "OB",
       "global_card_id": "order_block",
       "exists": true
@@ -35,7 +30,6 @@
     }
   ],
   "illustrates_concepts": [
-    "lower_high",
     "order_block",
     "fair_value_gap",
     "demand_zone",

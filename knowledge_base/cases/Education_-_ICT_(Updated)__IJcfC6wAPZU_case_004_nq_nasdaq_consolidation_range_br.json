@@ -34,18 +34,8 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Protected Swing",
       "global_card_id": "protected_swing",
-      "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
       "exists": true
     }
   ],
@@ -56,9 +46,7 @@
     "liquidity_sweep",
     "time_frame_alignment",
     "order_block",
-    "consolidation",
-    "protected_swing",
-    "risk_to_reward_ratio"
+    "protected_swing"
   ],
   "school": "ICT",
   "asset": "NQ1!",

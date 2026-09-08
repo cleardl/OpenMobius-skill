@@ -19,38 +19,8 @@
       "exists": true
     },
     {
-      "term": "支阻互换",
-      "global_card_id": "support_and_resistance_flip",
-      "exists": true
-    },
-    {
       "term": "流动性扫射",
       "global_card_id": "liquidity_sweep",
-      "exists": true
-    },
-    {
-      "term": "扩缩级验证",
-      "global_card_id": "level_expansion_validation",
-      "exists": true
-    },
-    {
-      "term": "EMA60",
-      "global_card_id": "ema60",
-      "exists": true
-    },
-    {
-      "term": "R值",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
-      "term": "硬止损",
-      "global_card_id": "hard_stop_close_stop",
-      "exists": true
-    },
-    {
-      "term": "第一次原则",
-      "global_card_id": "first_touch_principle",
       "exists": true
     }
   ],
@@ -58,13 +28,7 @@
     "order_block",
     "demand_zone",
     "supply_zone",
-    "support_and_resistance_flip",
-    "liquidity_sweep",
-    "level_expansion_validation",
-    "ema60",
-    "risk_to_reward_ratio",
-    "hard_stop_close_stop",
-    "first_touch_principle"
+    "liquidity_sweep"
   ],
   "school": "SMC",
   "asset": "GOLD",

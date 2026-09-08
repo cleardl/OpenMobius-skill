@@ -4,16 +4,6 @@
   "title": "ES 1小时反转后的5分钟Candle 3延续交易",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
       "term": "V-shape Pattern",
       "global_card_id": null,
       "exists": false
@@ -34,11 +24,6 @@
       "exists": false
     },
     {
-      "term": "Risk/Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Order Block",
       "global_card_id": "order_block",
       "exists": true
@@ -50,10 +35,7 @@
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
-    "reversal_candle",
     "liquidity_sweep",
-    "risk_to_reward_ratio",
     "order_block",
     "market_structure"
   ],

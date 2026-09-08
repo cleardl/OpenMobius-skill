@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -32,21 +27,14 @@
       "term": "Equal Lows",
       "global_card_id": "equal_lows",
       "exists": true
-    },
-    {
-      "term": "Expansion Day",
-      "global_card_id": "expansion_day",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
     "fair_value_gap",
     "change_in_state_of_delivery",
     "order_block",
-    "consolidation",
     "displacement",
-    "equal_lows",
-    "expansion_day"
+    "equal_lows"
   ],
   "school": "ICT",
   "asset": "USDJPY",

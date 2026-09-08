@@ -27,11 +27,6 @@
       "term": "Sweep",
       "global_card_id": "liquidity_sweep",
       "exists": true
-    },
-    {
-      "term": "Risk Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -39,8 +34,7 @@
     "fair_value_gap",
     "displacement",
     "order_block",
-    "liquidity_sweep",
-    "risk_to_reward_ratio"
+    "liquidity_sweep"
   ],
   "school": "ICT",
   "asset": "NAS100",

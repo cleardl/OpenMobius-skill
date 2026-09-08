@@ -39,11 +39,6 @@
       "exists": true
     },
     {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Bias",
       "global_card_id": "bias",
       "exists": true
@@ -72,7 +67,6 @@
     "liquidity_sweep",
     "change_of_character",
     "draw_on_liquidity",
-    "risk_to_reward_ratio",
     "bias",
     "market_structure",
     "entry",

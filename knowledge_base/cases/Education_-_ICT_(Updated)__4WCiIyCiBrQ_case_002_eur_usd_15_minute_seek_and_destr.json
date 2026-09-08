@@ -52,11 +52,6 @@
       "term": "Daily Profile",
       "global_card_id": "daily_profile",
       "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -69,8 +64,7 @@
     "daily_open",
     "displacement",
     "liquidity_sweep",
-    "daily_profile",
-    "consolidation"
+    "daily_profile"
   ],
   "school": "ICT",
   "asset": "EURUSD",

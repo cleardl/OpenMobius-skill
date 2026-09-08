@@ -37,11 +37,6 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Limit Order",
-      "global_card_id": "limit_order",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "break_of_structure",
     "liquidity_sweep",
     "inducement",
-    "market_structure",
-    "limit_order"
+    "market_structure"
   ],
   "school": "SMC",
   "asset": "EURUSD",

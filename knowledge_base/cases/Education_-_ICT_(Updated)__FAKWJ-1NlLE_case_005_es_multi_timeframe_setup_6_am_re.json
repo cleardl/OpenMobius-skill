@@ -57,11 +57,6 @@
       "term": "POI",
       "global_card_id": "point_of_interest",
       "exists": true
-    },
-    {
-      "term": "Risk to Reward",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -75,8 +70,7 @@
     "kill_zone",
     "failure_swing",
     "displacement",
-    "point_of_interest",
-    "risk_to_reward_ratio"
+    "point_of_interest"
   ],
   "school": "ICT",
   "asset": "NQ1!",

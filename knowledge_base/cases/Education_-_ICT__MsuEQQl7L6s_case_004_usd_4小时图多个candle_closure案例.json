@@ -29,11 +29,6 @@
       "exists": true
     },
     {
-      "term": "Swing High/Low",
-      "global_card_id": "swing_high_swing_low",
-      "exists": true
-    },
-    {
       "term": "Price Continuation",
       "global_card_id": null,
       "exists": false
@@ -44,8 +39,7 @@
     "candle_three_closure",
     "candle_two_closure",
     "order_block",
-    "market_structure",
-    "swing_high_swing_low"
+    "market_structure"
   ],
   "school": "ICT",
   "asset": "USD",

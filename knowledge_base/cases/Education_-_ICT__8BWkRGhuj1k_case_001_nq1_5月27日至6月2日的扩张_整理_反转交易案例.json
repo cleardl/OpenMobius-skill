@@ -9,16 +9,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -66,8 +56,6 @@
   ],
   "illustrates_concepts": [
     "expansion",
-    "consolidation",
-    "retracement",
     "displacement",
     "fair_value_gap",
     "order_block",

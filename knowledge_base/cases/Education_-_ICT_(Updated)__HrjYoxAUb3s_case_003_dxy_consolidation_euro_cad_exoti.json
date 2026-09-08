@@ -4,23 +4,8 @@
   "title": "DXY Consolidation Triggers Non-Dollar Pairing: EUR/CAD Selected via Strength-Weakness Analysis",
   "related_concepts": [
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
-    },
-    {
       "term": "Relative Strength",
       "global_card_id": "relative_strength_and_weakness",
-      "exists": true
-    },
-    {
-      "term": "Intermarket Analysis",
-      "global_card_id": "intermarket_analysis",
       "exists": true
     },
     {
@@ -32,21 +17,12 @@
       "term": "Daily Bias",
       "global_card_id": "daily_bias",
       "exists": true
-    },
-    {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "consolidation",
-    "retracement",
     "relative_strength_and_weakness",
-    "intermarket_analysis",
     "expansion",
-    "daily_bias",
-    "phases_of_price"
+    "daily_bias"
   ],
   "school": "ICT",
   "asset": "DXY",

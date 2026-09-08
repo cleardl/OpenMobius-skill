@@ -49,11 +49,6 @@
       "exists": true
     },
     {
-      "term": "Risk Reward Ratio",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
-    },
-    {
       "term": "Multi-Timeframe Analysis",
       "global_card_id": "multiple_timeframe_analysis",
       "exists": true
@@ -69,7 +64,6 @@
     "premium_and_discount",
     "point_of_interest",
     "premium_discount_array",
-    "risk_to_reward_ratio",
     "multiple_timeframe_analysis"
   ],
   "school": "ICT",

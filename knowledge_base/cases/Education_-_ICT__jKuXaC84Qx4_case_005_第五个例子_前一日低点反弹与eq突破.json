@@ -19,11 +19,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
@@ -43,7 +38,6 @@
     "equilibrium",
     "v_shaped_reversal",
     "candle_two_closure",
-    "swing_high",
     "market_structure",
     "correlated_pairs",
     "fractal_model"

@@ -27,11 +27,6 @@
       "term": "Killzone",
       "global_card_id": "kill_zone",
       "exists": true
-    },
-    {
-      "term": "Price Action",
-      "global_card_id": "price_action",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -39,8 +34,7 @@
     "liquidity",
     "market_structure",
     "order_block",
-    "kill_zone",
-    "price_action"
+    "kill_zone"
   ],
   "school": "ICT",
   "asset": "BTCUSDT",

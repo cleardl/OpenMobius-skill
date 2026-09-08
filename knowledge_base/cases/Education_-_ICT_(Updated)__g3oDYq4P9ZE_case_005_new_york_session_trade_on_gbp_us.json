@@ -34,11 +34,6 @@
       "exists": false
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
       "term": "Displacement",
       "global_card_id": "displacement",
       "exists": true
@@ -50,7 +45,6 @@
     "point_of_interest",
     "midnight_open",
     "kill_zone",
-    "swing_high",
     "displacement"
   ],
   "school": "ICT",

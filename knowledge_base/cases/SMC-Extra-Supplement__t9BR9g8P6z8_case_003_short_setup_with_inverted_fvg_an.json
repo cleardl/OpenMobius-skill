@@ -37,11 +37,6 @@
       "term": "Market Structure",
       "global_card_id": "market_structure",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -51,8 +46,7 @@
     "premium",
     "liquidity_sweep",
     "partial_profit_taking",
-    "market_structure",
-    "risk_management"
+    "market_structure"
   ],
   "school": "SMC",
   "asset": "EURUSD",

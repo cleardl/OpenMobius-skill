@@ -4,28 +4,8 @@
   "title": "ETH Daily Consolidation Sweep with Confirmed Swing Low and Hourly/5-Minute Continuation Entry",
   "related_concepts": [
     {
-      "term": "Phases of Price",
-      "global_card_id": "phases_of_price",
-      "exists": true
-    },
-    {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Liquidity Sweep",
       "global_card_id": "liquidity_sweep",
-      "exists": true
-    },
-    {
-      "term": "Reversal Candle",
-      "global_card_id": "reversal_candle",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
       "exists": true
     },
     {
@@ -62,27 +42,17 @@
       "term": "Continuation Entry",
       "global_card_id": "retest_entry",
       "exists": true
-    },
-    {
-      "term": "2R",
-      "global_card_id": "risk_to_reward_ratio",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
-    "phases_of_price",
-    "consolidation",
     "liquidity_sweep",
-    "reversal_candle",
-    "swing_low",
     "candle_3_continuation",
     "change_in_state_of_delivery",
     "fair_value_gap",
     "order_block",
     "draw_on_liquidity",
     "equal_highs",
-    "retest_entry",
-    "risk_to_reward_ratio"
+    "retest_entry"
   ],
   "school": "ICT",
   "asset": "ETHUSD",

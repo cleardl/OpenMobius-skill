@@ -24,16 +24,6 @@
       "exists": true
     },
     {
-      "term": "Swing High",
-      "global_card_id": "swing_high",
-      "exists": true
-    },
-    {
-      "term": "Swing Low",
-      "global_card_id": "swing_low",
-      "exists": true
-    },
-    {
       "term": "Top Down Analysis",
       "global_card_id": "top_down_analysis",
       "exists": true
@@ -64,8 +54,6 @@
     "break_of_structure",
     "liquidity_sweep",
     "market_structure",
-    "swing_high",
-    "swing_low",
     "top_down_analysis",
     "multiple_timeframe_analysis",
     "bias",

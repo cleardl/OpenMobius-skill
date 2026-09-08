@@ -42,11 +42,6 @@
       "term": "Fair Value Gap",
       "global_card_id": "fair_value_gap",
       "exists": true
-    },
-    {
-      "term": "Risk Management",
-      "global_card_id": "risk_management",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "sell_side_liquidity",
     "order_block",
     "accumulation_manipulation_distribution",
-    "fair_value_gap",
-    "risk_management"
+    "fair_value_gap"
   ],
   "school": "ICT",
   "asset": "ES (E-MINI S&P 500 FUTURES)",

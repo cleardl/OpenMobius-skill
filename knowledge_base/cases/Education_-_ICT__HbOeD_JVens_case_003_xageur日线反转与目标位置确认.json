@@ -42,11 +42,6 @@
       "term": "Reversal",
       "global_card_id": "reversal",
       "exists": true
-    },
-    {
-      "term": "Retracement",
-      "global_card_id": "retracement",
-      "exists": true
     }
   ],
   "illustrates_concepts": [
@@ -57,8 +52,7 @@
     "fair_value_gap",
     "high_resistance_liquidity",
     "smart_money_technique",
-    "reversal",
-    "retracement"
+    "reversal"
   ],
   "school": "ICT",
   "asset": "XAGEUR",

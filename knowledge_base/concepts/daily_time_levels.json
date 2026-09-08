@@ -53,9 +53,7 @@
   "merge_strategy": "cross_project_synthesis",
   "merged_at": "2026-06-26T18:53:01.251807+00:00",
   "merge_model": "claude-opus-4-8",
-  "illustrated_by_cases": [
-    "Daily_Profiles__y6SnEdASVLY_case_004_es_s_p_500_london_reversal_with_"
-  ],
+  "illustrated_by_cases": [],
   "card_id": "daily_time_levels",
   "canonical_term": "Daily Time Levels",
   "_embedding": [

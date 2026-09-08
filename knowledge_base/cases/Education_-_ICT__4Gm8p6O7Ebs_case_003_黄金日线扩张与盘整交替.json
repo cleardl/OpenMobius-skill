@@ -9,11 +9,6 @@
       "exists": true
     },
     {
-      "term": "Consolidation",
-      "global_card_id": "consolidation",
-      "exists": true
-    },
-    {
       "term": "Protected Swing",
       "global_card_id": "protected_swing",
       "exists": true
@@ -41,7 +36,6 @@
   ],
   "illustrates_concepts": [
     "displacement",
-    "consolidation",
     "protected_swing",
     "market_structure_shift",
     "fractal",

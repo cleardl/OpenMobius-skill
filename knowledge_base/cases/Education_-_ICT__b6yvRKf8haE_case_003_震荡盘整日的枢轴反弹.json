@@ -29,11 +29,6 @@
       "exists": false
     },
     {
-      "term": "Pivot Point",
-      "global_card_id": "pivot_points",
-      "exists": true
-    },
-    {
       "term": "Manipulation",
       "global_card_id": "manipulation",
       "exists": true
@@ -49,7 +44,6 @@
     "fair_value_gap",
     "displacement",
     "mitigation_block",
-    "pivot_points",
     "manipulation",
     "market_structure"
   ],
